@@ -1,0 +1,69 @@
+---
+title: "Richard Morse: Renewable Energy Investment"
+description: "."
+image: /files/headshots/richard-morse.jpeg
+author: "Climate Guest Speakers"
+date: "2024-09-22"
+#categories: [news, event]
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: richard-morse
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 3
+  image-height: 250px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://drganghe.github.io
+      image: /files/headshots/richard-morse.jpeg
+      title: "Richard Morse"
+#      author: 
+      subtitle: "Affiliation"
+#      date: "2024-03-12"
+#      categories: [] 
+
+
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Role of Clean Energy Global Supply Chains in Achieving Climate Goals
+
+### Time
+
+Monday, September 22, 6:05PM - 7:00PM
+
+### Venue 
+Online via zoom. Please email for access.
+
+## About
+Global clean energy supply chains stand at a critical intersection of integration and decoupling. The panel will discuss the evolving landscape, benefits and challenges, and future directions of clean energy global supply chains, to meet climate goals while addressing growing international and domestic concerns. 
+
+
+## Speaker
+
+:::{#richard-morse}
+:::
+
+
+### Bio
+
+
+## Readings
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

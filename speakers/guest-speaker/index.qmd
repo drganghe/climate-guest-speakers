@@ -1,0 +1,67 @@
+---
+title: "Guest Speaker: Lecture title"
+description: "One sentence summary of speaker's sharing."
+image: /files/headshots/you.png
+author: "Climate Guest Speakers"
+date: "2024-09-22"
+categories: [Climate and Career, Climate and Community]
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 3
+  image-height: 250px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://linkedin.com  #linkedin profile or personal website
+      image: /files/headshots/you.png
+      title: "Guest Speaker"
+#      author: 
+      subtitle: "Affiliation"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Speaker's lecture title
+
+### Time
+
+Monday, Date, 6:05PM - 7:00PM
+
+### Venue 
+Online via zoom. Please email for access.
+
+## About
+
+More information about the speaker's session.
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+
+## Readings
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

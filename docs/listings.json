@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/speakers/richard-morse/index.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/speakers/guest-speaker/index.html"
+    ]
+  },
+  {
+    "listing": "/speakers.html",
+    "items": [
+      "/speakers/guest-speaker/index.html"
+    ]
+  },
+  {
+    "listing": "/speakers/guest-speaker/index.html",
+    "items": []
+  }
+]

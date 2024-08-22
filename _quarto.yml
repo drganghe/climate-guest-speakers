@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Climate Guest Speakers"
+#  image: "/files/logo.jpeg"
+  description: "Guest speakers in the Energy and Climate Policy and Energy, Climate, and Society class."
+ 
+  navbar:
+#    background: "#05336B"
+#    foreground: "#FFFFFF"
+    left:
+      - text: About
+        href: about.qmd 
+      - text: All Speakers
+        href: speakers.qmd
+    right:
+      - icon: github
+        href: https://github.com/drganghe/climate-guest-speakers
+      - icon: twitter 
+        href: https://twitter.com/drganghe  
+  page-navigation: true
+  page-footer: 
+    left: "[Climate Guest Speakers](http://deeppolicylab.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    right:  
+      - icon: github
+        href: https://github.com/drganghe/climate-guest-speakers
+      - icon: twitter 
+        href: https://twitter.com/drganghe
+  search:
+    location: navbar
+    type: textbox
+  reader-mode: true
+  repo-url: https://github.com/drganghe/climate-guest-speakers
+#  repo-actions: [edit, issue, source]
+  open-graph: true
+  twitter-card: true 
+#  card-style: summary      
+  site-url: "http://drganghe.github.io/climate-guest-speakers"
+  google-analytics:
+    tracking-id: "G-G4DYZHP5J7"
+    anonymize-ip: true 
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true 
+
+
+
