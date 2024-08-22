@@ -1,0 +1,52 @@
+---
+title: "Support"
+css: custom.css
+toc: false
+#image: 
+#page-layout: full
+
+listing: 
+- id: resources
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, description]
+  grid-item-align: left
+  grid-columns: 1
+  image-height: 250px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://marxe.baruch.cuny.edu/about/
+      image: /files/images/Marxe-30.jpg
+      title: "Marxe School of Public and International Affairs"
+#      author: 
+      subtitle: "Advancing Public Service Education"
+      description: "Our mission is to educate and empower leaders, advance knowledge about societies and policies, and engage diverse communities across New York City and the world to develop inclusive, adaptable, and effective institutions."
+#      date: "2022-10-26"
+#      categories: [] 
+
+---
+
+```{=html}
+    <div class="container">
+        <!-- Guest Speaker Button -->
+        <a href="https://forms.gle/AD4pujkhQkGiUHT69" class="btn speaker-btn">Interested to be a Guest Speaker</a>
+
+        <!-- Register for Event Button -->
+        <a href="https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw" class="btn register-btn">Register to Participate</a>
+
+        <!-- Donate to Support Students Button -->
+        <a href="https://www.givecampus.com/schools/BaruchCollegeCUNY/marxe-30th-anniversary" class="btn donate-btn">Donate to Support Our Climate Students</a>
+
+        <!-- Join Marxe MPA Button -->
+        <a href="https://marxe.baruch.cuny.edu/homepage/academics/master-of-public-administration/" class="btn donate-btn">Get an MPA with Climate Change Specialization</a>
+    </div>
+```
+
+## Resources
+
+:::{#resources}
+:::
+
+

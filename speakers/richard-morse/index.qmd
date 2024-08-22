@@ -1,0 +1,72 @@
+---
+title: "Ketch Morse: Renewable Energy Investment"
+description: "Ketch Morse will share his insights on renewable energy investment and opportunities driven by the Inflation Reduction Act."
+image: /files/headshots/richard-morse.jpeg
+author: "Climate Guest Speakers"
+date: "2024-09-16"
+categories: [Climate and Markets]
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.linkedin.com/in/richard-morse-041a597/
+      image: /files/headshots/richard-morse.jpeg
+      title: "Ketch Morse"
+#      author: 
+      subtitle: "Infrastructure and Energy Private Investment Firm"
+#      date: "2024-03-12"
+#      categories: [] 
+
+
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Renewable Energy Investment
+
+### Time
+
+Monday, September 16, 6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+Ketch Morse will share his insights on renewable energy investment and opportunities driven by the Inflation Reduction Act.
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Ketch Morse has been working in energy and climate analysis and investment since 2006.
+
+
+## Readings
+
+EPA, [Summary of Inflation Reduction Act provisions related to renewable energy](https://www.epa.gov/green-power-markets/summary-inflation-reduction-act-provisions-related-renewable-energyy).
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

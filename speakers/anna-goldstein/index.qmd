@@ -1,0 +1,75 @@
+---
+title: "Anna Goldstein: Project Management for Breakthrough Clean Energy Research"
+description: "Active project management enables risk mitigation across a portfolio of research projects"
+image: /files/headshots/anna-goldstein.jpg
+author: "Climate Guest Speakers"
+date: "2020-04-15"
+categories: [Climate New Research, Climate and Innovation]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.linkedin.com/in/annagoldstein #linkedin profile or personal website
+      image: /files/headshots/anna-goldstein.jpg 
+      title: "Dr. Anna Goldstein"
+#      author: 
+      subtitle: "Senior Research Fellow, University of Massachusetts, Amherst"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+
+### Time
+
+{{< meta date >}}   
+
+7PM - 8PM ET
+
+### Venue 
+Online via zoom. 
+
+## About
+
+Public research funding programs typically make grants with minimal intervention by program staff, rather than using a hands-on approach to project management, which is more common in the private sector. In contrast, program staff at the US Department of Energy's Advanced Research Projects Agency – Energy (ARPA-E) are given a set of real options with which to manage funded projects: abandon, contract or expand project budgets or timelines. Using internal data from ARPA-E, we show that active project management enables risk mitigation across a portfolio of research projects. We find that program staff modify projects frequently, especially project timelines, and these changes are more sensitive to poor performance than to strong performance. We also find that projects with a shortened timeline or reduced budget are less likely to generate short-term research outputs, compared to those of ultimately similar size. This evidence suggests that the practice of active project management, when combined with high upfront risk tolerance, can be used to enhance the productivity of mission-oriented public research funding.
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Anna Goldstein is the Executive Director of the Energy Transition Institute and a Senior Research Fellow at UMass Amherst. Her research specialty is policy and management of energy technology innovation. Anna was previously a postdoc at the Carnegie Institution for Science and at the Belfer Center for Science and International Affairs at Harvard Kennedy School. She holds a Ph.D. in Chemistry from the University of California, Berkeley.
+
+
+## Readings
+
+- Goldstein, Anna P., and Michael Kearney. 2020. “Know When to Fold ‘em: An Empirical Description of Risk Management in Public Research Funding.” *Research Policy* 49 (1): 103873. <https://doi.org/10.1016/j.respol.2019.103873>.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

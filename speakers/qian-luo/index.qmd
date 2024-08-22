@@ -1,0 +1,80 @@
+---
+title: "Qian Luo: Use modeling tools to understand environmental impacts of energy systems"
+description: "Modeling the environmental impacts of energy systems"
+image: /files/headshots/qian-luo.jpeg
+author: "Climate Guest Speakers"
+date: "2025-03-17"
+categories: [Climate and Environment, Climate New Research, Climate and Energy]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.linkedin.com/in/qian-luo-0a4a15138/ #linkedin profile or personal website
+      image: /files/headshots/qian-luo.jpeg
+      title: "Dr. Qian Luo"
+#      author: 
+      subtitle: "Associate Research Scholar, Andlinger Center for Energy and the Environment at Princeton University"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Use modeling tools to understand environmental impacts of energy systems
+
+
+### Time
+
+Monday, March 17, 2025    
+
+6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+The urgent need to decarbonize energy systems is driven by the dual challenges of climate change and public health, as fossil fuels used to provide energy contribute significantly to greenhouse gas emissions and air pollution. Modeling tools are essential for understanding the complex dynamics of energy systems, enabling us to evaluate pathways toward decarbonization. This talk explores how modeling can address three critical questions: (1) the cost-effectiveness and market potential of emerging decarbonization technologies, (2) the impact of policies on energy system transitions, and (3) the public health implications of clean energy transition. By integrating techno-economic, policy, and health impact analyses, these tools provide useful insights for designing effective decarbonization strategies.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Qian is an Associate Research Scholar working in the interdisciplinary field of energy system, air quality, and public health. By integrating engineering-based processes into energy system optimization models and linking air quality modeling and energy system models, she tries to provide insights on how to effectively decarbonize the system, while increasing the co-benefits in public health. She previously worked at the National Renewable Energy Laboratory and the Lawrence Berkeley National Laboratory as graduate interns. She received her Ph.D. degree in environmental engineering from North Carolina State University, M.S. degree from Georgia Institute of Technology, and B.S. degree from Xiamen University.
+
+
+## Readings
+
+- Luo, Qian, and Jesse D. Jenkins. 2025. “US EPA’s Power Plant Rules Reduce CO2 Emissions but Can Achieve More Cost-Efficient and Deeper Reduction by Regulating Existing Gas-Fired Plants.” *One Earth*. <https://doi.org/10.1016/j.oneear.2025.101230>.
+- Luo, Qian, Liqun Peng, Gang He, and Jiang Lin. 2025. “Cost-Effectiveness of Removing the Last 10-20% Emissions of China’s Power Sector.” *Environmental Research Letters*. <https://doi.org/10.1088/1748-9326/adc0b3>.
+- Luo, Qian, Fernando Garcia-Menendez, Jiang Lin, Gang He, and Jeremiah X. Johnson. 2023. “Accelerating China’s Power Sector Decarbonization Can Save Lives: Integrating Public Health Goals into Power Sector Planning Decisions.” *Environmental Research Letters* 18 (10): 104023. <https://doi.org/10.1088/1748-9326/acf84b>.  
+- Luo, Qian, Fernando Garcia-Menendez, Haozhe Yang, Ranjit Deshmukh, Gang He, Jiang Lin, and Jeremiah X. Johnson. 2023. “The Health and Climate Benefits of Economic Dispatch in China’s Power System.” *Environmental Science & Technology* 57 (7): 2898–2906. <https://doi.org/10.1021/acs.est.2c05663>. 
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

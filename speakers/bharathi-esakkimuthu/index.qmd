@@ -1,0 +1,67 @@
+---
+title: "Bharathi Esakkimuthu: Climate Career Options and Skills"
+description: "Bharathi will use her experiences to share the multiple venues for climate careers and what skills can be useful in each of those career paths."
+image: /files/headshots/bharathi-esakkimuthu.jpg
+author: "Climate Guest Speakers"
+date: "2024-11-11"
+categories: [Climate and Career]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.linkedin.com/in/bharathiesakkimuthu/ #linkedin profile or personal website
+      image: /files/headshots/bharathi-esakkimuthu.jpg
+      title: "Bharathi Esakkimuthu"
+#      author: 
+      subtitle: "Clean Energy and Climate"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Climate Career Options and Skills
+
+### Time
+
+Monday, November 11, 2024, 6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+Climate solutions are needed in every sector and therefore opportunities to provide climate services are increasing everyday. I am hoping to use my experiences to share the multiple venues for climate careers and what skills can be useful in each of those career paths.
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Bharathi Esakkimuthu is a Clean Energy and Climate Change Professional with over 9 years of experience in North American climate action. With a background in Engineering and a Masters in Energy Technology and Policy, she has worked on developing clean energy and climate change solutions to decarbonize various sectors in US and Canada. She specializes in providing public and private sector clients with solutions to reduce their scope 2 emissions through various clean procurement mechanisms.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

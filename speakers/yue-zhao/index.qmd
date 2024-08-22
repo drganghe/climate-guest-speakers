@@ -1,0 +1,71 @@
+---
+title: "Yue Zhao: How should we pay the renewables? "
+description: "Offer promising results on how we should pay renewables in bulk power markets"
+image: /files/headshots/yue-zhao.jpg
+author: "Climate Guest Speakers"
+date: "2018-11-14"
+categories: [Climate New Research, Climate and Markets]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.ece.stonybrook.edu/~yzhao/ #linkedin profile or personal website
+      image: /files/headshots/yue-zhao.jpg 
+      title: "Dr. Yue Zhao"
+#      author: 
+      subtitle: "Assistant Professor, Stony Brook University"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+
+### Time
+
+{{< meta date >}}   
+
+7PM - 8PM ET
+
+### Venue 
+Online via zoom. 
+
+## About
+
+The penetration of renewable energies into our power systems has taken off drastically in recent years. Both utility-scale wind and solar farms as well as small-scale distributed energy resources (DERs), notably rooftop solar, are major ingredients of this transition. Related to the engineering solutions of compensating for the intermittency of renewable energies, a prominent concerning question is how should we pay the renewable energies, so that the integration of renewables can be sustained in the long run to reach the ambitious levels many countries and states are targeting. This talk will a) take an in-depth look into the current practice and its issues, b) provide a case study of what happens when peer-to-peer solar energy trading is implemented in a net-metered community, c) offer promising results on how we should pay renewables in bulk power markets. 
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+I am an Assistant Professor of Electrical and Computer Engineering at Stony Brook University. I am also an affiliated faculty member of Applied Mathematics and Statistics. Before joining Stony Brook University, I was a postdoctoral scholar with the Electrical Engineering Departments at Stanford University and Princeton University. I received my Ph.D. degree in Electrical Engineering from University of California, Los Angeles (UCLA) in 2011. I received my B.E. degree from the Department of Electronic Engineering at Tsinghua University in 2006.
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

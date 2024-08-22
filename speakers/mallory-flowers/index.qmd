@@ -1,0 +1,72 @@
+---
+title: "Mallory Flowers: Carbon Disclosure--the Intersect of Public and Private Climate Governance"
+description: "Carbon Disclosure--the Intersect of Public and Private Climate Governance"
+image: /files/headshots/mallory-flowers.webp
+author: "Climate Guest Speakers"
+date: "2025-09-15"
+categories: [Climate and Governance, Climate New Research]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://web.uri.edu/business/meet/mallory-flowers/ #linkedin profile or personal website
+      image: /files/headshots/mallory-flowers.webp
+      title: "Dr. Mallory Flowers"
+#      author: 
+      subtitle: "Assistant Professor, University of Rhode Island"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+
+### Time
+
+{{< meta date >}}   
+
+6:00PM - 7:00PM ET
+
+### Venue 
+
+Online via zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
+
+## About
+
+Dr. Flowers will share her research on how companies strategize for decarbonization.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Mallory Elise Flowers is an Assistant Professor of Management in the College of Business at the University of Rhode Island. Her teaching focus is in the Strategy area; her research explores private governance at the intersect of business, policy, and technology. Mallory has studied corporate sustainability and social responsibility in the real estate, finance, and global commodities trades.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

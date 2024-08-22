@@ -1,0 +1,71 @@
+---
+title: "Beia Spiller: The transition to a decarbonized transport sector"
+description: "Transporation Decarbonization and Climate Policy"
+image: /files/headshots/beia-spiller.webp
+author: "Climate Guest Speakers"
+date: "2025-10-27"
+categories: [Climate and Energy, Climate New Research]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.rff.org/people/beia-spiller/ #linkedin profile or personal website
+      image: /files/headshots/beia-spiller.webp
+      title: "Dr. Beia Spiller"
+#      author: 
+      subtitle: "Fellow; Director, Transportation Program, Resources for the Future (RFF)"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+
+### Time
+
+{{< meta date >}}  
+
+6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
+
+## About
+
+Dr. Spiller will share her research on transporation decarbonization.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Beia Spiller is a fellow and the director for RFF's Transportation Program. Prior to joining RFF, she was Lead Senior Economist at Environmental Defense Fund. She received her PhD from the Department of Economics at Duke University. Her primary field is Energy and Environmental Economics. Her work includes research on vehicle electrification, public and private transportation, electricity pricing and regulation, gasoline taxes, energy policies, emissions modeling, distributed energy resources, environmental justice, ex-post policy analysis, and health impacts of air pollution.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

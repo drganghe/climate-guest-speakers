@@ -1,0 +1,41 @@
+---
+title: "Student Stories"
+subtitle: "Students whose potential we may spark, and who may spark something in us"
+page-layout: full
+toc: false
+#author: "DEEP Lab"
+#date: "2023-03-20"
+#categories: [news, job]
+#image: "featured.jpeg"
+#css: /custom.css
+listing: 
+- id: students
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, description, date]
+  grid-item-align: left
+  grid-columns: 3
+  image-height: 200px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents: student-stories.yml
+---
+
+
+:::{#students}
+:::
+
+
+<!--
+## Student Testimonies
+
+"I really appreciated all the guests who connected via Zoom to talk to us and share their perspectives on climate."
+
+-- 2024 Fall Student Evaluation
+
+-->
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

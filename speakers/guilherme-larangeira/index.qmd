@@ -1,0 +1,70 @@
+---
+title: "Gui Larangeira: Perspectives on energy transition from industry--Renewables and energy storage"
+description: "Address the drivers for battery energy storage system adoption, its economics and its benefits"
+image: /files/headshots/guilherme-larangeira.jpg
+author: "Climate Guest Speakers"
+date: "2025-03-24"
+categories: [Climate and Industry, Climate and Energy]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.linkedin.com/in/glarange/ #linkedin profile or personal website
+      image: /files/headshots/guilherme-larangeira.jpg
+      title: "Gui Larangeira"
+#      author: 
+      subtitle: "WEG Electric Corp."
+#      date: "2024-03-12"
+#      categories: []
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Perspectives on energy transition from industry: Renewables and energy storage
+
+
+### Time
+
+Monday, March 24, 2025    
+6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+One of the most frequent criticisms leveled at renewable energy is its inherent intermittency.   Moreover, solar energy peaks around noon, whereas peak electricity demand is in the early evening. One way to mitigate intermittency and peak solar/load misalignment is to deploy energy storage. Energy storage can take many forms, from traditional pumped hydro to more recent electrochemical batteries. In this talk, we will address the drivers for battery energy storage system adoption, its economics and its benefits.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Gui is an electrical engineer who started his career in the telecoms field but then made a career transition six years ago, when he enrolled in the Stont Brook Technology and Society PhD program in Technology Policy. Since then, Gui has interned at the ARPA-E, Brookhaven National Lab and worked at ISO-NE and WEG Electric Corp.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

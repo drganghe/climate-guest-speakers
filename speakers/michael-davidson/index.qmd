@@ -1,0 +1,76 @@
+---
+title: "Michael Davidson: Decoupling from China--Risks and Rewards for the Climate"
+description: "Highlight five primary risks to integration—separated into their economic and national security implications—and apply them to five leading low-carbon technologies"
+image: /files/headshots/michael-davidson.jpg 
+author: "Climate Guest Speakers"
+date: "2023-02-16"
+categories: [Climate New Research, Climate and Energy]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://gps.ucsd.edu/faculty-directory/michael-davidson.html #linkedin profile or personal website
+      image: /files/headshots/michael-davidson.jpg 
+      title: "Dr. Michael Davidson"
+#      author: 
+      subtitle: "Assistant Professor, University of California, San Diego"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+
+### Time
+
+{{< meta date >}}   
+
+11:30AM - 12:30PM ET
+
+### Venue 
+Online via zoom. 
+
+## About
+
+China plays, and will likely continue to play, an indispensable role in research, development, and demonstration (RD&D) and manufacturing of low-carbon technologies that are necessary to address climate change. For example, China’s scale-up capabilities that are underpinned by manufacturing process improvements, supply chain optimization, and deep government support have contributed to substantial reductions in costs for mature technologies such as solar photovoltaics (PV) (1). However, the growing size of these economic sectors, coupled with national security concerns over the strong dependence on China in certain critical industries, has prompted policy-makers from Washington to Brussels to ask whether to alter course. Recognizing that economic and national security risks differ across technologies and the nature of a country’s integration with China, we highlight five primary risks to integration—separated into their economic and national security implications—and apply them to five leading low-carbon technologies: solar, wind, batteries, “green” steel, and carbon capture and sequestration (CCS).
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Michael Davidson is an assistant professor joint with the School of Global Policy and Strategy and the Mechanical and Aerospace Engineering Department at the University of California, San Diego. Dr. Davidson’s teaching and research focus on the engineering implications and institutional conflicts inherent in deploying low-carbon energy at scale to mitigate environmental harms, specializing in applications to China, India, and the U.S. Michael holds a Ph.D. in engineering systems and an S.M. in technology and policy from MIT, and a B.S. in mathematics and physics and a B.A. in Japanese studies from Case Western Reserve University. He has held a post-doctoral fellowship at the Harvard Kennedy School’s Belfer Center for Science and International Affairs, received a Fulbright Fellowship to study at Tsinghua University, and worked on U.S.-China climate policy for the Natural Resources Defense Council.
+
+
+## Readings
+
+- Davidson, Michael R., Valerie J. Karplus, Joanna I. Lewis, Jonas Nahm, and Alex Wang. 2022. “Risks of Decoupling from China on Low-Carbon Technologies.” *Science* 377 (6612): 1266–69. <https://doi.org/10.1126/science.abq5446>.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

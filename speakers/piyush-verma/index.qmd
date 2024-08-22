@@ -1,0 +1,82 @@
+---
+title: "Piyush Verma: Energy Governance in 21st Century-Challenges and strategies"
+description: "Strengthening Energy Governance Systems: An Energy Governance Framework for a Just Energy Transition"
+image: /files/headshots/piyush-verma.jpeg 
+author: "Climate Guest Speakers"
+date: "2023-10-23"
+categories: [Climate and Governance]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 350px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.undp.org/authors/piyush-verma #linkedin profile or personal website
+      image: /files/headshots/piyush-verma.jpeg 
+      title: "Dr. Piyush Verma"
+#      author: 
+      subtitle: "Senior Governance Expert-Energy, UNDP"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Energy Governance in 21st Century: Challenges and strategies
+
+### Time
+
+Monday, October 23, 2023, 6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+The world faces an unprecedented challenge: the dire consequences of climate change driven by excessive fossil fuel consumption. Alongside this, the SDG 7 - 2023 tracking report reveals that more than 675 million people still lack access to electricity, and a staggering 2.3 billion lack clean cooking facilities, predominantly in Sub-Saharan Africa and South Asia. Without urgent action, an estimated 660 million will remain without electricity, and nearly 1.9 billion will lack clean cooking facilities by 2030.
+
+Further, the Human Development Index recently experienced its first decline in over three decades, exacerbated by a series of societal challenges, including the COVID-19 pandemic. Poverty and inequality have surged, deepening the divide. Energy challenges extend beyond the energy sector, impacting health, education, employment, water, food, and more. This interconnectedness not only heightens societal fragility but also risks sparking conflicts. This underscores the urgency of addressing these issues comprehensively and sustainably.
+
+This talk will discuss how the current energy crisis offers an opportunity to accelerate the shift to renewable energy and create stable, secure, and equitable societies through accountable, effective, and inclusive governance. To succeed, we must establish the right institutional arrangements, policies, frameworks, technologies, and infrastructure for a system-wide transformation. It will present key action priorities and shed light on the importance of interdisciplinary collaboration in crafting effective energy governance solutions for the 21st century.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Dr. Piyush Verma currently works as Senior Governance Advisor – Energy at the United Nations Development Programme, New York, USA where he leads the global policy and programme support on the effective energy governance agenda for more than 170 countries.
+
+He is an energy and climate policy expert and has worked extensively at the intersection of technology, economy, society, and governance. He has worked on national energy and climate policies closely working with governments in India, New Zealand, Vanuatu, Ireland, and USA before joining the UNDP in July 2022.
+
+He was selected as a Global Future Energy Leader by the World Energy Council London in 2018 and between 2018-2021 he led and contributed to a variety of international projects at the Council. Dr. Verma also chaired the Joint Task Force on Digitalization in Energy at the United Nations Economic Commission for Europe in Geneva from 2021-2022. He was instrumental in establishing and operationalizing this task force that brings a multidisciplinary expertise to leverage the potential of digital technologies to help accelerate the energy transition process and achieve net zero. 
+
+He has bachelor’s and master’s degrees in electrical engineering from India and has a PhD in Energy Technology and Policy from The University of Auckland, New Zealand. He has also completed a Master in Public Administration program as a prestigious Edward S Mason Fellow from the Harvard Kennedy School of Government, USA.
+
+
+## Readings
+
+UNDP. 2023.  [Strengthening Energy Governance Systems: An Energy Governance Framework for a Just Energy Transition](https://www.undp.org/publications/strengthening-energy-governance-systems-energy-governance-framework-just-energy-transition). 
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

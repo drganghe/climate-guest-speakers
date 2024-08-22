@@ -1,0 +1,74 @@
+---
+title: "Shanru Tian: Optimizing the Efficacy of Leak Detection and Quantification (LDAQ) for Natural Gas Pipelines"
+description: "This talk explores optimizing LDAQ protocols by refining key parameters"
+image: /files/headshots/shanru-tian.jpeg
+author: "Climate Guest Speakers"
+date: "2025-09-29"
+categories: [Climate and Energy]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.linkedin.com/in/shanru-tian-311246160/  #linkedin profile or personal website
+      image: /files/headshots/shanru-tian.jpeg
+      title: "Dr. Shanru Tian"
+#      author: 
+      subtitle: "University of Texas at Arlington"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+
+### Time
+
+{{< meta date >}}  
+
+6:00PM - 7:00PM ET
+
+### Venue 
+
+Online via zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
+
+## About
+
+Natural gas (NG), considered a bridging fuel for a low-carbon future, has become a major component of the global energy system, requiring extensive underground pipeline infrastructure. Fugitive methane (CH₄) emissions from pipeline leaks pose environmental, safety, and economic risks. Effective leak detection and quantification (LDAQ) methods are crucial for identifying leaks, assessing their magnitude, and ensuring timely mitigation.
+
+However, gaps remain in LDAQ survey methods, and their effectiveness is not well understood. This talk explores optimizing LDAQ protocols by refining key parameters—including survey speed, altitude, and distance downwind from leak sources—using CFD 3D plume modeling and field measurements across diverse environmental conditions. The results provide a physical basis for operators and solution providers to determine optimal survey parameters under varying environmental conditions.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Shanru Tian is a postdoctoral researcher at the University of Texas at Arlington. His research primarily focuses on advancing the understanding and prediction of extreme weather and climate, carbon cycle processes, and exploring geo-engineering solutions to enhance the resilience of civil engineering infrastructure.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

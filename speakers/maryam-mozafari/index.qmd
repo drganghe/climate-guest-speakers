@@ -1,0 +1,70 @@
+---
+title: "Maryam Mozafari: From Fossil Fuels to Future Fuels — A journey from the oilrigs to climate policy"
+description: "Maryam will talk about her own experience transitioning from the oil & gas industry to impactful large-scale clean energy policy."
+image: /files/headshots/maryam-mozafari.webp
+author: "Climate Guest Speakers"
+date: "2024-10-15"
+categories: [Climate and Career]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.linkedin.com/in/maryam-mozafari #linkedin profile or personal website
+      image: /files/headshots/maryam-mozafari.webp
+      title: "Maryam Mozafari"
+#      author: 
+      subtitle: "Program Supervisor, California Public Utilities Commission"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+From Fossil Fuels to Future Fuels — A journey from the oilrigs to climate policy
+
+
+### Time
+
+Tuesday, October 15, 2024, 6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+This talk captures Maryam's career evolution from technical roles in traditional energy sectors to a focus on impactful, large-scale clean energy policy. It highlights personal growth, key turning points, and current role in shaping innovative energy solutions in California.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Maryam leads the Demand Response/Demand Flexibility section at the California Public Utilities Commission. Her team develops policies aimed at unlocking the potential of demand flexibility (from distribution level DR to CAISO wholesale integration to CalFUSE) and maximizing the utilization of Behind-the-Meter and Distributed Energy Resources. Maryam previously served as Senior Energy Advisor to Commissioner Darcie Houck where she worked on innovative strategies for the planning and operation of a high DER distribution grid.  Whether a manager, an advisor, or an engineer on offshore oil platforms, Maryam aspires to make the world a better place, one step at a time. She holds a BSc in Mechanical Engineering and a MSc in Energy and Resources from UC Berkeley.
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

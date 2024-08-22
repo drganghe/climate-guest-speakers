@@ -1,0 +1,76 @@
+---
+title: "Ines Benachir: Life Cycle Analysis and Ecodesign of PV Panels"
+description: ""
+image: /files/headshots/ines-benachir.jpeg
+author: "Climate Guest Speakers"
+date: "2025-04-28"
+categories: [Climate and Environment, Climate and Energy, Climate and Sustainability]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://linkedin.com/in/ines-benachir  #linkedin profile or personal website
+      image: /files/headshots/ines-benachir.jpeg
+      title: "Ines Benachir"
+#      author: 
+      subtitle: "ESG Manager at LONGi Solar"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Life Cycle Analysis and Ecodesign of PV Panels
+
+
+### Time
+
+Monday, April 28, 2025 
+
+3:00 PM - 4:00 PM ET / 9:00 PM - 10:00 PM CET  (Please note this is a different time than our normal class schedule)
+
+
+### Venue 
+
+Online via zoom. 
+
+Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+
+## About
+
+The presentation first offers an overview of photovoltaic (PV) systems and tracing their life cycle from raw material extraction to end-of-life disposal or recycling. It highlights essential criteria for selecting PV panels, including efficiency, durability, and environmental impact. The role of EU regulations, such as the Ecodesign and WEEE Directives, is discussed in shaping sustainability across the sector. Key standards and guidelines that structure the EU market are also reviewed. The talk explores important considerations for conducting life cycle assessments (LCAs) and outlines challenges in comparing LCA results due to data quality and differing assumptions. It concludes with ongoing efforts to harmonize sustainability assessments and strengthen ecodesign criteria, aiming to support a more circular and environmentally responsible PV industry in Europe.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Ines Benachir is the ESG Manager- Utility West Europe at LONGi Solar 
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

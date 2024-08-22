@@ -1,0 +1,70 @@
+---
+title: "Siobhan​​​​ Watson: Integrating sustainability and resiliency into public housing"
+description: ""
+image: /files/headshots/siobhan-watson.jpg
+author: "Climate Guest Speakers"
+date: "2025-03-10"
+categories: [Climate and Environment, Climate and Sustainability]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path:   #linkedin profile or personal website
+      image: /files/headshots/siobhan-watson.jpg
+      title: "Dr. Siobhan​​​​ Watson"
+#      author: 
+      subtitle: "Senior Director of Sustainability, New York City Housing Authority"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Integrating sustainability and resiliency into public housing
+
+
+### Time
+
+Monday, March 10, 2025, 
+6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+Dr. Watson will share her insights on enhancing sustainability and resiliency in public housing.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Dr. Siobhan​​​​ Watson is the Senior Director of Asset & Capital Management and Sustainability at New York City Housing Authority.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

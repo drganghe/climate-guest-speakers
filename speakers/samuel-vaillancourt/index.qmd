@@ -1,0 +1,69 @@
+---
+title: "Samuel Vaillancourt: Mining Industry Decarbonization"
+description: "Driving decarbonization strategy and implementation for one of the largest gold mining company globally."
+image: /files/headshots/samuel-vaillancourt.jpeg
+author: "Climate Guest Speakers"
+date: "2024-11-04"
+categories: [Climate and Industry]
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://ca.linkedin.com/in/samuelvaillancourt
+      image: /files/headshots/samuel-vaillancourt.jpeg
+      title: "Samuel Vaillancout"
+#      author: 
+      subtitle: ""
+#      date: "2024-03-12"
+#      categories: [] 
+
+
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Mining Industry Decarbonization
+
+### Time
+
+Monday, November 4, 2024, 6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+I will discuss how I ended up in the privileged, hard but very rewarding position of driving decarbonization strategy and implementation for one of the largest gold mining company globally.
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Samuel Vaillancourt is with Innovation, Energy & Decarbonization, Siemens Energy. Prior to Siemens, he was with the Innovation, Energy & Decarbonization of Agnico Eagle Mines Limited.
+
+\
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

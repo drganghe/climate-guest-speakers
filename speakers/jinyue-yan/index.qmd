@@ -1,0 +1,73 @@
+---
+title: "Jinyue Yan: Energy systems with high renewable penetration"
+description: "This lecture addressed the transition of clean energy systems and illustrated, by an example, how an optimization solution can be achieved under the condition of high renewable energy penetration."
+image: /files/headshots/jinyue-yan.webp
+author: "Climate Guest Speakers"
+date: "2017-06-23"
+categories: [Climate New Research, Climate and Energy]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.mdu.se/en/malardalen-university/staff?id=jyn01 #linkedin profile or personal website
+      image: /files/headshots/jinyue-yan.webp 
+      title: "Dr. Jinyue Yan"
+#      author: 
+      subtitle: "Professor, Mälardalen University"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+
+### Time
+
+{{< meta date >}}   
+
+11AM - 12PM ET
+
+### Venue 
+1310 Old Computer Science
+
+## About
+
+Energy, or precisely, “Clean Energy”, is at the centre of a highly active and dynamic field, which changes and affects not only our current life, but also our near future. Due to the importance Clean Energy currently possesses and its transitive characteristics: research, development, implementation, innovation, market penetration of clean energy technologies and systems have expanded in recent course of time. Energy systems have been in transition, extending their boundaries beyond the energy systems themselves. One of the challenging issues is the intermittent power generation and mismatching of energy supply and demand over a time scale when high renewable energy penetration takes place. 
+
+This calls for a new way to solve the challenging issues associated with new transitions of future clean energy systems with interdisciplinary and synthetic approach from not only the systematic overview, but also detailed components of clean energy systems. It needs to integrate the end-users load control with different energy saving approaches. It is location specific and highly tailored to serve its customers’ needs. This lecture addressed the transition of clean energy systems and illustrated, by an example, how an optimization solution can be achieved under the condition of high renewable energy penetration. 
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Dr. J. Yan is Chair Professor of Energy Engineering at Mälardalen University& Royal Institute of Technology, Sweden. He is director of Future Energy Profile. Prof. Yan's research interests include advanced energy systems; renewable energy; advanced power generation; climate change mitigation technologies and related environment and policy; CDM etc. Prof. Yan published about 300 papers including in Science & Nature Climate Change. Prof. Yan is editor-in-chief of Applied Energy journal & editor-in-chief of Handbook of Clean Energy Systems. He is the Chair of International Conferences on Applied Energy. He also serves as the advisory expert to the UN, EU, & ADB etc. He is the academician of European Academy of Science and Arts.
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
