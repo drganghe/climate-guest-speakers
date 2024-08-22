@@ -1,0 +1,67 @@
+---
+title: "Mohsen Fatemi: Passion, Profession, Progression"
+description: "Mohsen will share his career experiences and research on including social equity in energy planning"
+image: /files/headshots/mohsen-fatemi.jpeg
+author: "Climate Guest Speakers"
+date: "2024-11-18"
+categories: [Climate and Community, Climate and Career]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.mohsenfatemi.com/  #linkedin profile or personal website
+      image: /files/headshots/mohsen-fatemi.jpeg
+      title: "S. Mohsen Fatemi"
+#      author: 
+      subtitle: "PhD Candidate, University of Kansas"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Passion, Profession, Progression
+
+### Time
+
+Monday, November 18, 2024, 6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+I’m S. Mohsen Fatemi, a doctoral researcher in public administration with an interdisciplinary background in architecture, urban planning, and sustainability. My journey from designing energy-efficient buildings in Iran to advocating for energy justice in the U.S. illustrates how career paths can evolve in unexpected yet rewarding ways. My work now focuses on how local governments and investor-owned utilities can integrate energy justice into their operations. In my talk, I’ll share insights from my career transition, the challenges and motivations behind it, and my experiences on the Sustainability Advisory Board in Lawrence, Kansas. I’ll also discuss my ongoing research, which investigates the incorporation of social equity in energy planning. My story emphasizes the importance of interdisciplinary approaches, community engagement, and persistence in driving meaningful change in the field of energy and climate policy.
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Mohsen Fatemi is a doctoral candidate in the School of Public Affairs and Administration at the University of Kansas. His research centers on Energy and Environmental governance, policy, and justice. Additionally, as an urban planner and architect, he has experience in sustainability, climate action planning, and energy efficiency. 
+
+\
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,76 @@
+
+/*https://github.com/quarto-dev/quarto-web/blob/main/index.css*/
+/*#447099*/
+
+.btn {
+  display: block;
+  width: 400px;
+  padding: 12px 24px;
+  margin: 15px auto; /* Center the button */
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  background-color: #05336B;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #7fb3d5;
+}
+
+.donate-btn {
+  background-color: #05336B;
+}
+
+.donate-btn:hover {
+  background-color: #7fb3d5;
+}
+
+.register-btn {
+  background-color: #05336B;
+}
+
+.register-btn:hover {
+  background-color: #7fb3d5;
+}
+
+.speaker-btn {
+  background-color: #05336B;
+}
+
+.speaker-btn:hover {
+  background-color: #7fb3d5;
+}
+
+/* Center the container and adjust spacing */
+.container {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+
+/* Adjust the spacing and remove vertical centering */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 30px; /* Reduced padding for mobile */
+}
+
+/* Media query for mobile screens */
+@media (max-width: 600px) {
+  .btn {
+      width: 90%; /* Increase width to make full use of mobile screen space */
+      font-size: 14px; /* Reduce font size slightly for smaller screens */
+  }
+
+/* Reduce space above the first button */
+.container a:first-child {
+  margin-top: 0;
+}
+

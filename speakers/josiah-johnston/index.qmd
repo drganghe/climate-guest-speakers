@@ -1,0 +1,68 @@
+---
+title: "Josiah Johnston: Big Data, AI, and Building Sector Decarbonization"
+description: "Big data, AI, energy and building sector decarbonization"
+image: /files/headshots/josiah-johnston.jpg
+author: "Climate Guest Speakers"
+date: "2025-02-03"
+categories: [Climate and AI]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.linkedin.com/in/josiah-johnston  #linkedin profile or personal website
+      image: /files/headshots/josiah-johnston.jpg
+      title: "Dr. Josiah Johnston"
+#      author: 
+      subtitle: "Daikin Open Innovation Lab Silicon Valley"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Big Data, AI, and Building Sector Decarbonization
+
+### Time
+
+Monday, February 3, 2025, 6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+Dr. Johnston will share his experiences to use data and model to do robust data-driven analysis and how does it could facilitate decarbonizing the building sector.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Dr. Josiah Johnston is currently a Director of Data Science at Daikin Open Innovation Lab Silicon Valley.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

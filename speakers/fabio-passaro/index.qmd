@@ -1,0 +1,74 @@
+---
+title: "Fabio Passaro: How to mobilise sustainable finance for the steel and cement sectors' transition"
+description: "Unlock the role policymakers have in mobilising private finance in ensuring a just transition in the steel and cement industries. Discover how credible transition plans are the means to access private capital for transition. "
+image: /files/headshots/fabio-passaro.png
+author: "Climate Guest Speakers"
+date: "2024-10-21"
+categories: [Climate and Industry, Climate and Markets]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: www.linkedin.com/in/fabio-passaro5  #linkedin profile or personal website
+      image: /files/headshots/fabio-passaro.png
+      title: "Fabio Passaro"
+#      author: 
+      subtitle: "Senior Transition Policy Analyst, Climate Bonds Initiative"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+How to mobilise sustainable finance for the steel and cement sectors' transition
+
+### Time
+
+Monday, October 21, 2024, 6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+Emissions from steel and cement industries continue to rise. It’s estimated that over 70% (1091 Mt/yr) of global coal-based blast furnace capacity will need reinvestment by 2030.  This presents a significant opportunity. Unlock the role policymakers have in mobilising private finance in ensuring a just transition in the steel and cement industries. Discover how credible transition plans are the means to access private capital for transition. 
+
+Key points: 
+ 
+- Gain an understanding of the net-zero transition in the steel and cement industries and why the G20 has put a strategic focus on them.  
+- Explore the relevance of just transition plans and considerations in steel and cement.  
+- Define what financial actors, companies and policymakers’ priorities are in this space.  
+- Delve into the role that sustainable debt markets can play and how credible transition plans are critical to credible sustainability-linked bond (SLBs).  
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Fabio Passaro is a Senior Transition Policy Analyst at the Climate Bonds Initiative. He leads the hard-to-abate sectors' transition policy work steam, and develops policy reports, blogs, and briefs on the net-zero transition, promoting the role of sustainable finance in meeting climate targets. He has authored several policy papers on these sectors' transition, including "The role of policymakers in mobilising private finance to ensure a credible and just transition in steel and cement",  and "A Fork in the Road for the Global Steel Sector." He is an energy transition and governance graduate from the Centre International de Formation Européenne and holds the CFA UK level 4 certificate in climate and investing.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

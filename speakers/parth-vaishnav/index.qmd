@@ -1,0 +1,79 @@
+---
+title: "Parth Vaishnav: Electrify everything? Case studies in electrification in the real world"
+description: "Practical considerations in the electrification of two sectors: transportation and buildings"
+image: /files/headshots/parth-vaishnav.webp
+author: "Climate Guest Speakers"
+date: "2023-03-02"
+categories: [Climate New Research, Climate and Energy]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://seas.umich.edu/research/faculty/parth-vaishnav #linkedin profile or personal website
+      image: /files/headshots/parth-vaishnav.webp
+      title: "Dr. Parth Vaishnav"
+#      author: 
+      subtitle: "Assistant Professor, University of Michigan"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+
+### Time
+
+{{< meta date >}}   
+
+11:30AM - 12:30PM ET
+
+### Venue 
+Online via zoom. 
+
+## About
+
+In this talk, I will discuss practical considerations in the electrification of two sectors: transportation and buildings. For light vehicle transportation, I will describe work on the trade-offs between automation and electrification. I will also discuss a recent review on inequalities in access to electric vehicles and the associated infrastructure. For buildings, I will present work on the environmental and private economics of electrifying heating in buildings, as well as the effect of electrification on power system loads. Finally, I will present the preliminary results of a study that asks two questions: which energy efficiency retrofits are available to address high utility bills, and what are the energy cost burden impacts of air source heat pumps in existing homes across income groups? To answer these questions, I use empirical data from a pilot study of 50 homes in Michigan where higher than average energy cost burden rates, long heating season, and old housing stock pose concerning risks to human health and safety under this transition.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+My research aims to understand how technology can help solve social problems. Much of my work focuses on the environmental and human health consequences of energy production and use. I focus on finding strategies to decarbonize the economy, and to adapt to the warming that has and will occur even if we cut greenhouse gas emissions very rapidly. Most projects focus on the consequences for the environment, human health, and justice of the electrification of buildings and transportation. I employ building energy models, physics-based models of energy systems, and reduced-complexity integrated air quality models, as well as qualitative methods such as interviews, to understand how economic, political, and operational realities constrain technology deployment. I am particularly interested in finding ways to deploy technologies in a way that promotes energy and environmental justice.
+
+
+## Readings
+
+- Mohan, Aniruddh, Shashank Sripad, Parth Vaishnav, and Venkatasubramanian Viswanathan. 2020. “Trade-Offs between Automation and Light Vehicle Electrification.” *Nature Energy* 5 (7): 543–49. <https://doi.org/10.1038/s41560-020-0644-3>.
+
+- Vaishnav, Parth, and Adilla Mulia Fatimah. 2020. “The Environmental Consequences of Electrifying Space Heating.” *Environmental Science & Technology* 54 (16): 9814–23. <https://doi.org/10.1021/acs.est.0c02705>.
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

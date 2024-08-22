@@ -1,0 +1,68 @@
+---
+title: "Xiansheng Sun: Energy Trends—Transition and Challenges"
+description: "Energy Trends—Transition and Challenges"
+image: /files/headshots/xiansheng-sun.jpg
+author: "Climate Guest Speakers"
+date: "2017-07-25"
+categories: [Climate and Energy, Climate and Governance]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.dundee.ac.uk/people/xiansheng-sun #linkedin profile or personal website
+      image: /files/headshots/xiansheng-sun.jpg
+      title: "Dr. Xiansheng Sun"
+#      author: 
+      subtitle: "Secretary General, International Energy Forum"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+
+### Time
+
+{{< meta date >}}   
+
+3PM - 4PM ET
+
+### Venue 
+1441 Old Computer Science
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Dr. SUN Xiansheng took up the post as International Energy Forum (IEF) Secretary General on 1 August 2016. Prior to his election, Dr. Sun was the President of China National Petroleum Corporation’s (CNPC) Economics and Technology Research Institute (ETRI) where he leads a team of over 370 staff members. Reporting to the Chinese leadership on energy policy decision making, including energy security strategies, “3E” (Energy, Environment, Economy) program development, low-carbon energy mix optimization, “three steps” of Chinese gas pricing reforms, and international energy cooperation. Dr. Sun was deeply involved in the Chinese energy five-year planning process and many other major policies. Dr. Sun also served as chief editor of ETRI’s “Oil & Gas Industry Development Report” and the first “China Energy Data & Statistics” report. Dr. Sun holds an LLM and Ph.D. from the Centre for Energy, Petroleum and Mineral Law and Policy (CEPMLP), University of Dundee, UK.
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

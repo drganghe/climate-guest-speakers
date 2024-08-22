@@ -1,0 +1,77 @@
+---
+title: "Anthony Cheng: EV mineral supply chains and Inflation Reduction Act"
+description: "Supply chain vulnerability and U.S. decarbonization"
+image: /files/headshots/anthony-cheng.jpeg
+author: "Climate Guest Speakers"
+date: "2025-04-07"
+categories: [Climate and Innovation, Climate New Research]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://acheng98.github.io/  #linkedin profile or personal website
+      image: /files/headshots/anthony-cheng.jpeg
+      title: "Anthony Cheng"
+#      author: 
+      subtitle: "Carneigie Mellon University"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+EV mineral supply chains and Inflation Reduction Act
+
+
+### Time
+
+Monday, April 7, 2025    
+6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+Anthony will discuss his experiences as a PhD student focused on critical minerals, supply chains, and policy analysis, in the context of electric vehicles and the energy transition, touching upon themes of supply security, risk analysis, and policy analysis. He will also speak to his additional roles as a Macro Energy Systems Fellow and Resources for the Future Critical Minerals Lab Fellow. 
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Anthony Cheng is a fourth year PhD student and National Science Foundation Graduate Research Fellowship Program (GRFP) Fellow in the Engineering and Public Policy (EPP) Department of Carnegie Mellon University (CMU) under the direction of Dr. Erica Fuchs, Dr. Valerie Karplus, and Dr. Jeremy Michalek. His general research interests lie around understanding manufacturing and commercialization of clean technologies needed in the energy transition, with recent projects focused on vulnerabilities, incentives, and interventions in battery electric vehicle material supply chains. 
+
+## Readings
+
+- Cheng, Anthony L., Erica R. H. Fuchs, Valerie J. Karplus, and Jeremy J. Michalek. 2024. “Electric Vehicle Battery Chemistry Affects Supply Chain Disruption Vulnerabilities.” *Nature Communications* 15 (1): 2143. <https://doi.org/10.1038/s41467-024-46418-1>.
+
+- Cheng, Anthony L., Erica R. H. Fuchs, and Jeremy J. Michalek. 2024. “US Industrial Policy May Reduce Electric Vehicle Battery Supply Chain Vulnerabilities and Influence Technology Choice.” *Nature Energy*, October, 1–10. <https://doi.org/10.1038/s41560-024-01649-w>.
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

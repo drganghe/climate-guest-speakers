@@ -1,0 +1,71 @@
+---
+title: "Ines Benachir: Life Cycle Analysis and Ecodesign of PV Panels"
+description: ""
+image: /files/headshots/ines-benachir.jpeg
+author: "Climate Guest Speakers"
+date: "2025-04-28"
+categories: [Climate and Environment, Climate and Energy, Climate and Sustainability]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://linkedin.com/in/ines-benachir  #linkedin profile or personal website
+      image: /files/headshots/ines-benachir.jpeg
+      title: "Ines Benachir"
+#      author: 
+      subtitle: "ESG Manager at LONGi Solar"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Life Cycle Analysis and Ecodesign of PV Panels
+
+
+### Time
+
+Monday, April 28, 2025 
+
+3:00 PM - 4:00 PM ET / 9:00 PM - 10:00 PM CET  (Please note this is a different time than our normal class schedule)
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+Ines will present an introduction to life cycle assessment for solar panels, the emerging ecodesign norms and standards in Europe, and the best practices.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Ines Benachir is the ESG Manager at LONGi Solar 
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,74 @@
+project:
+  type: website
+  output-dir: docs
+
+# Meta
+description-meta: "Guest speakers in Energy and Climate Policy, Energy, Climate, and Society, Climate Insights, Climate and Innovation, Climate and Environment, Climate and AI, Climate and Governance."
+author-meta: "Climate Guest Speakers"  
+
+website:
+  title: "Climate Guest Speakers"
+  image: "/files/headshots/you.png"
+  description: "Guest speakers in the Energy and Climate Policy and Energy, Climate, and Society classes. Keywords: Climate speakers, climate and community, climate and community, climate and markets, climate insights."
+ 
+  navbar:
+#    background: "#05336B"
+#    foreground: "#FFFFFF"
+    left:
+      - text: About
+        href: about.qmd 
+      - text: All Speakers
+        href: speakers.qmd
+      - text: Classes
+        menu:
+        - text: "Energy and Climate Policy"
+          href: https://drganghe.github.io/energy-climate-policy
+          target: _blank
+        - text: "Energy, Climate, and Society"
+          href: https://drganghe.github.io/energy-climate-society
+          target: _blank
+      - text: Student Stories
+        href: students.qmd      
+      - text: Support
+        href: support.qmd
+    right:
+      - icon: github
+        href: https://github.com/drganghe/climate-guest-speakers
+      - text: "{{< fa brands bluesky >}}" 
+        href: https://bsky.app/profile/hegang.bsky.social
+        target: _blank 
+  page-navigation: true
+  page-footer: 
+    left: "[Climate Guest Speakers](https://drganghe.github.io/climate-guest-speakers/) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    right:  
+      - icon: github
+        href: https://github.com/drganghe/climate-guest-speakers
+      - text: "{{< fa brands bluesky >}}" 
+        href: https://bsky.app/profile/hegang.bsky.social
+        target: _blank
+  search:
+    location: navbar
+    type: textbox
+  reader-mode: true
+  repo-url: https://github.com/drganghe/climate-guest-speakers
+#  repo-actions: [edit, issue, source]
+  open-graph: true
+  twitter-card: true 
+#  card-style: summary      
+  site-url: "http://drganghe.github.io/climate-guest-speakers"
+  google-analytics:
+    tracking-id: "G-G4DYZHP5J7"
+    anonymize-ip: true 
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true 
+
+
+
