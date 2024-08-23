@@ -15,6 +15,14 @@ website:
         href: about.qmd 
       - text: All Speakers
         href: speakers.qmd
+      - text: Classes
+        menu:
+        - text: "Energy and Climate Policy"
+          href: https://drganghe.github.io/energy-climate-policy
+          target: _blank
+        - text: "Energy, Climate, and Society"
+          href: https://drganghe.github.io/energy-climate-society
+          target: _blank
     right:
       - icon: github
         href: https://github.com/drganghe/climate-guest-speakers

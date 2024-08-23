@@ -1,2 +1,2 @@
 # Climate Guest Speakers
-This repository is for the Climate Guest Speakers website.
+Repository for the Climate Guest Speakers website.
