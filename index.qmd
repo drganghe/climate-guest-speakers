@@ -7,21 +7,25 @@ toc: false
 
 listing:
  - id: featured-speaker
-   contents: /speakers
+   contents: /speakers/richard-morse/
    type: default
    max-items: 1
    page-size: 0 #set as 0 will remove the page setting
    sort: 
-     - "date desc"
+     - "date asc"
      - "title asc"
 
  - id: recent-speakers
    contents: /speakers
+   exclude: 
+    author: "Guest Speaker"
+    title: "Richard Morse*"
    type: grid
    max-items: 3
+   image-height: 300px
    page-size: 0 #set as 0 will remove the page setting
    sort: 
-     - "date desc"
+     - "date asc"
      - "title asc"
 ---
 
@@ -33,7 +37,7 @@ listing:
 :::{#featured-speaker}
 :::
 
-## Recent speakers
+## Upcoming speakers
 
 :::{#recent-speakers}
 :::

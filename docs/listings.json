@@ -1,22 +1,68 @@
 [
   {
+    "listing": "/speakers/mohsen-fatemi/index.html",
+    "items": []
+  },
+  {
     "listing": "/speakers/richard-morse/index.html",
     "items": []
   },
   {
-    "listing": "/index.html",
-    "items": [
-      "/speakers/guest-speaker/index.html"
-    ]
+    "listing": "/speakers/simi-george/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/fabio-passaro/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/bharathi-esakkimuthu/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/samuel-vaillancourt /index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/shirley-gallagher/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/guest-speaker/index.html",
+    "items": []
   },
   {
     "listing": "/speakers.html",
     "items": [
-      "/speakers/guest-speaker/index.html"
+      "/speakers/richard-morse/index.html",
+      "/speakers/shirley-gallagher/index.html",
+      "/speakers/simi-george/index.html",
+      "/speakers/maryam-mozafari/index.html",
+      "/speakers/fabio-passaro/index.html",
+      "/speakers/samuel-vaillancourt /index.html",
+      "/speakers/bharathi-esakkimuthu/index.html",
+      "/speakers/mohsen-fatemi/index.html"
     ]
   },
   {
-    "listing": "/speakers/guest-speaker/index.html",
+    "listing": "/index.html",
+    "items": [
+      "/speakers/richard-morse/index.html",
+      "/speakers/shirley-gallagher/index.html",
+      "/speakers/simi-george/index.html",
+      "/speakers/maryam-mozafari/index.html",
+      "/speakers/fabio-passaro/index.html",
+      "/speakers/samuel-vaillancourt /index.html",
+      "/speakers/bharathi-esakkimuthu/index.html",
+      "/speakers/mohsen-fatemi/index.html"
+    ]
+  },
+  {
+    "listing": "/speakers/maryam-mozafari/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/josiah-johnston/index.html",
     "items": []
   }
 ]

@@ -1,10 +1,10 @@
 ---
-title: "Guest Speaker Name: Presentation title"
-description: "One sentence summary of speaker's sharing."
-image: /files/headshots/you.png
-author: "Guest Speaker"
-date: "2024-09-09"
-categories: [Climate and Career, Climate and Community]
+title: "Maryam Mozafari"
+description: " "
+image: /files/headshots/maryam-mozafari.webp
+author: "Climate Guest Speakers"
+date: "2024-10-15"
+categories: [Climate and Career]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl
@@ -24,11 +24,11 @@ listing:  #an example of listing external links
 #  sort-ui: true
 #  filter-ui: true
   contents:
-    - path: https://linkedin.com  #linkedin profile or personal website
-      image: /files/headshots/you.png
-      title: "Guest Speaker Name"
+    - path: https://www.linkedin.com/in/maryam-mozafari #linkedin profile or personal website
+      image: /files/headshots/maryam-mozafari.webp
+      title: "Maryam Mozafari"
 #      author: 
-      subtitle: "Affiliation"
+      subtitle: "Program Supervisor, California Public Utility Commission"
 #      date: "2024-03-12"
 #      categories: [] 
 page-navigation: false
@@ -38,18 +38,17 @@ title-block-banner: false
 
 ## Title
 
-Speaker's presentation title
 
 ### Time
 
-Monday, Date, 6:05PM - 7:00PM
+Tuesday, October 15, 2024, 6:05PM - 7:00PM
 
 ### Venue 
 Online via zoom. Please email for access.
 
 ## About
 
-More information about the speaker's session.
+
 
 ## Speaker
 
@@ -59,11 +58,9 @@ More information about the speaker's session.
 
 ### Bio
 
-Speaker's short bio.
 
-## Readings
 
-Background reading or further reading of the speaker's presentation.
+
 
 <!--Include social share buttons-->
 
