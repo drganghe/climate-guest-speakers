@@ -12,7 +12,7 @@ categories: [Climate and Career]
 #citations-hover: false
 listing:  #an example of listing external links
 #  template: item-default-external.ejs
-- id: richard-morse
+- id: speaker
   sort: "date asc"
   type: grid
   fields: [image, title, subtitle]
@@ -54,7 +54,7 @@ Online via zoom. Please email for access.
 
 ## Speaker
 
-:::{#richard-morse}
+:::{#speaker}
 :::
 
 

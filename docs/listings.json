@@ -39,7 +39,8 @@
       "/speakers/simi-george/index.html",
       "/speakers/maryam-mozafari/index.html",
       "/speakers/fabio-passaro/index.html",
-      "/speakers/samuel-vaillancourt /index.html",
+      "/speakers/liqun-peng/index.html",
+      "/speakers/samuel-vaillancourt/index.html",
       "/speakers/bharathi-esakkimuthu/index.html",
       "/speakers/mohsen-fatemi/index.html"
     ]
@@ -52,7 +53,8 @@
       "/speakers/simi-george/index.html",
       "/speakers/maryam-mozafari/index.html",
       "/speakers/fabio-passaro/index.html",
-      "/speakers/samuel-vaillancourt /index.html",
+      "/speakers/liqun-peng/index.html",
+      "/speakers/samuel-vaillancourt/index.html",
       "/speakers/bharathi-esakkimuthu/index.html",
       "/speakers/mohsen-fatemi/index.html"
     ]
@@ -63,6 +65,14 @@
   },
   {
     "listing": "/speakers/josiah-johnston/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/samuel-vaillancourt/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/liqun-peng/index.html",
     "items": []
   }
 ]

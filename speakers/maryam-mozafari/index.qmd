@@ -28,7 +28,7 @@ listing:  #an example of listing external links
       image: /files/headshots/maryam-mozafari.webp
       title: "Maryam Mozafari"
 #      author: 
-      subtitle: "Program Supervisor, California Public Utility Commission"
+      subtitle: "Program Supervisor, California Public Utilities Commission"
 #      date: "2024-03-12"
 #      categories: [] 
 page-navigation: false
