@@ -36,6 +36,7 @@
     "items": [
       "/speakers/richard-morse/index.html",
       "/speakers/shirley-gallagher/index.html",
+      "/speakers/kaifang-luo/index.html",
       "/speakers/simi-george/index.html",
       "/speakers/maryam-mozafari/index.html",
       "/speakers/fabio-passaro/index.html",
@@ -50,6 +51,7 @@
     "items": [
       "/speakers/richard-morse/index.html",
       "/speakers/shirley-gallagher/index.html",
+      "/speakers/kaifang-luo/index.html",
       "/speakers/simi-george/index.html",
       "/speakers/maryam-mozafari/index.html",
       "/speakers/fabio-passaro/index.html",
@@ -73,6 +75,10 @@
   },
   {
     "listing": "/speakers/liqun-peng/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/kaifang-luo/index.html",
     "items": []
   }
 ]
