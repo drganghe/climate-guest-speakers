@@ -23,8 +23,8 @@ website:
         - text: "Energy, Climate, and Society"
           href: https://drganghe.github.io/energy-climate-society
           target: _blank
-      - text: Resource
-        href: resource.qmd
+      - text: Support
+        href: support.qmd
     right:
       - icon: github
         href: https://github.com/drganghe/climate-guest-speakers
