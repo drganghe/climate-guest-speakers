@@ -1,34 +1,6 @@
 [
   {
-    "listing": "/speakers/mohsen-fatemi/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/richard-morse/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/simi-george/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/fabio-passaro/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/bharathi-esakkimuthu/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/samuel-vaillancourt /index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/shirley-gallagher/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/guest-speaker/index.html",
+    "listing": "/support.html",
     "items": []
   },
   {
@@ -47,6 +19,50 @@
     ]
   },
   {
+    "listing": "/speakers/guest-speaker/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/richard-morse/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/simi-george/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/kaifang-luo/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/samuel-vaillancourt/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/bharathi-esakkimuthu/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/fabio-passaro/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/liqun-peng/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/shirley-gallagher/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/maryam-mozafari/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/mohsen-fatemi/index.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/speakers/richard-morse/index.html",
@@ -60,29 +76,5 @@
       "/speakers/bharathi-esakkimuthu/index.html",
       "/speakers/mohsen-fatemi/index.html"
     ]
-  },
-  {
-    "listing": "/speakers/maryam-mozafari/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/josiah-johnston/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/samuel-vaillancourt/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/liqun-peng/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/kaifang-luo/index.html",
-    "items": []
-  },
-  {
-    "listing": "/support.html",
-    "items": []
   }
 ]

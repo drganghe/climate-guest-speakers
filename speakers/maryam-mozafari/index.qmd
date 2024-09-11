@@ -1,6 +1,6 @@
 ---
-title: "Maryam Mozafari"
-description: " "
+title: "Maryam Mozafari: Transitioning from the oil & gas industry to renewable energy"
+description: "Maryam will talk about her own experience transitioning from the oil & gas industry to renewable energy and then choosing climate change policy as a career."
 image: /files/headshots/maryam-mozafari.webp
 author: "Climate Guest Speakers"
 date: "2024-10-15"

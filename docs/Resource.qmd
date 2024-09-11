@@ -1,9 +1,0 @@
----
-title: "Resources"
-#image: 
-page-layout: full
----
-
-## Marxe School of Public and International Affairs
-
->The [Austin W. Marxe School of Public and International Affairs](https://marxe.baruch.cuny.edu/about/) is New York City’s only public graduate school dedicated to public affairs. Since 1994, we have offered an [undergraduate](https://baruch.cuny.edu/mspia/academics/bachelor-of-science-in-public-affairs/index.html) degree, a graduate-level [MPA](https://baruch.cuny.edu/mspia/academics/master-of-public-administration/index.html) degree in public policy and administration, and a [Master of Science in Education (MSEd)](https://baruch.cuny.edu/mspia/academics/ms-in-higher-education-administration/index.html) program in Higher Education Administration (MSEd-HEA). In the Fall of 2017 we launched a [Master of International Affairs (MIA)](https://baruch.cuny.edu/mspia/academics/master-of-international-affairs/index.html) degree program. We will launch an [Online Master of Public Administration (OMPA)](https://marxe.baruch.cuny.edu/homepage/academics/online-master-of-public-administration/) in the Fall of 2024. We also have two certificate programs: the [Certificate in Public Communication](https://marxe.baruch.cuny.edu/homepage/academics/certificate-in-public-communication/), and the [Certificate in Quantitative Methods for Policy and Equity Analysis](https://marxe.baruch.cuny.edu/homepage/academics/certificate-in-quant-methods/).

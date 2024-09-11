@@ -1,5 +1,5 @@
 ---
-title: "Samuel Vaillancout"
+title: "Samuel Vaillancout: Gold Mine Decarbonization"
 description: "Driving decarbonization strategy and implementation for one of the largest gold mining company globally."
 image: /files/headshots/samuel-vaillancourt.jpeg
 author: "Climate Guest Speakers"

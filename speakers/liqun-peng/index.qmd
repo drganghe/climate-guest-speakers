@@ -1,5 +1,5 @@
 ---
-title: "Liqun Peng"
+title: "Liqun Peng: Power System Decarbonization"
 description: " "
 image: /files/headshots/liqun-peng.jpg
 author: "Climate Guest Speakers"
@@ -24,7 +24,7 @@ listing:  #an example of listing external links
 #  sort-ui: true
 #  filter-ui: true
   contents:
-    - path: https://linkedin.com  #linkedin profile or personal website
+    - path: https://liqunpeng.com/  #linkedin profile or personal website
       image: /files/headshots/liqun-peng.jpg
       title: "Liqun Peng"
 #      author: 
