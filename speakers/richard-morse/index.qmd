@@ -1,10 +1,10 @@
 ---
-title: "Richard Morse: Renewable Energy Investment"
-description: "."
+title: "Ketch Morse: Renewable Energy Investment"
+description: "Ketch Morse will share his insights on renewable energy investment and opportunities driven by the Inflation Reduction Act."
 image: /files/headshots/richard-morse.jpeg
 author: "Climate Guest Speakers"
 date: "2024-09-16"
-categories: [Climate and Career]
+categories: [Climate and Markets]
 #bibliography: references.bib
 #csl: chicago-syllabus.csl
 #suppress-bibliography: true
@@ -25,9 +25,9 @@ listing:  #an example of listing external links
   contents:
     - path: https://www.linkedin.com/in/richard-morse-041a597/
       image: /files/headshots/richard-morse.jpeg
-      title: "Richard Morse"
+      title: "Ketch Morse"
 #      author: 
-      subtitle: "Principal, Global Infrastructure Partners "
+      subtitle: "Infrastructure and Energy Private Investment Firm"
 #      date: "2024-03-12"
 #      categories: [] 
 
@@ -50,7 +50,7 @@ Online via zoom. Please email for access.
 
 ## About
 
-
+Ketch Morse will share his insights on renewable energy investment and opportunities driven by the Inflation Reduction Act.
 
 ## Speaker
 
@@ -60,8 +60,12 @@ Online via zoom. Please email for access.
 
 ### Bio
 
+Ketch Morse has been working in energy and climate analysis and investment since 2006.
 
 
+## Readings
+
+EPA, [Summary of Inflation Reduction Act provisions related to renewable energy](https://www.epa.gov/green-power-markets/summary-inflation-reduction-act-provisions-related-renewable-energyy).
 
 <!--Include social share buttons-->
 

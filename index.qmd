@@ -19,7 +19,7 @@ listing:
    contents: /speakers
    exclude: 
     author: "Guest Speaker"
-    title: "Richard Morse*"
+    title: "Ketch Morse*"
    type: grid
    max-items: 3
    image-height: 300px
