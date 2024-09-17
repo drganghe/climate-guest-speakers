@@ -7,7 +7,7 @@ toc: false
 
 listing:
  - id: featured-speaker
-   contents: /speakers/richard-morse/
+   contents: /speakers/shirley-gallagher/
    type: default
    max-items: 1
    page-size: 0 #set as 0 will remove the page setting
@@ -16,10 +16,13 @@ listing:
      - "title asc"
 
  - id: recent-speakers
-   contents: /speakers
-   exclude: 
-    author: "Guest Speaker"
-    title: "Ketch Morse*"
+   contents:
+    - /speakers/kaifang-luo/
+    - /speakers/simi-george/
+    - /speakers/maryam-mozafari/
+#   exclude: 
+#   author: "Guest Speaker"
+#   title: "Ketch Morse*"
    type: grid
    max-items: 3
    image-height: 300px
