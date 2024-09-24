@@ -65,10 +65,10 @@
   {
     "listing": "/index.html",
     "items": [
-      "/speakers/shirley-gallagher/index.html",
       "/speakers/kaifang-luo/index.html",
       "/speakers/simi-george/index.html",
-      "/speakers/maryam-mozafari/index.html"
+      "/speakers/maryam-mozafari/index.html",
+      "/speakers/fabio-passaro/index.html"
     ]
   }
 ]

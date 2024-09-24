@@ -7,7 +7,7 @@ toc: false
 
 listing:
  - id: featured-speaker
-   contents: /speakers/shirley-gallagher/
+   contents: /speakers/kaifang-luo/
    type: default
    max-items: 1
    page-size: 0 #set as 0 will remove the page setting
@@ -17,9 +17,9 @@ listing:
 
  - id: recent-speakers
    contents:
-    - /speakers/kaifang-luo/
     - /speakers/simi-george/
     - /speakers/maryam-mozafari/
+    - /speakers/fabio-passaro/
 #   exclude: 
 #   author: "Guest Speaker"
 #   title: "Ketch Morse*"

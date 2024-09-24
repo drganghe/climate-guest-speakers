@@ -1,6 +1,6 @@
 ---
 title: "Kaifang Luo: Clean Energy Technologies Deployment"
-description: " "
+description: "Kaifang will share her research"
 image: https://deeppolicylab.github.io/files/headshots/kaifang-luo.jpeg
 author: "Climate Guest Speakers"
 date: "2024-09-30"
@@ -38,7 +38,7 @@ title-block-banner: false
 
 ## Title
 
-
+Clean Energy Technologies Deployment
 
 ### Time
 
@@ -59,7 +59,11 @@ More information about the speaker's session.
 
 ### Bio
 
+I am a Postdoctoral Researcher at the City University of New York, Baruch College.
 
+I specialize in Energy Policy and Environmental Economics. A significant portion of my research has examined nonlinear electricity pricing, energy demand, renewable energy adoption (e.g., solar photovoltaics and home batteries), and local economic impacts of Carbon Capture, Utilization, and Storage (CCUS). I obtained my Ph.D. degree in public policy (with a focus on energy economics) from the School of Public Policy University of Maryland.
+
+My studies have been published in the Journal of Cleaner Production, and Resources, Conservation and Recycling. A number of my research papers have been presented at conferences such as NBER, AERE, APPAM, and USAEE.
 
 ## Readings
 

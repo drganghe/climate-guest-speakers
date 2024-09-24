@@ -4,8 +4,8 @@ project:
 
 website:
   title: "Climate Guest Speakers"
-#  image: "/files/logo.jpeg"
-  description: "Guest speakers in the Energy and Climate Policy and Energy, Climate, and Society classes. Keywords: Climate speakers, climate and community, climate and community, climate and markets, climate insights"
+  image: "/files/headshots/you.png"
+  description: "Guest speakers in the Energy and Climate Policy and Energy, Climate, and Society classes. Keywords: Climate speakers, climate and community, climate and community, climate and markets, climate insights."
  
   navbar:
 #    background: "#05336B"
@@ -32,7 +32,7 @@ website:
         href: https://twitter.com/drganghe  
   page-navigation: true
   page-footer: 
-    left: "[Climate Guest Speakers](http://deeppolicylab.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    left: "[Climate Guest Speakers](https://drganghe.github.io/climate-guest-speakers/) &copy; <script>document.write(new Date().getFullYear())</script>" 
     right:  
       - icon: github
         href: https://github.com/drganghe/climate-guest-speakers
