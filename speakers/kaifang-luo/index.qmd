@@ -1,6 +1,6 @@
 ---
-title: "Kaifang Luo: Clean Energy Technologies Deployment"
-description: "Kaifang will share her research"
+title: "Kaifang Luo: The Hidden Value of Carbon Capture and Storage—Assessing the Impact of CCS Projects on U.S. Housing Markets"
+description: "Kaifang will share her research on CCS projects and housing markets."
 image: https://deeppolicylab.github.io/files/headshots/kaifang-luo.jpeg
 author: "Climate Guest Speakers"
 date: "2024-09-30"
@@ -38,7 +38,7 @@ title-block-banner: false
 
 ## Title
 
-Clean Energy Technologies Deployment
+The Hidden Value of Carbon Capture and Storage: Assessing the Impact of CCS Projects on U.S. Housing Markets
 
 ### Time
 
@@ -49,7 +49,7 @@ Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to parti
 
 ## About
 
-More information about the speaker's session.
+As our world seeks urgent solutions to reduce carbon emissions, Carbon Capture and Storage (CCS) technologies have emerged as a critical tool in our climate mitigation arsenal. This talk will begin with an essential overview of CCS - explaining what it is, how it works, and why it’s important. The discussion will then delve into insights from our recent study exploring the economic impacts of CCS projects on local communities, with a specific focus on how these facilities influence nearby property values in the United States.
 
 ## Speaker
 
@@ -67,7 +67,7 @@ My studies have been published in the Journal of Cleaner Production, and Resourc
 
 ## Readings
 
-
+Luo, K., Qiu, Y. L., Liu, P., & Mei, Y. (2024). Estimation of Property Value Changes from Nearby Carbon Capture, Utilization, and Storage Projects in the United States (No. w32713). National Bureau of Economic Research. <https://www.nber.org/papers/w32713>.
 
 <!--Include social share buttons-->
 
