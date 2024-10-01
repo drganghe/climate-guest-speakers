@@ -65,10 +65,10 @@
   {
     "listing": "/index.html",
     "items": [
-      "/speakers/kaifang-luo/index.html",
       "/speakers/simi-george/index.html",
       "/speakers/maryam-mozafari/index.html",
-      "/speakers/fabio-passaro/index.html"
+      "/speakers/fabio-passaro/index.html",
+      "/speakers/liqun-peng/index.html"
     ]
   }
 ]
