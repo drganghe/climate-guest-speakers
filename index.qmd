@@ -10,6 +10,7 @@ listing:
    contents: /speakers/maryam-mozafari/
    type: default
    max-items: 1
+   image-height: 300px
    page-size: 0 #set as 0 will remove the page setting
    sort: 
      - "date asc"
