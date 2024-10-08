@@ -1,13 +1,13 @@
 ---
 title: "Climate Guest Speakers"
 css: /custom.css
-#image: files/logo.jpeg
+image: files/headshots/you.png
 page-layout: full
 toc: false
 
 listing:
  - id: featured-speaker
-   contents: /speakers/simi-george/
+   contents: /speakers/maryam-mozafari/
    type: default
    max-items: 1
    page-size: 0 #set as 0 will remove the page setting
@@ -17,9 +17,9 @@ listing:
 
  - id: recent-speakers
    contents:
-    - /speakers/maryam-mozafari/
     - /speakers/fabio-passaro/
     - /speakers/liqun-peng/
+    - /speakers/samuel-vaillancourt/
 #   exclude: 
 #   author: "Guest Speaker"
 #   title: "Ketch Morse*"
