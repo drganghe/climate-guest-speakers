@@ -1,6 +1,6 @@
 ---
-title: "Maryam Mozafari: Transitioning from the oil & gas industry to renewable energy"
-description: "Maryam will talk about her own experience transitioning from the oil & gas industry to renewable energy and then choosing climate change policy as a career."
+title: "Maryam Mozafari: From Fossil Fuels to Future Fuels — A journey from the oilrigs to climate policy"
+description: "Maryam will talk about her own experience transitioning from the oil & gas industry to impactful large-scale clean energy policy."
 image: /files/headshots/maryam-mozafari.webp
 author: "Climate Guest Speakers"
 date: "2024-10-15"
@@ -38,6 +38,8 @@ title-block-banner: false
 
 ## Title
 
+From Fossil Fuels to Future Fuels — A journey from the oilrigs to climate policy
+
 
 ### Time
 
@@ -48,7 +50,8 @@ Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to parti
 
 ## About
 
-Maryam will share her work at CPUC and talk about her own experience transitioning from the oil & gas industry to renewable energy and then choosing climate change policy as a career. 
+This talk captures Maryam's career evolution from technical roles in traditional energy sectors to a focus on impactful, large-scale clean energy policy. It highlights personal growth, key turning points, and current role in shaping innovative energy solutions in California.
+
 
 ## Speaker
 
