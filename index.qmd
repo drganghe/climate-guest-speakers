@@ -7,7 +7,7 @@ toc: false
 
 listing:
  - id: featured-speaker
-   contents: /speakers/maryam-mozafari/
+   contents: /speakers/fabio-passaro/
    type: default
    max-items: 1
    image-height: 300px
@@ -18,9 +18,9 @@ listing:
 
  - id: recent-speakers
    contents:
-    - /speakers/fabio-passaro/
     - /speakers/liqun-peng/
     - /speakers/samuel-vaillancourt/
+    - /speakers/bharathi-esakkimuthu/
 #   exclude: 
 #   author: "Guest Speaker"
 #   title: "Ketch Morse*"

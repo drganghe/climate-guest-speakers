@@ -65,10 +65,10 @@
   {
     "listing": "/index.html",
     "items": [
-      "/speakers/maryam-mozafari/index.html",
       "/speakers/fabio-passaro/index.html",
       "/speakers/liqun-peng/index.html",
-      "/speakers/samuel-vaillancourt/index.html"
+      "/speakers/samuel-vaillancourt/index.html",
+      "/speakers/bharathi-esakkimuthu/index.html"
     ]
   }
 ]
