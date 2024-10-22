@@ -1,6 +1,6 @@
 ---
-title: "Liqun Peng: Power System Decarbonization"
-description: " "
+title: "Liqun Peng: Power Systems Decarbonization"
+description: "Dr. Peng will share her research on modeling power systems decarbonization"
 image: /files/headshots/liqun-peng.jpg
 author: "Climate Guest Speakers"
 date: "2024-10-28"
@@ -38,7 +38,7 @@ title-block-banner: false
 
 ## Title
 
-
+Power systems decarbonization
 
 ### Time
 
@@ -49,7 +49,7 @@ Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to parti
 
 ## About
 
-More information about the speaker's session.
+Dr. Peng will share her research on modeling power systems decarbonization.
 
 ## Speaker
 
@@ -59,9 +59,10 @@ More information about the speaker's session.
 
 ### Bio
 
+I am a postdoc in the Energy Technology Area at Lawrence Berkeley National Lab. My research focuses on clean energy transition, energy and climate policies, power system modeling, and sustainability. I obtained my PhD in Science, Technology, and Environmental Policy from the School of Public and International Affairs at Princeton University in January 2023. During my PhD, I employed interdisciplinary approaches, including optimization models, atmospheric chemistry models, and life cycle assessment, to quantify the trade-offs in deploying clean energy and low-carbon technologies, with a focus on energy transition, environmental impact and climate implications.
 
+Prior to attending Princeton University, I received a Master’s degree in Environmental Science and Engineering from Tsinghua University, where I developed an emission inventory of air pollutant and GHG emissions in China’ rural residential sector based on national level survey data and applied atmospheric chemistry models to evaluate the impacts of emission mitigation policies on air quality. I hold undergraduate degrees in Forestry and Ecology from Beijing Forestry University.
 
-## Readings
 
 
 
