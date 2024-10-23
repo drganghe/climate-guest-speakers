@@ -1,6 +1,6 @@
 ---
 title: "Kaifang Luo: The Hidden Value of Carbon Capture and Storage—Assessing the Impact of CCS Projects on U.S. Housing Markets"
-description: "Kaifang will share her research on CCS projects and housing markets."
+description: "Dr. Luo will share her research on CCS projects and housing markets."
 image: https://deeppolicylab.github.io/files/headshots/kaifang-luo.jpeg
 author: "Climate Guest Speakers"
 date: "2024-09-30"
