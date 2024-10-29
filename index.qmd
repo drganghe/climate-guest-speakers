@@ -7,7 +7,7 @@ toc: false
 
 listing:
  - id: featured-speaker
-   contents: /speakers/liqun-peng/
+   contents: /speakers/samuel-vaillancourt/
    type: default
    max-items: 1
    image-height: 300px
@@ -18,7 +18,6 @@ listing:
 
  - id: recent-speakers
    contents:
-    - /speakers/samuel-vaillancourt/
     - /speakers/bharathi-esakkimuthu/
     - /speakers/mohsen-fatemi/
 #   exclude: 
