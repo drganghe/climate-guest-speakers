@@ -1,5 +1,5 @@
 ---
-title: "Samuel Vaillancout: Gold Mine Decarbonization"
+title: "Samuel Vaillancout: Mining Industry Decarbonization"
 description: "Driving decarbonization strategy and implementation for one of the largest gold mining company globally."
 image: /files/headshots/samuel-vaillancourt.jpeg
 author: "Climate Guest Speakers"
@@ -39,7 +39,7 @@ title-block-banner: false
 
 ## Title
 
-Gold mine sustainability
+Mining Industry Decarbonization
 
 ### Time
 
@@ -60,8 +60,9 @@ I will discuss how I ended up in the privileged, hard but very rewarding positio
 
 ### Bio
 
+Samuel Vaillancourt is with Innovation, Energy & Decarbonization, Siemens Energy. Prior to Siemens, he was with the Innovation, Energy & Decarbonization of Agnico Eagle Mines Limited.
 
-
+\
 
 <!--Include social share buttons-->
 
