@@ -7,7 +7,7 @@ toc: false
 
 listing:
  - id: featured-speaker
-   contents: /speakers/samuel-vaillancourt/
+   contents: /speakers/bharathi-esakkimuthu/
    type: default
    max-items: 1
    image-height: 300px
@@ -18,8 +18,8 @@ listing:
 
  - id: recent-speakers
    contents:
-    - /speakers/bharathi-esakkimuthu/
     - /speakers/mohsen-fatemi/
+    - /speakers/josiah-johnston/
 #   exclude: 
 #   author: "Guest Speaker"
 #   title: "Ketch Morse*"

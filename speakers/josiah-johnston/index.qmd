@@ -1,10 +1,10 @@
 ---
-title: "Josiah Johnston"
-description: ""
+title: "Josiah Johnston: Big data, AI, energy and climate analysis"
+description: "Big data, AI, energy and climate analysis"
 image: /files/headshots/josiah-johnston.jpg
-author: "Guest Speaker"
-date: "2024-09-09"
-categories: [Climate and Career]
+author: "Climate Guest Speaker"
+date: "2025-02-03"
+categories: [Climate Insights]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl
@@ -28,7 +28,7 @@ listing:  #an example of listing external links
       image: /files/headshots/josiah-johnston.jpg
       title: "Josiah Johnston"
 #      author: 
-      subtitle: "Daikin"
+      subtitle: "Daikin Open Innovation Lab Silicon Valley"
 #      date: "2024-03-12"
 #      categories: [] 
 page-navigation: false
@@ -38,17 +38,18 @@ title-block-banner: false
 
 ## Title
 
-
+Big data, AI, energy and climate analysis
 
 ### Time
 
-Monday, Date, 6:00PM - 7:00PM
+Monday, February 3, 2025, 6:00PM - 7:00PM ET
 
 ### Venue 
 Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
 
 ## About
 
+Josiah will share his experiences to use data and model to do robust data-driven analysis and how does it could facilitate policy discussions.
 
 
 ## Speaker
@@ -59,6 +60,7 @@ Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to parti
 
 ### Bio
 
+Josiah Johnston is currently a Director of Data Science at Daikin Open Innovation Lab Silicon Valley.
 
 
 <!--Include social share buttons-->

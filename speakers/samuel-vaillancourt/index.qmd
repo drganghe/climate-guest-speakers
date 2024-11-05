@@ -4,7 +4,7 @@ description: "Driving decarbonization strategy and implementation for one of the
 image: /files/headshots/samuel-vaillancourt.jpeg
 author: "Climate Guest Speakers"
 date: "2024-11-04"
-categories: [Climate and Career]
+categories: [Climate and Industry]
 #bibliography: references.bib
 #csl: chicago-syllabus.csl
 #suppress-bibliography: true

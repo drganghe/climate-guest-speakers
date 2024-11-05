@@ -1,6 +1,6 @@
 ---
 title: "Mohsen Fatemi: Passion, Profession, Progression"
-description: " "
+description: "Mohsen will share his career experiences and research on including social equity in energy planning"
 image: /files/headshots/mohsen-fatemi.jpeg
 author: "Climate Guest Speakers"
 date: "2024-11-18"
@@ -61,7 +61,7 @@ I’m S. Mohsen Fatemi, a doctoral researcher in public administration with an i
 
 Mohsen Fatemi is a doctoral candidate in the School of Public Affairs and Administration at the University of Kansas. His research centers on Energy and Environmental governance, policy, and justice. Additionally, as an urban planner and architect, he has experience in sustainability, climate action planning, and energy efficiency. 
 
-
+\
 <!--Include social share buttons-->
 
 {{< include /files/includes/_socialshare.qmd >}}
