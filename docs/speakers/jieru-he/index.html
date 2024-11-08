@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Climate Guest Speaker">
+<meta name="dcterms.date" content="2025-02-10">
+<meta name="description" content="Comprehensive overview of climate stress testing within financial institutions">
 
-<title>Climate Guest Speakers</title>
+<title>Jieru He: Assessing Climate Risk Through Stress Testing in Financial Institutions – Climate Guest Speakers</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +26,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-3a01e2046221230fdceeea94b1ec5d67.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8603c7c062662f1caead21ebe114d4bc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-3a01e2046221230fdceeea94b1ec5d67.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-8603c7c062662f1caead21ebe114d4bc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,48 +73,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-featured-speaker .list');
+    const listingTargetEl = window.document.querySelector('#listing-speaker .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-image","listing-title","listing-subtitle"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-featured-speaker'] = new List('listing-featured-speaker', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recent-speakers .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recent-speakers'] = new List('listing-recent-speakers', options);
+    window['quarto-listings']['listing-speaker'] = new List('listing-speaker', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -164,17 +139,14 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="./custom.css">
-<meta property="og:title" content="Climate Guest Speakers">
-<meta property="og:image" content="http://drganghe.github.io/climate-guest-speakers/files/headshots/you.png">
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="Jieru He: Assessing Climate Risk Through Stress Testing in Financial Institutions – Climate Guest Speakers">
+<meta property="og:description" content="Comprehensive overview of climate stress testing within financial institutions">
+<meta property="og:image" content="http://drganghe.github.io/climate-guest-speakers/files/headshots/jieru-he.jpeg">
 <meta property="og:site_name" content="Climate Guest Speakers">
-<meta property="og:image:height" content="364">
-<meta property="og:image:width" content="387">
-<meta name="twitter:title" content="Climate Guest Speakers">
-<meta name="twitter:image" content="http://drganghe.github.io/climate-guest-speakers/files/headshots/you.png">
-<meta name="twitter:image-height" content="364">
-<meta name="twitter:image-width" content="387">
+<meta name="twitter:title" content="Jieru He: Assessing Climate Risk Through Stress Testing in Financial Institutions – Climate Guest Speakers">
+<meta name="twitter:description" content="Comprehensive overview of climate stress testing within financial institutions">
+<meta name="twitter:image" content="http://drganghe.github.io/climate-guest-speakers/files/headshots/jieru-he.jpeg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -185,7 +157,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Climate Guest Speakers</span>
     </a>
   </div>
@@ -196,11 +168,11 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./speakers.html"> 
+    <a class="nav-link" href="../../speakers.html"> 
 <span class="menu-text">All Speakers</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -219,7 +191,7 @@ window.Quarto = {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./support.html"> 
+    <a class="nav-link" href="../../support.html"> 
 <span class="menu-text">Support</span></a>
   </li>  
 </ul>
@@ -247,23 +219,60 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#title" id="toc-title" class="nav-link active" data-scroll-target="#title">Title</a>
+  <ul class="collapse">
+  <li><a href="#time" id="toc-time" class="nav-link" data-scroll-target="#time">Time</a></li>
+  <li><a href="#venue" id="toc-venue" class="nav-link" data-scroll-target="#venue">Venue</a></li>
+  </ul></li>
+  <li><a href="#about" id="toc-about" class="nav-link" data-scroll-target="#about">About</a></li>
+  <li><a href="#speaker" id="toc-speaker" class="nav-link" data-scroll-target="#speaker">Speaker</a>
+  <ul class="collapse">
+  <li><a href="#bio" id="toc-bio" class="nav-link" data-scroll-target="#bio">Bio</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Climate Guest Speakers</h1>
+<h1 class="title">Jieru He: Assessing Climate Risk Through Stress Testing in Financial Institutions</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Climate Insights</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    Comprehensive overview of climate stress testing within financial institutions
+  </div>
 </div>
 
 
+<div class="quarto-title-meta">
 
-<div class="quarto-title-meta column-page">
-
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Climate Guest Speaker </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 10, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -273,132 +282,38 @@ window.Quarto = {
 </header>
 
 
-<!--Please delete or replace with your own clarity-->
-<!-- 
-https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
--->
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "ktfar1v3c9");
-</script>
-<section id="featured-speaker" class="level2">
-<h2 class="anchored" data-anchor-id="featured-speaker">Featured speaker</h2>
-<div id="listing-featured-speaker" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Climate and Career" data-listing-date-sort="1731301200000" data-listing-file-modified-sort="1729520166028" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="147">
-<div class="thumbnail">
-<p><a href="./speakers/bharathi-esakkimuthu/index.html" class="no-external"></a></p><a href="./speakers/bharathi-esakkimuthu/index.html" class="no-external">
-<p><img loading="lazy" data-src="./files/headshots/bharathi-esakkimuthu.jpg" class="thumbnail-image" style="height: 300px;"></p>
-</a><p><a href="./speakers/bharathi-esakkimuthu/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./speakers/bharathi-esakkimuthu/index.html" class="no-external">Bharathi Esakkimuthu: Climate Career Options and Skills</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./speakers/bharathi-esakkimuthu/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./speakers/bharathi-esakkimuthu/index.html" class="no-external">Bharathi will use her experiences to share the multiple venues for climate careers and what skills can be useful in each of those career paths.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./speakers/bharathi-esakkimuthu/index.html" class="no-external">
-<div class="listing-date">
-Nov 11, 2024
-</div>
-<div class="listing-author">
-Climate Guest Speakers
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-<nav id="featured-speaker-pagination" class="listing-pagination" aria-label="Page Navigation">
-  <ul class="pagination"></ul>
-</nav>
-</div>
+<section id="title" class="level2">
+<h2 class="anchored" data-anchor-id="title">Title</h2>
+<p>Assessing Climate Risk Through Stress Testing in Financial Institutions</p>
+<section id="time" class="level3">
+<h3 class="anchored" data-anchor-id="time">Time</h3>
+<p>Monday, February 10, 2025, 6:00PM - 7:00PM ET</p>
 </section>
-<section id="upcoming-speakers" class="level2">
-<h2 class="anchored" data-anchor-id="upcoming-speakers">Upcoming speakers</h2>
-<div id="listing-recent-speakers" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Climate and Community" data-listing-date-sort="1731906000000" data-listing-file-modified-sort="1730807535896" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="207">
-<a href="./speakers/mohsen-fatemi/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
+<section id="venue" class="level3">
+<h3 class="anchored" data-anchor-id="venue">Venue</h3>
+<p>Online via zoom. Please <a href="https://forms.gle/65hnhJPmnYaz5utG9">register</a> to participate.</p>
+</section>
+</section>
+<section id="about" class="level2">
+<h2 class="anchored" data-anchor-id="about">About</h2>
+<p>Comprehensive overview of climate stress testing within financial institutions</p>
+</section>
+<section id="speaker" class="level2">
+<h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
+<div id="listing-speaker" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0">
+<a href="https://www.linkedin.com/in/jieru-he/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" data-src="./files/headshots/mohsen-fatemi.jpeg" class="thumbnail-image card-img" style="height: 300px;">
+<img loading="lazy" src="../../files/headshots/jieru-he.jpeg" class="thumbnail-image card-img" style="height: 300px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Mohsen Fatemi: Passion, Profession, Progression
+Jieru He
 </h5>
-<div class="card-text listing-description">
-Mohsen will share his career experiences and research on including social equity in energy planning
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Climate Guest Speakers
-</div>
-<div class="listing-date">
-Nov 18, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="Climate Insights" data-listing-date-sort="1738558800000" data-listing-file-modified-sort="1730734275341" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
-<a href="./speakers/josiah-johnston/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" data-src="./files/headshots/josiah-johnston.jpg" class="thumbnail-image card-img" style="height: 300px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Josiah Johnston: Big data, AI, energy and climate analysis
-</h5>
-<div class="card-text listing-description">
-Big data, AI, energy and climate analysis
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Climate Guest Speaker
-</div>
-<div class="listing-date">
-Feb 3, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Climate Insights" data-listing-date-sort="1739163600000" data-listing-file-modified-sort="1731081207037" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
-<a href="./speakers/jieru-he/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" data-src="./files/headshots/jieru-he.jpeg" class="thumbnail-image card-img" style="height: 300px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Jieru He: Assessing Climate Risk Through Stress Testing in Financial Institutions
-</h5>
-<div class="card-text listing-description">
-Comprehensive overview of climate stress testing within financial institutions
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Climate Guest Speaker
-</div>
-<div class="listing-date">
-Feb 10, 2025
-</div>
+<div class="card-subtitle listing-subtitle">
+Citigroup
 </div>
 </div>
 </div>
@@ -408,13 +323,24 @@ Feb 10, 2025
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-<nav id="recent-speakers-pagination" class="listing-pagination" aria-label="Page Navigation">
-  <ul class="pagination"></ul>
-</nav>
 </div>
+<section id="bio" class="level3">
+<h3 class="anchored" data-anchor-id="bio">Bio</h3>
+<p>Jieru He is a researcher and analyst, driven by a deep passion for integrating her knowledge of climate risk and sustainability into finance and economics. Jieru focuses on translating the impact of climate transition risk on high-emission sectors within wholesale credit risk space and supports conducting regulatory climate risk stress tests. In addition, she has extensive practice and experience in sustainable and resilient development, the mining sectors, water risk, and biodiversity research in multiple countries, including India, China, Brazil, the Middle East, and the US.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

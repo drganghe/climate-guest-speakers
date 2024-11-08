@@ -16,7 +16,8 @@
       "/speakers/samuel-vaillancourt/index.html",
       "/speakers/bharathi-esakkimuthu/index.html",
       "/speakers/mohsen-fatemi/index.html",
-      "/speakers/josiah-johnston/index.html"
+      "/speakers/josiah-johnston/index.html",
+      "/speakers/jieru-he/index.html"
     ]
   },
   {
@@ -68,11 +69,16 @@
     "items": [
       "/speakers/bharathi-esakkimuthu/index.html",
       "/speakers/mohsen-fatemi/index.html",
-      "/speakers/josiah-johnston/index.html"
+      "/speakers/josiah-johnston/index.html",
+      "/speakers/jieru-he/index.html"
     ]
   },
   {
     "listing": "/speakers/josiah-johnston/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/jieru-he/index.html",
     "items": []
   }
 ]

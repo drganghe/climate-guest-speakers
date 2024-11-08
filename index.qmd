@@ -20,6 +20,7 @@ listing:
    contents:
     - /speakers/mohsen-fatemi/
     - /speakers/josiah-johnston/
+    - /speakers/jieru-he/
 #   exclude: 
 #   author: "Guest Speaker"
 #   title: "Ketch Morse*"
