@@ -4,7 +4,7 @@ description: "Comprehensive overview of climate stress testing within financial 
 image: /files/headshots/jieru-he.jpeg
 author: "Climate Guest Speaker"
 date: "2025-02-10"
-categories: [Climate Insights]
+categories: [Climate and Markets]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl
