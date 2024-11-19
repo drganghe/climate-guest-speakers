@@ -70,34 +70,6 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-featured-speaker .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-featured-speaker'] = new List('listing-featured-speaker', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-recent-speakers .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -112,6 +84,34 @@ ul.task-list li input[type="checkbox"] {
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-recent-speakers'] = new List('listing-recent-speakers', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-fall24-speakers .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-fall24-speakers'] = new List('listing-fall24-speakers', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -284,47 +284,12 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ktfar1v3c9");
 </script>
-<section id="featured-speaker" class="level2">
-<h2 class="anchored" data-anchor-id="featured-speaker">Featured speaker</h2>
-<div id="listing-featured-speaker" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Climate and Community" data-listing-date-sort="1731906000000" data-listing-file-modified-sort="1730807535896" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="207">
-<div class="thumbnail">
-<p><a href="./speakers/mohsen-fatemi/index.html" class="no-external"></a></p><a href="./speakers/mohsen-fatemi/index.html" class="no-external">
-<p><img loading="lazy" data-src="./files/headshots/mohsen-fatemi.jpeg" class="thumbnail-image" style="height: 300px;"></p>
-</a><p><a href="./speakers/mohsen-fatemi/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./speakers/mohsen-fatemi/index.html" class="no-external">Mohsen Fatemi: Passion, Profession, Progression</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./speakers/mohsen-fatemi/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./speakers/mohsen-fatemi/index.html" class="no-external">Mohsen will share his career experiences and research on including social equity in energy planning</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./speakers/mohsen-fatemi/index.html" class="no-external">
-<div class="listing-date">
-Nov 18, 2024
-</div>
-<div class="listing-author">
-Climate Guest Speakers
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-<nav id="featured-speaker-pagination" class="listing-pagination" aria-label="Page Navigation">
-  <ul class="pagination"></ul>
-</nav>
-</div>
-</section>
+<!--
+## Featured speaker
+
+:::{#featured-speaker}
+:::
+-->
 <section id="upcoming-speakers" class="level2">
 <h2 class="anchored" data-anchor-id="upcoming-speakers">Upcoming speakers</h2>
 <div id="listing-recent-speakers" class="quarto-listing quarto-listing-container-grid">
@@ -384,6 +349,109 @@ Feb 10, 2025
 No matching items
 </div>
 <nav id="recent-speakers-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div>
+</section>
+<section id="fall-2024-speakers" class="level2">
+<h2 class="anchored" data-anchor-id="fall-2024-speakers">Fall 2024 speakers</h2>
+<div id="listing-fall24-speakers" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-5">
+<div class="g-col-1" data-index="0" data-categories="Climate and Markets" data-listing-date-sort="1726459200000" data-listing-file-modified-sort="1729520191442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
+<a href="./speakers/richard-morse/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/richard-morse.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Climate and Career" data-listing-date-sort="1727064000000" data-listing-file-modified-sort="1729520202150" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="288">
+<a href="./speakers/shirley-gallagher/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/shirley-gallagher.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Climate Insights" data-listing-date-sort="1727668800000" data-listing-file-modified-sort="1729709851192" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="273">
+<a href="./speakers/kaifang-luo/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://deeppolicylab.github.io/files/headshots/kaifang-luo.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Climate and Career" data-listing-date-sort="1728273600000" data-listing-file-modified-sort="1729520206290" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="189">
+<a href="./speakers/simi-george/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/simi-george.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="Climate and Career" data-listing-date-sort="1728964800000" data-listing-file-modified-sort="1729520183359" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="194">
+<a href="./speakers/maryam-mozafari/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/maryam-mozafari.webp" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Climate and Career" data-listing-date-sort="1729483200000" data-listing-file-modified-sort="1729520324273" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="297">
+<a href="./speakers/fabio-passaro/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/fabio-passaro.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="Climate Insights" data-listing-date-sort="1730088000000" data-listing-file-modified-sort="1729709909604" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="257">
+<a href="./speakers/liqun-peng/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/liqun-peng.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="Climate and Industry" data-listing-date-sort="1730696400000" data-listing-file-modified-sort="1730838670463" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
+<a href="./speakers/samuel-vaillancourt/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/samuel-vaillancourt.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="Climate and Career" data-listing-date-sort="1731301200000" data-listing-file-modified-sort="1729520166028" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="147">
+<a href="./speakers/bharathi-esakkimuthu/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/bharathi-esakkimuthu.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="9" data-categories="Climate and Community" data-listing-date-sort="1731906000000" data-listing-file-modified-sort="1730807535896" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="207">
+<a href="./speakers/mohsen-fatemi/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/mohsen-fatemi.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+<nav id="fall24-speakers-pagination" class="listing-pagination" aria-label="Page Navigation">
   <ul class="pagination"></ul>
 </nav>
 </div>

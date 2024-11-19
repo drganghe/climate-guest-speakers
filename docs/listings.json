@@ -6,18 +6,18 @@
   {
     "listing": "/speakers.html",
     "items": [
-      "/speakers/richard-morse/index.html",
-      "/speakers/shirley-gallagher/index.html",
-      "/speakers/kaifang-luo/index.html",
-      "/speakers/simi-george/index.html",
-      "/speakers/maryam-mozafari/index.html",
-      "/speakers/fabio-passaro/index.html",
-      "/speakers/liqun-peng/index.html",
-      "/speakers/samuel-vaillancourt/index.html",
-      "/speakers/bharathi-esakkimuthu/index.html",
-      "/speakers/mohsen-fatemi/index.html",
+      "/speakers/jieru-he/index.html",
       "/speakers/josiah-johnston/index.html",
-      "/speakers/jieru-he/index.html"
+      "/speakers/mohsen-fatemi/index.html",
+      "/speakers/bharathi-esakkimuthu/index.html",
+      "/speakers/samuel-vaillancourt/index.html",
+      "/speakers/liqun-peng/index.html",
+      "/speakers/fabio-passaro/index.html",
+      "/speakers/maryam-mozafari/index.html",
+      "/speakers/simi-george/index.html",
+      "/speakers/kaifang-luo/index.html",
+      "/speakers/shirley-gallagher/index.html",
+      "/speakers/richard-morse/index.html"
     ]
   },
   {
@@ -67,9 +67,18 @@
   {
     "listing": "/index.html",
     "items": [
-      "/speakers/mohsen-fatemi/index.html",
       "/speakers/josiah-johnston/index.html",
-      "/speakers/jieru-he/index.html"
+      "/speakers/jieru-he/index.html",
+      "/speakers/richard-morse/index.html",
+      "/speakers/shirley-gallagher/index.html",
+      "/speakers/kaifang-luo/index.html",
+      "/speakers/simi-george/index.html",
+      "/speakers/maryam-mozafari/index.html",
+      "/speakers/fabio-passaro/index.html",
+      "/speakers/liqun-peng/index.html",
+      "/speakers/samuel-vaillancourt/index.html",
+      "/speakers/bharathi-esakkimuthu/index.html",
+      "/speakers/mohsen-fatemi/index.html"
     ]
   },
   {

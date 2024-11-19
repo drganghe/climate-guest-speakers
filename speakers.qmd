@@ -17,7 +17,7 @@ listing:
    filter-ui: true
    page-size: 0 #set as 0 will remove the page setting
    sort: 
-     - "date asc"
+     - "date desc"
      - "title asc"
 ---
 
