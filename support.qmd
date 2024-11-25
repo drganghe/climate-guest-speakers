@@ -12,13 +12,13 @@ listing:
   fields: [image, title, subtitle, description]
   grid-item-align: left
   grid-columns: 1
-  image-height: 200px
+  image-height: 250px
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
   contents:
     - path: https://marxe.baruch.cuny.edu/about/
-      image: https://marxe.baruch.cuny.edu/wp-content/uploads/sites/7/2024/03/Marxe30_webslider.jpg
+      image: /files/images/Marxe-30.jpg
       title: "Marxe School of Public and International Affairs"
 #      author: 
       subtitle: "Advancing Public Service Education"

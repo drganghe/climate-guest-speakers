@@ -28,16 +28,18 @@ website:
     right:
       - icon: github
         href: https://github.com/drganghe/climate-guest-speakers
-      - icon: twitter 
-        href: https://twitter.com/drganghe  
+      - text: "{{< fa brands bluesky >}}" 
+        href: https://bsky.app/profile/hegang.bsky.social
+        target: _blank 
   page-navigation: true
   page-footer: 
     left: "[Climate Guest Speakers](https://drganghe.github.io/climate-guest-speakers/) &copy; <script>document.write(new Date().getFullYear())</script>" 
     right:  
       - icon: github
         href: https://github.com/drganghe/climate-guest-speakers
-      - icon: twitter 
-        href: https://twitter.com/drganghe
+      - text: "{{< fa brands bluesky >}}" 
+        href: https://bsky.app/profile/hegang.bsky.social
+        target: _blank
   search:
     location: navbar
     type: textbox

@@ -29,19 +29,11 @@
     "items": []
   },
   {
-    "listing": "/speakers/simi-george/index.html",
+    "listing": "/speakers/josiah-johnston/index.html",
     "items": []
   },
   {
-    "listing": "/speakers/kaifang-luo/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/samuel-vaillancourt/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/bharathi-esakkimuthu/index.html",
+    "listing": "/speakers/liqun-peng/index.html",
     "items": []
   },
   {
@@ -49,7 +41,23 @@
     "items": []
   },
   {
-    "listing": "/speakers/liqun-peng/index.html",
+    "listing": "/speakers/jieru-he/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/bharathi-esakkimuthu/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/samuel-vaillancourt/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/kaifang-luo/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/simi-george/index.html",
     "items": []
   },
   {
@@ -80,13 +88,5 @@
       "/speakers/bharathi-esakkimuthu/index.html",
       "/speakers/mohsen-fatemi/index.html"
     ]
-  },
-  {
-    "listing": "/speakers/josiah-johnston/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/jieru-he/index.html",
-    "items": []
   }
 ]

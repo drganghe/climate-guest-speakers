@@ -36,8 +36,8 @@ listing:
     - /speakers/mohsen-fatemi/
     - /speakers/bharathi-esakkimuthu/
     - /speakers/samuel-vaillancourt/
+    - /speakers/fabio-passaro/ 
     - /speakers/liqun-peng/
-    - /speakers/fabio-passaro/
     - /speakers/maryam-mozafari/
     - /speakers/simi-george/
     - /speakers/kaifang-luo/
@@ -64,12 +64,12 @@ listing:
 :::
 -->
 
-## Upcoming speakers
+## Upcoming Speakers
 
 :::{#recent-speakers}
 :::
 
-## Fall 2024 speakers
+## Fall 2024 Speakers
 
 :::{#fall24-speakers}
 :::
