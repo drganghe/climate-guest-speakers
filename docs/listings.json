@@ -6,6 +6,7 @@
   {
     "listing": "/speakers.html",
     "items": [
+      "/speakers/ines-benachir/index.html",
       "/speakers/jieru-he/index.html",
       "/speakers/josiah-johnston/index.html",
       "/speakers/mohsen-fatemi/index.html",
@@ -77,6 +78,7 @@
     "items": [
       "/speakers/josiah-johnston/index.html",
       "/speakers/jieru-he/index.html",
+      "/speakers/ines-benachir/index.html",
       "/speakers/richard-morse/index.html",
       "/speakers/shirley-gallagher/index.html",
       "/speakers/kaifang-luo/index.html",
@@ -88,5 +90,9 @@
       "/speakers/bharathi-esakkimuthu/index.html",
       "/speakers/mohsen-fatemi/index.html"
     ]
+  },
+  {
+    "listing": "/speakers/ines-benachir/index.html",
+    "items": []
   }
 ]
