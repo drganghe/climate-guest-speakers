@@ -2,7 +2,7 @@
 title: "Jieru He: Assessing Climate Risk Through Stress Testing in Financial Institutions"
 description: "Comprehensive overview of climate stress testing within financial institutions"
 image: /files/headshots/jieru-he.jpeg
-author: "Climate Guest Speaker"
+author: "Climate Guest Speakers"
 date: "2025-02-10"
 categories: [Climate and Markets]
 #page-layout: full

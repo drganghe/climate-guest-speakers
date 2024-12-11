@@ -46,6 +46,10 @@
     "items": []
   },
   {
+    "listing": "/speakers/ines-benachir/index.html",
+    "items": []
+  },
+  {
     "listing": "/speakers/bharathi-esakkimuthu/index.html",
     "items": []
   },
@@ -90,9 +94,5 @@
       "/speakers/bharathi-esakkimuthu/index.html",
       "/speakers/mohsen-fatemi/index.html"
     ]
-  },
-  {
-    "listing": "/speakers/ines-benachir/index.html",
-    "items": []
   }
 ]

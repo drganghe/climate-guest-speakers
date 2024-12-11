@@ -2,7 +2,7 @@
 title: "Josiah Johnston: Big data, AI, energy and climate analysis"
 description: "Big data, AI, energy and climate analysis"
 image: /files/headshots/josiah-johnston.jpg
-author: "Climate Guest Speaker"
+author: "Climate Guest Speakers"
 date: "2025-02-03"
 categories: [Climate Insights]
 #page-layout: full

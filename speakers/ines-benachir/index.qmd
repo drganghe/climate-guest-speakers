@@ -2,9 +2,9 @@
 title: "Ines Benachir: Life Cycle Analysis and Ecodesign of PV Panels"
 description: ""
 image: /files/headshots/ines-benachir.jpeg
-author: "Climate Guest Speaker"
+author: "Climate Guest Speakers"
 date: "2025-02-18"
-categories: [Climate and Markets]
+categories: [Climate and Environment]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl
@@ -24,7 +24,7 @@ listing:  #an example of listing external links
 #  sort-ui: true
 #  filter-ui: true
   contents:
-    - path: linkedin.com/in/ines-benachir  #linkedin profile or personal website
+    - path: https://linkedin.com/in/ines-benachir  #linkedin profile or personal website
       image: /files/headshots/ines-benachir.jpeg
       title: "Ines Benachir"
 #      author: 

@@ -26,6 +26,7 @@ listing:
 #   title: "Ketch Morse*"
    type: grid
    max-items: 3
+   fields: [image, title, subtitle, description, author, date]
    image-height: 300px
    page-size: 0 #set as 0 will remove the page setting
    sort: 
