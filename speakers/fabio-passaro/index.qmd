@@ -4,7 +4,7 @@ description: "Unlock the role policymakers have in mobilising private finance in
 image: /files/headshots/fabio-passaro.png
 author: "Climate Guest Speakers"
 date: "2024-10-21"
-categories: [Climate and Industry, Climate and Market]
+categories: [Climate and Industry, Climate and Markets]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl
