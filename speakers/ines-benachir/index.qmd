@@ -3,7 +3,7 @@ title: "Ines Benachir: Life Cycle Analysis and Ecodesign of PV Panels"
 description: ""
 image: /files/headshots/ines-benachir.jpeg
 author: "Climate Guest Speakers"
-date: "2025-02-18"
+date: "2025-04-28"
 categories: [Climate and Environment]
 #page-layout: full
 #bibliography: references.bib
@@ -43,7 +43,8 @@ Life Cycle Analysis and Ecodesign of PV Panels
 
 ### Time
 
-Tuesday, February 18, 2025, 6:00PM - 7:00PM ET
+Tuesday, April 28, 2025, 
+6:00PM - 7:00PM ET (TBC)
 
 ### Venue 
 Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.

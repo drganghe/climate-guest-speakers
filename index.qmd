@@ -20,7 +20,8 @@ listing:
    contents:
     - /speakers/josiah-johnston/
     - /speakers/jieru-he/
-    - /speakers/ines-benachir/
+    - /speakers/malte-toetzke/
+#    - /speakers/ines-benachir/
 #   exclude: 
 #   author: "Guest Speaker"
 #   title: "Ketch Morse*"
