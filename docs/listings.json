@@ -8,7 +8,7 @@
     "items": [
       "/speakers/ines-benachir/index.html",
       "/speakers/malte-toetzke/index.html",
-      "/speakers/siobhan​​​​-watson/index.html",
+      "/speakers/siobhan-watson/index.html",
       "/speakers/jieru-he/index.html",
       "/speakers/josiah-johnston/index.html",
       "/speakers/mohsen-fatemi/index.html",
@@ -23,6 +23,10 @@
       "/speakers/richard-morse/index.html",
       "/speakers/piyush-verma/index.html"
     ]
+  },
+  {
+    "listing": "/speakers/mohsen-fatemi/index.html",
+    "items": []
   },
   {
     "listing": "/speakers/guest-speaker/index.html",
@@ -41,15 +45,11 @@
     "items": []
   },
   {
-    "listing": "/speakers/fabio-passaro/index.html",
+    "listing": "/speakers/siobhan​​​​-watson/index.html",
     "items": []
   },
   {
-    "listing": "/speakers/jieru-he/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/ines-benachir/index.html",
+    "listing": "/speakers/samuel-vaillancourt/index.html",
     "items": []
   },
   {
@@ -57,7 +57,15 @@
     "items": []
   },
   {
-    "listing": "/speakers/samuel-vaillancourt/index.html",
+    "listing": "/speakers/ines-benachir/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/jieru-he/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/fabio-passaro/index.html",
     "items": []
   },
   {
@@ -77,7 +85,11 @@
     "items": []
   },
   {
-    "listing": "/speakers/mohsen-fatemi/index.html",
+    "listing": "/speakers/malte-toetzke/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/piyush-verma/index.html",
     "items": []
   },
   {
@@ -85,7 +97,7 @@
     "items": [
       "/speakers/josiah-johnston/index.html",
       "/speakers/jieru-he/index.html",
-      "/speakers/siobhan​​​​-watson/index.html",
+      "/speakers/siobhan-watson/index.html",
       "/speakers/malte-toetzke/index.html",
       "/speakers/ines-benachir/index.html",
       "/speakers/richard-morse/index.html",
@@ -101,19 +113,15 @@
     ]
   },
   {
-    "listing": "/speakers/piyush-verma/index.html",
+    "listing": "/speakers/siobhan​​​​watson/index.html",
     "items": []
   },
   {
-    "listing": "/speakers/malte-toetzke/index.html",
+    "listing": "/speakers/siobhan-​​watson/index.html",
     "items": []
   },
   {
-    "listing": "/speakers/siobhan​​​​-watson/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/kaihui-song/index.html",
+    "listing": "/speakers/siobhan-watson/index.html",
     "items": []
   }
 ]

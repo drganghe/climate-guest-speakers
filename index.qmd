@@ -21,7 +21,7 @@ listing:
     - /speakers/josiah-johnston/
     - /speakers/jieru-he/
     - /speakers/malte-toetzke/
-    - /speakers/siobhan​​​​-watson/
+    - /speakers/siobhan-watson/
     - /speakers/ines-benachir/
 #   exclude: 
 #   author: "Guest Speaker"
