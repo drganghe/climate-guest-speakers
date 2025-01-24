@@ -1,10 +1,10 @@
 ---
-title: "Ines Benachir: Life Cycle Analysis and Ecodesign of PV Panels"
+title: "Siobhan​​​​ Watson: Integrating sustainability and resiliency into public housing"
 description: ""
-image: /files/headshots/ines-benachir.jpeg
+image: /files/headshots/siobhan-watson.jpg
 author: "Climate Guest Speakers"
-date: "2025-04-28"
-categories: [Climate and Environment]
+date: "2025-03-10"
+categories: [Climate and Environment, Climate and Sustainability]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl
@@ -24,11 +24,11 @@ listing:  #an example of listing external links
 #  sort-ui: true
 #  filter-ui: true
   contents:
-    - path: https://linkedin.com/in/ines-benachir  #linkedin profile or personal website
-      image: /files/headshots/ines-benachir.jpeg
-      title: "Ines Benachir"
+    - path:   #linkedin profile or personal website
+      image: /files/headshots/siobhan-watson.jpg
+      title: "Siobhan​​​​ Watson"
 #      author: 
-      subtitle: "ESG Manager at LONGi Solar"
+      subtitle: "Senior Director of Sustainability, New York City Housing Authority"
 #      date: "2024-03-12"
 #      categories: [] 
 page-navigation: false
@@ -38,20 +38,20 @@ title-block-banner: false
 
 ## Title
 
-Life Cycle Analysis and Ecodesign of PV Panels
+Integrating sustainability and resiliency into public housing
 
 
 ### Time
 
-Monday, April 28, 2025, 
-6:00PM - 7:00PM ET (TBC)
+Monday, March 10, 2025, 
+6:00PM - 7:00PM ET
 
 ### Venue 
 Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
 
 ## About
 
-Ines will present an introduction to life cycle assessment for solar panels, the emerging ecodesign norms and standards in Europe, and the best practices.
+Dr. Watson will share her insights on enhancing sustainability and resiliency in public housing.
 
 
 ## Speaker
@@ -62,7 +62,7 @@ Ines will present an introduction to life cycle assessment for solar panels, the
 
 ### Bio
 
-Ines Benachir is the ESG Manager at LONGi Solar 
+Dr. Siobhan​​​​ Watson is the Senior Director of Asset & Capital Management and Sustainability at New York City Housing Authority.
 
 
 <!--Include social share buttons-->

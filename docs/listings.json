@@ -8,6 +8,7 @@
     "items": [
       "/speakers/ines-benachir/index.html",
       "/speakers/malte-toetzke/index.html",
+      "/speakers/siobhan​​​​-watson/index.html",
       "/speakers/jieru-he/index.html",
       "/speakers/josiah-johnston/index.html",
       "/speakers/mohsen-fatemi/index.html",
@@ -84,7 +85,9 @@
     "items": [
       "/speakers/josiah-johnston/index.html",
       "/speakers/jieru-he/index.html",
+      "/speakers/siobhan​​​​-watson/index.html",
       "/speakers/malte-toetzke/index.html",
+      "/speakers/ines-benachir/index.html",
       "/speakers/richard-morse/index.html",
       "/speakers/shirley-gallagher/index.html",
       "/speakers/kaifang-luo/index.html",
@@ -103,6 +106,14 @@
   },
   {
     "listing": "/speakers/malte-toetzke/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/siobhan​​​​-watson/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/kaihui-song/index.html",
     "items": []
   }
 ]

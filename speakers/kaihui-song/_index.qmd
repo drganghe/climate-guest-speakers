@@ -1,10 +1,10 @@
 ---
-title: "Ines Benachir: Life Cycle Analysis and Ecodesign of PV Panels"
+title: "Kaihui Song: Subnational Climate Actions"
 description: ""
-image: /files/headshots/ines-benachir.jpeg
+image: /files/headshots/kaihui-song.jpg
 author: "Climate Guest Speakers"
-date: "2025-04-28"
-categories: [Climate and Environment]
+date: ""
+categories: [Climate and Governance]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl
@@ -24,11 +24,11 @@ listing:  #an example of listing external links
 #  sort-ui: true
 #  filter-ui: true
   contents:
-    - path: https://linkedin.com/in/ines-benachir  #linkedin profile or personal website
-      image: /files/headshots/ines-benachir.jpeg
-      title: "Ines Benachir"
+    - path: https://www.kaihuisong.com/  #linkedin profile or personal website
+      image: /files/headshots/kaihui-song.jpg
+      title: "Kaihui Song"
 #      author: 
-      subtitle: "ESG Manager at LONGi Solar"
+      subtitle: "Postdoc, University of California, Berkeley"
 #      date: "2024-03-12"
 #      categories: [] 
 page-navigation: false
@@ -38,20 +38,20 @@ title-block-banner: false
 
 ## Title
 
-Life Cycle Analysis and Ecodesign of PV Panels
+Subnational Climate Actions
 
 
 ### Time
 
-Monday, April 28, 2025, 
-6:00PM - 7:00PM ET (TBC)
+Monday, , 2025, 
+6:00PM - 7:00PM ET
 
 ### Venue 
 Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
 
 ## About
 
-Ines will present an introduction to life cycle assessment for solar panels, the emerging ecodesign norms and standards in Europe, and the best practices.
+Dr. Song will share her research on subnational climate actions.
 
 
 ## Speaker
@@ -62,7 +62,7 @@ Ines will present an introduction to life cycle assessment for solar panels, the
 
 ### Bio
 
-Ines Benachir is the ESG Manager at LONGi Solar 
+Dr. Kaihui Song is a Postdoctoral Scholar in the Energy and Resources Group at UC Berkeley. 
 
 
 <!--Include social share buttons-->

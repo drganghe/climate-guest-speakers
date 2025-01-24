@@ -21,7 +21,8 @@ listing:
     - /speakers/josiah-johnston/
     - /speakers/jieru-he/
     - /speakers/malte-toetzke/
-#    - /speakers/ines-benachir/
+    - /speakers/siobhan​​​​-watson/
+    - /speakers/ines-benachir/
 #   exclude: 
 #   author: "Guest Speaker"
 #   title: "Ketch Morse*"

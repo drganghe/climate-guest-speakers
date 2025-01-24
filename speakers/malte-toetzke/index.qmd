@@ -61,7 +61,7 @@ To meet global climate targets, rapid innovation in climate technologies is esse
 
 ### Bio
 
-Malte Toetzke is a PostDoc at TU Munich and a Senior Research Fellow at the Max Planck Institute for Innovation and Competition. He focuses on the global transition towards net-​zero emissions, informing public policy with evidence generated via novel data science and machine learning approaches. His main research areas are climate-tech innovation, climate finance, and green industrial policy and his research has been published and presented in leading academic journals (Nature Sustainability, Nature Communications, Nature Climate Change) and machine learning conferences (NeurIPS, ICLR). 
+Dr. Malte Toetzke is a PostDoc at TU Munich and a Senior Research Fellow at the Max Planck Institute for Innovation and Competition. He focuses on the global transition towards net-​zero emissions, informing public policy with evidence generated via novel data science and machine learning approaches. His main research areas are climate-tech innovation, climate finance, and green industrial policy and his research has been published and presented in leading academic journals (Nature Sustainability, Nature Communications, Nature Climate Change) and machine learning conferences (NeurIPS, ICLR). 
 
 
 ## Readings
