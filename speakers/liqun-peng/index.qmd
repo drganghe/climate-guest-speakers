@@ -26,7 +26,7 @@ listing:  #an example of listing external links
   contents:
     - path: https://liqunpeng.com/  #linkedin profile or personal website
       image: /files/headshots/liqun-peng.jpg
-      title: "Liqun Peng"
+      title: "Dr. Liqun Peng"
 #      author: 
       subtitle: "Post-doc, Lawrence Berkeley National Laboratory"
 #      date: "2024-03-12"

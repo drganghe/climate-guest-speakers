@@ -26,7 +26,7 @@ listing:  #an example of listing external links
   contents:
     - path: https://kaifangluo.com/  #linkedin profile or personal website
       image: https://deeppolicylab.github.io/files/headshots/kaifang-luo.jpeg
-      title: "Kaifang Luo"
+      title: "Dr. Kaifang Luo"
 #      author: 
       subtitle: "Post-doc, CUNY Baruch College"
 #      date: "2024-03-12"

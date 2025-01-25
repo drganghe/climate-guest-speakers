@@ -26,7 +26,7 @@ listing:  #an example of listing external links
   contents:
     - path:   #linkedin profile or personal website
       image: /files/headshots/siobhan-watson.jpg
-      title: "Siobhan​​​​ Watson"
+      title: "Dr. Siobhan​​​​ Watson"
 #      author: 
       subtitle: "Senior Director of Sustainability, New York City Housing Authority"
 #      date: "2024-03-12"

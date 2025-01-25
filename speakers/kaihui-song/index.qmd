@@ -26,7 +26,7 @@ listing:  #an example of listing external links
   contents:
     - path: https://www.kaihuisong.com/  #linkedin profile or personal website
       image: /files/headshots/kaihui-song.jpg
-      title: "Kaihui Song"
+      title: "Dr. Kaihui Song"
 #      author: 
       subtitle: "Postdoc, University of California, Berkeley"
 #      date: "2024-03-12"
