@@ -6,30 +6,32 @@ page-layout: full
 toc: false
 
 listing:
-#  - id: featured-speaker
-#    contents: /speakers/mohsen-fatemi/
-#    type: default
-#    max-items: 1
-#    image-height: 300px
-#    page-size: 0 #set as 0 will remove the page setting
-#    sort: 
-#      - "date asc"
-#      - "title asc"
+ - id: featured-speaker
+   contents:
+    - /speakers/josiah-johnston/
+   type: default
+   max-items: 1
+   image-height: 300px
+   page-size: 0 #set as 0 will remove the page setting
+   sort: 
+     - "date asc"
+     - "title asc"
 
  - id: recent-speakers
    contents:
-    - /speakers/josiah-johnston/
+#    - /speakers/josiah-johnston/
     - /speakers/jieru-he/
     - /speakers/malte-toetzke/
     - /speakers/siobhan-watson/
     - /speakers/ines-benachir/
+    - /speakers/kaihui-song/
 #   exclude: 
 #   author: "Guest Speaker"
-#   title: "Ketch Morse*"
+#   title: "*"
    type: grid
    max-items: 3
    fields: [image, title, subtitle, description, author, date]
-   image-height: 300px
+   image-height: 240px
    page-size: 0 #set as 0 will remove the page setting
    sort: 
      - "date asc"
@@ -61,12 +63,12 @@ listing:
 <!--Please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-<!--
+
 ## Featured speaker
 
 :::{#featured-speaker}
 :::
--->
+
 
 ## Upcoming Speakers
 

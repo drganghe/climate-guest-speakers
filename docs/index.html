@@ -72,6 +72,34 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-featured-speaker .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-featured-speaker'] = new List('listing-featured-speaker', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-recent-speakers .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -285,46 +313,56 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ktfar1v3c9");
 </script>
-<!--
-## Featured speaker
-
-:::{#featured-speaker}
-:::
--->
+<section id="featured-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="featured-speaker">Featured speaker</h2>
+<div id="listing-featured-speaker" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Q2xpbWF0ZSUyMEluc2lnaHRzJTJDQ2xpbWF0ZSUyMGFuZCUyMEFJ" data-listing-date-sort="1738558800000" data-listing-file-modified-sort="1733929444504" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
+<div class="thumbnail">
+<p><a href="./speakers/josiah-johnston/index.html" class="no-external"></a></p><a href="./speakers/josiah-johnston/index.html" class="no-external">
+<p><img loading="lazy" data-src="./files/headshots/josiah-johnston.jpg" class="thumbnail-image" style="height: 300px;"></p>
+</a><p><a href="./speakers/josiah-johnston/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./speakers/josiah-johnston/index.html" class="no-external">Josiah Johnston: Big data, AI, energy and climate analysis</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./speakers/josiah-johnston/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./speakers/josiah-johnston/index.html" class="no-external">Big data, AI, energy and climate analysis</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./speakers/josiah-johnston/index.html" class="no-external">
+<div class="listing-date">
+Feb 3, 2025
+</div>
+<div class="listing-author">
+Climate Guest Speakers
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+<nav id="featured-speaker-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div>
+</section>
 <section id="upcoming-speakers" class="level2">
 <h2 class="anchored" data-anchor-id="upcoming-speakers">Upcoming Speakers</h2>
 <div id="listing-recent-speakers" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Q2xpbWF0ZSUyMEluc2lnaHRzJTJDQ2xpbWF0ZSUyMGFuZCUyMEFJ" data-listing-date-sort="1738558800000" data-listing-file-modified-sort="1733929444504" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
-<a href="./speakers/josiah-johnston/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" data-src="./files/headshots/josiah-johnston.jpg" class="thumbnail-image card-img" style="height: 300px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Josiah Johnston: Big data, AI, energy and climate analysis
-</h5>
-<div class="card-text listing-description">
-Big data, AI, energy and climate analysis
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Climate Guest Speakers
-</div>
-<div class="listing-date">
-Feb 3, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="Q2xpbWF0ZSUyMGFuZCUyME1hcmtldHM=" data-listing-date-sort="1739163600000" data-listing-file-modified-sort="1733876290481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="0" data-categories="Q2xpbWF0ZSUyMGFuZCUyME1hcmtldHM=" data-listing-date-sort="1739163600000" data-listing-file-modified-sort="1733876290481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="./speakers/jieru-he/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" data-src="./files/headshots/jieru-he.jpeg" class="thumbnail-image card-img" style="height: 300px;">
+<img loading="lazy" data-src="./files/headshots/jieru-he.jpeg" class="thumbnail-image card-img" style="height: 240px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -345,11 +383,11 @@ Feb 10, 2025
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVudmlyb25tZW50JTJDQ2xpbWF0ZSUyMGFuZCUyMFN1c3RhaW5hYmlsaXR5" data-listing-date-sort="1741579200000" data-listing-file-modified-sort="1737675971472" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
+<div class="g-col-1" data-index="1" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVudmlyb25tZW50JTJDQ2xpbWF0ZSUyMGFuZCUyMFN1c3RhaW5hYmlsaXR5" data-listing-date-sort="1741579200000" data-listing-file-modified-sort="1737675971472" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
 <a href="./speakers/siobhan-watson/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" data-src="./files/headshots/siobhan-watson.jpg" class="thumbnail-image card-img" style="height: 300px;">
+<img loading="lazy" data-src="./files/headshots/siobhan-watson.jpg" class="thumbnail-image card-img" style="height: 240px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -364,6 +402,31 @@ Climate Guest Speakers
 </div>
 <div class="listing-date">
 Mar 10, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEdvdmVybmFuY2UlMkNDbGltYXRlJTIwSW5zaWdodHM=" data-listing-date-sort="1743393600000" data-listing-file-modified-sort="1737829652618" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="61">
+<a href="./speakers/kaihui-song/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/kaihui-song.jpg" class="thumbnail-image card-img" style="height: 240px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kaihui Song: Leveraging subnational capacity for equitable decarbonization
+</h5>
+<div class="card-text listing-description">
+Role of subnational capacity for equitable decarbonization
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Climate Guest Speakers
+</div>
+<div class="listing-date">
+Mar 31, 2025
 </div>
 </div>
 </div>
@@ -392,7 +455,7 @@ No matching items
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Q2xpbWF0ZSUyMGFuZCUyMENhcmVlcg==" data-listing-date-sort="1727064000000" data-listing-file-modified-sort="1729520202150" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="288">
+<div class="g-col-1" data-index="1" data-categories="Q2xpbWF0ZSUyMGFuZCUyMENhcmVlcg==" data-listing-date-sort="1727064000000" data-listing-file-modified-sort="1737820390721" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="288">
 <a href="./speakers/shirley-gallagher/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">

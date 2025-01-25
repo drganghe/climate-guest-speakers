@@ -1,10 +1,10 @@
 ---
-title: "Kaihui Song: Subnational Climate Actions"
-description: ""
+title: "Kaihui Song: Leveraging subnational capacity for equitable decarbonization"
+description: "Role of subnational capacity for equitable decarbonization"
 image: /files/headshots/kaihui-song.jpg
 author: "Climate Guest Speakers"
-date: ""
-categories: [Climate and Governance]
+date: "2025-03-31"
+categories: [Climate and Governance, Climate Insights]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl
@@ -38,12 +38,12 @@ title-block-banner: false
 
 ## Title
 
-Subnational Climate Actions
+Leveraging subnational capacity for equitable decarbonization
 
 
 ### Time
 
-Monday, , 2025, 
+Monday, March 31, 2025    
 6:00PM - 7:00PM ET
 
 ### Venue 
@@ -62,7 +62,7 @@ Dr. Song will share her research on subnational climate actions.
 
 ### Bio
 
-Dr. Kaihui Song is a Postdoctoral Scholar in the Energy and Resources Group at UC Berkeley. 
+Dr. Kaihui Song is a Postdoctoral Scholar in the Energy and Resources Group at University of California, Berkeley. 
 
 
 <!--Include social share buttons-->
