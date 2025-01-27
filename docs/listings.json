@@ -30,11 +30,15 @@
     "items": []
   },
   {
-    "listing": "/speakers/guest-speaker/index.html",
+    "listing": "/speakers/malte-toetzke/index.html",
     "items": []
   },
   {
-    "listing": "/speakers/richard-morse/index.html",
+    "listing": "/speakers/maryam-mozafari/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/kaihui-song/index.html",
     "items": []
   },
   {
@@ -46,19 +50,7 @@
     "items": []
   },
   {
-    "listing": "/speakers/siobhan​​​​-watson/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/samuel-vaillancourt/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/bharathi-esakkimuthu/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/ines-benachir/index.html",
+    "listing": "/speakers/fabio-passaro/index.html",
     "items": []
   },
   {
@@ -66,7 +58,15 @@
     "items": []
   },
   {
-    "listing": "/speakers/fabio-passaro/index.html",
+    "listing": "/speakers/ines-benachir/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/bharathi-esakkimuthu/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/samuel-vaillancourt/index.html",
     "items": []
   },
   {
@@ -82,11 +82,15 @@
     "items": []
   },
   {
-    "listing": "/speakers/maryam-mozafari/index.html",
+    "listing": "/speakers/richard-morse/index.html",
     "items": []
   },
   {
-    "listing": "/speakers/malte-toetzke/index.html",
+    "listing": "/speakers/guest-speaker/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/siobhan-watson/index.html",
     "items": []
   },
   {
@@ -113,21 +117,5 @@
       "/speakers/bharathi-esakkimuthu/index.html",
       "/speakers/mohsen-fatemi/index.html"
     ]
-  },
-  {
-    "listing": "/speakers/siobhan​​​​watson/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/siobhan-​​watson/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/siobhan-watson/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/kaihui-song/index.html",
-    "items": []
   }
 ]

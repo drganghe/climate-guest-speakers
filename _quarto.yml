@@ -2,6 +2,10 @@ project:
   type: website
   output-dir: docs
 
+# Meta
+description-meta: "Guest speakers in Energy and Climate Policy, Energy, Climate, and Society, Climate Insights, Climate and Innovation, Climate and Environment, Climate and AI, Climate and Governance."
+author-meta: "Climate Guest Speakers"  
+
 website:
   title: "Climate Guest Speakers"
   image: "/files/headshots/you.png"
