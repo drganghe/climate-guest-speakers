@@ -8,6 +8,7 @@
     "items": [
       "/speakers/ines-benachir/index.html",
       "/speakers/malte-toetzke/index.html",
+      "/speakers/anthony-cheng/index.html",
       "/speakers/kaihui-song/index.html",
       "/speakers/siobhan-watson/index.html",
       "/speakers/jieru-he/index.html",
@@ -117,5 +118,9 @@
       "/speakers/bharathi-esakkimuthu/index.html",
       "/speakers/mohsen-fatemi/index.html"
     ]
+  },
+  {
+    "listing": "/speakers/anthony-cheng/index.html",
+    "items": []
   }
 ]

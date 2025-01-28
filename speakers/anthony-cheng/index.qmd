@@ -1,0 +1,70 @@
+---
+title: "Anthony Cheng: EV mineral supply chains and Inflation Reduction Act"
+description: "Supply chain vulnerability and U.S. and global decarbonization"
+image: /files/headshots/anthony-cheng.webp
+author: "Climate Guest Speakers"
+date: "2025-04-07"
+categories: [Climate and Innovation]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://acheng98.github.io/  #linkedin profile or personal website
+      image: /files/headshots/anthony-cheng.webp
+      title: "Anthony Cheng"
+#      author: 
+      subtitle: "PhD Candidate, Carneigie Mellon University"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+EV mineral supply chains and Inflation Reduction Act
+
+
+### Time
+
+Monday, April 7, 2025    
+6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+Anthony will share his research on supply chain vulnerability and U.S. and global decarbonization.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Anthony Cheng is a PhD Candidate in Engineering and Public Policy at Carneigie Mellon University.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
