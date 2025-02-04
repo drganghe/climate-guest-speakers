@@ -8,7 +8,7 @@ toc: false
 listing:
  - id: featured-speaker
    contents:
-    - /speakers/josiah-johnston/
+    - /speakers/jieru-he/
    type: default
    max-items: 1
    image-height: 300px
@@ -20,11 +20,12 @@ listing:
  - id: recent-speakers
    contents:
 #    - /speakers/josiah-johnston/
-    - /speakers/jieru-he/
+#    - /speakers/jieru-he/
     - /speakers/malte-toetzke/
     - /speakers/siobhan-watson/
     - /speakers/ines-benachir/
     - /speakers/kaihui-song/
+    - /speakers/anthony-cheng/
 #   exclude: 
 #   author: "Guest Speaker"
 #   title: "*"
