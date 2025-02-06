@@ -26,6 +26,7 @@ listing:
     - /speakers/ines-benachir/
     - /speakers/kaihui-song/
     - /speakers/anthony-cheng/
+    - /speakers/guilherme-larangeira/
 #   exclude: 
 #   author: "Guest Speaker"
 #   title: "*"

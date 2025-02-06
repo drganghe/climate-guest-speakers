@@ -1,0 +1,70 @@
+---
+title: "Gui Larangeira: View from industry of the energy transition"
+description: "View from industry of the energy transition"
+image: /files/headshots/guilherme-larangeira.jpeg
+author: "Climate Guest Speakers"
+date: "2025-03-24"
+categories: [Climate and Industry]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.linkedin.com/in/glarange/ #linkedin profile or personal website
+      image: /files/headshots/guilherme-larangeira.jpeg
+      title: "Gui Larangeira"
+#      author: 
+      subtitle: "Battery Energy Storage Systems, WEG Electric Corp."
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+View from industry of the energy transition
+
+
+### Time
+
+Monday, March 24, 2025    
+6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+Gui will share his observations on market trends and challenges in the energy transition.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Gui is a Business Development Manager at US Northeast Region, Battery Energy Storage Systems WEG Electric Corp.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
