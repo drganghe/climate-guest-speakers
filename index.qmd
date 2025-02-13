@@ -6,16 +6,16 @@ page-layout: full
 toc: false
 
 listing:
- - id: featured-speaker
-   contents:
-    - /speakers/jieru-he/
-   type: default
-   max-items: 1
-   image-height: 300px
-   page-size: 0 #set as 0 will remove the page setting
-   sort: 
-     - "date asc"
-     - "title asc"
+#  - id: featured-speaker
+#    contents:
+#     - /speakers/jieru-he/
+#    type: default
+#    max-items: 1
+#    image-height: 300px
+#    page-size: 0 #set as 0 will remove the page setting
+#    sort: 
+#      - "date asc"
+#      - "title asc"
 
  - id: recent-speakers
    contents:
@@ -27,6 +27,7 @@ listing:
     - /speakers/kaihui-song/
     - /speakers/anthony-cheng/
     - /speakers/guilherme-larangeira/
+    - /speakers/qian-luo/
 #   exclude: 
 #   author: "Guest Speaker"
 #   title: "*"

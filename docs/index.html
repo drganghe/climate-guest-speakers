@@ -74,34 +74,6 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-featured-speaker .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-featured-speaker'] = new List('listing-featured-speaker', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-recent-speakers .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -317,43 +289,8 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </script>
 <section id="featured-speaker" class="level2">
 <h2 class="anchored" data-anchor-id="featured-speaker">Featured speaker</h2>
-<div id="listing-featured-speaker" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Q2xpbWF0ZSUyMGFuZCUyME1hcmtldHM=" data-listing-date-sort="1739163600000" data-listing-file-modified-sort="1733876290481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
-<div class="thumbnail">
-<p><a href="./speakers/jieru-he/index.html" class="no-external"></a></p><a href="./speakers/jieru-he/index.html" class="no-external">
-<p><img loading="lazy" data-src="./files/headshots/jieru-he.jpeg" class="thumbnail-image" style="height: 300px;"></p>
-</a><p><a href="./speakers/jieru-he/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./speakers/jieru-he/index.html" class="no-external">Jieru He: Assessing Climate Risk Through Stress Testing in Financial Institutions</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./speakers/jieru-he/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./speakers/jieru-he/index.html" class="no-external">Comprehensive overview of climate stress testing within financial institutions</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./speakers/jieru-he/index.html" class="no-external">
-<div class="listing-date">
-Feb 10, 2025
-</div>
-<div class="listing-author">
-Climate Guest Speakers
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-<nav id="featured-speaker-pagination" class="listing-pagination" aria-label="Page Navigation">
-  <ul class="pagination"></ul>
-</nav>
+<div id="featured-speaker">
+
 </div>
 </section>
 <section id="upcoming-speakers" class="level2">
@@ -385,7 +322,32 @@ Mar 10, 2025
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEluZHVzdHJ5" data-listing-date-sort="1742788800000" data-listing-file-modified-sort="1738845447104" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
+<div class="g-col-1" data-index="1" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEluZHVzdHJ5" data-listing-date-sort="1742184000000" data-listing-file-modified-sort="1738950640564" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+<a href="./speakers/qian-luo/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/qian-luo.jpeg" class="thumbnail-image card-img" style="height: 240px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Qian Luo: Energy, Environment, and Human Health
+</h5>
+<div class="card-text listing-description">
+Research on energy, environment and human health
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Climate Guest Speakers
+</div>
+<div class="listing-date">
+Mar 17, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEluZHVzdHJ5" data-listing-date-sort="1742788800000" data-listing-file-modified-sort="1738845447104" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
 <a href="./speakers/guilherme-larangeira/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -404,31 +366,6 @@ Climate Guest Speakers
 </div>
 <div class="listing-date">
 Mar 24, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEdvdmVybmFuY2UlMkNDbGltYXRlJTIwSW5zaWdodHM=" data-listing-date-sort="1743393600000" data-listing-file-modified-sort="1737830877926" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="61">
-<a href="./speakers/kaihui-song/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" data-src="./files/headshots/kaihui-song.jpg" class="thumbnail-image card-img" style="height: 240px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Kaihui Song: Leveraging subnational capacity for equitable decarbonization
-</h5>
-<div class="card-text listing-description">
-Role of subnational capacity for equitable decarbonization
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Climate Guest Speakers
-</div>
-<div class="listing-date">
-Mar 31, 2025
 </div>
 </div>
 </div>
@@ -529,7 +466,7 @@ No matching items
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="9" data-categories="Q2xpbWF0ZSUyMGFuZCUyMENvbW11bml0eQ==" data-listing-date-sort="1731906000000" data-listing-file-modified-sort="1730807535896" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="207">
+<div class="g-col-1" data-index="9" data-categories="Q2xpbWF0ZSUyMGFuZCUyMENvbW11bml0eSUyQ0NsaW1hdGUlMjBhbmQlMjBDYXJlZXI=" data-listing-date-sort="1731906000000" data-listing-file-modified-sort="1738950656703" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="207">
 <a href="./speakers/mohsen-fatemi/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">

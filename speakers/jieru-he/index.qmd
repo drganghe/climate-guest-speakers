@@ -63,6 +63,13 @@ Comprehensive overview of climate stress testing within financial institutions
 Jieru He is a researcher and analyst, driven by a deep passion for integrating her knowledge of climate risk and sustainability into finance and economics. Jieru focuses on translating the impact of climate transition risk on high-emission sectors within wholesale credit risk space and supports conducting regulatory climate risk stress tests. In addition, she has extensive practice and experience in sustainable and resilient development, the mining sectors, water risk, and biodiversity research in multiple countries, including India, China, Brazil, the Middle East, and the US. 
 
 
+## Readings
+
+- UN Environment Programme Finance Initiative (2024). [The Path to Net Zero: A Climate Mitigation Journey (CMJ) for Banks](https://www.unepfi.org/wordpress/wp-content/uploads/2024/05/Banking_Climate-Mitigation-Journey.pdf). Geneva.
+
+- UNEP (2021).[Good Practice Guide to Climate Stress Testing](https://www.unepfi.org/wordpress/wp-content/uploads/2021/12/Good-Practice-Guide-to-Climate-Stress-Testing.pdf)
+
+
 <!--Include social share buttons-->
 
 {{< include /files/includes/_socialshare.qmd >}}

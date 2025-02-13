@@ -1,0 +1,70 @@
+---
+title: "Qian Luo: Energy, Environment, and Human Health"
+description: "Research on energy, environment and human health"
+image: /files/headshots/qian-luo.jpeg
+author: "Climate Guest Speakers"
+date: "2025-03-17"
+categories: [Climate and Industry]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://scholar.google.com/citations?user=l1Yz7rEAAAAJ&hl=en #linkedin profile or personal website
+      image: /files/headshots/qian-luo.jpeg
+      title: "Dr. Qian Luo"
+#      author: 
+      subtitle: "Postdoctoral Researcher, Princeton University"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Energy, Environment, and Human Health
+
+
+### Time
+
+Monday, March 17, 2025    
+6:00PM - 7:00PM ET
+
+### Venue 
+Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+Dr. Luo will share her research on the energy, environment and human health.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Dr. Luo is a postdoctoral researcher at Princeton University.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

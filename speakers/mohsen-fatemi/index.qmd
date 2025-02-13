@@ -4,7 +4,7 @@ description: "Mohsen will share his career experiences and research on including
 image: /files/headshots/mohsen-fatemi.jpeg
 author: "Climate Guest Speakers"
 date: "2024-11-18"
-categories: [Climate and Community]
+categories: [Climate and Community, Climate and Career]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl

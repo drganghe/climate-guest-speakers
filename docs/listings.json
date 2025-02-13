@@ -11,6 +11,7 @@
       "/speakers/anthony-cheng/index.html",
       "/speakers/kaihui-song/index.html",
       "/speakers/guilherme-larangeira/index.html",
+      "/speakers/qian-luo/index.html",
       "/speakers/siobhan-watson/index.html",
       "/speakers/jieru-he/index.html",
       "/speakers/josiah-johnston/index.html",
@@ -102,8 +103,8 @@
   {
     "listing": "/index.html",
     "items": [
-      "/speakers/jieru-he/index.html",
       "/speakers/siobhan-watson/index.html",
+      "/speakers/qian-luo/index.html",
       "/speakers/guilherme-larangeira/index.html",
       "/speakers/kaihui-song/index.html",
       "/speakers/anthony-cheng/index.html",
@@ -127,6 +128,10 @@
   },
   {
     "listing": "/speakers/guilherme-larangeira/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/qian-luo/index.html",
     "items": []
   }
 ]
