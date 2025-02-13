@@ -66,12 +66,12 @@ listing:
 <!--Please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-
+<!--
 ## Featured speaker
 
 :::{#featured-speaker}
 :::
-
+-->
 
 ## Upcoming Speakers
 
