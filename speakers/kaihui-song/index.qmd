@@ -3,7 +3,7 @@ title: "Kaihui Song: Leveraging subnational capacity for equitable decarbonizati
 description: "Role of subnational capacity for equitable decarbonization"
 image: /files/headshots/kaihui-song.jpg
 author: "Climate Guest Speakers"
-date: "2025-03-31"
+date: "2025-03-03"
 categories: [Climate and Governance, Climate Insights]
 #page-layout: full
 #bibliography: references.bib
@@ -43,7 +43,7 @@ Leveraging subnational capacity for equitable decarbonization
 
 ### Time
 
-Monday, March 31, 2025    
+Monday, March 3, 2025    
 6:00PM - 7:00PM ET
 
 ### Venue 

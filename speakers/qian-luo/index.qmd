@@ -4,7 +4,7 @@ description: "Research on energy, environment and human health"
 image: /files/headshots/qian-luo.jpeg
 author: "Climate Guest Speakers"
 date: "2025-03-17"
-categories: [Climate and Industry]
+categories: [Climate and Environment, Climate Insights]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl
