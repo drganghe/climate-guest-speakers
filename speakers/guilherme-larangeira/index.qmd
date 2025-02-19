@@ -1,6 +1,6 @@
 ---
-title: "Gui Larangeira: View from industry of the energy transition"
-description: "View from industry of the energy transition"
+title: "Gui Larangeira: Agrivoltaics and AquaPV--Sustainable Food Production"
+description: "Addressing the water-food-energy nexus and opportunities to build sustainable businesses"
 image: /files/headshots/guilherme-larangeira.jpeg
 author: "Climate Guest Speakers"
 date: "2025-03-24"
@@ -28,7 +28,7 @@ listing:  #an example of listing external links
       image: /files/headshots/guilherme-larangeira.jpeg
       title: "Gui Larangeira"
 #      author: 
-      subtitle: "Battery Energy Storage Systems, WEG Electric Corp."
+      subtitle: "Stony Brook University; Independent Entrepreneur"
 #      date: "2024-03-12"
 #      categories: [] 
 page-navigation: false
@@ -38,7 +38,7 @@ title-block-banner: false
 
 ## Title
 
-View from industry of the energy transition
+Agrivoltaics and AquaPV: Sustainable Food Production
 
 
 ### Time
@@ -51,7 +51,7 @@ Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to parti
 
 ## About
 
-Gui will share his observations on market trends and challenges in the energy transition.
+Addressing the water-food-energy nexus and opportunities to build sustainable businesses.
 
 
 ## Speaker
@@ -62,7 +62,7 @@ Gui will share his observations on market trends and challenges in the energy tr
 
 ### Bio
 
-Gui is a Business Development Manager at US Northeast Region, Battery Energy Storage Systems WEG Electric Corp.
+Gui is a Business Development Manager at US Northeast Region, Battery Energy Storage Systems WEG Electric Corp. He has also worked for ISO-NE, ARPA-E, and Brookhaven National Lab. He is pursuing his Ph.D. at Stony Brook University.
 
 
 <!--Include social share buttons-->
