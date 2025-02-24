@@ -6,16 +6,16 @@ page-layout: full
 toc: false
 
 listing:
-#  - id: featured-speaker
-#    contents:
-#     - /speakers/jieru-he/
-#    type: default
-#    max-items: 1
-#    image-height: 300px
-#    page-size: 0 #set as 0 will remove the page setting
-#    sort: 
-#      - "date asc"
-#      - "title asc"
+ - id: featured-speaker
+   contents:
+    - /speakers/kaihui-song/
+   type: default
+   max-items: 1
+   image-height: 300px
+   page-size: 0 #set as 0 will remove the page setting
+   sort: 
+     - "date asc"
+     - "title asc"
 
  - id: recent-speakers
    contents:
@@ -24,7 +24,7 @@ listing:
     - /speakers/malte-toetzke/
     - /speakers/siobhan-watson/
     - /speakers/ines-benachir/
-    - /speakers/kaihui-song/
+#    - /speakers/kaihui-song/
     - /speakers/anthony-cheng/
     - /speakers/guilherme-larangeira/
     - /speakers/qian-luo/
@@ -66,12 +66,12 @@ listing:
 <!--Please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-<!--
+
 ## Featured speaker
 
 :::{#featured-speaker}
 :::
--->
+
 
 ## Upcoming Speakers
 
