@@ -1,7 +1,7 @@
 ---
 title: "Kaihui Song: Leveraging subnational capacity for equitable decarbonization"
 description: "Cities and regional authorities play a crucial role in driving climate action to limit global warming to 1.5°C"
-image: /files/headshots/kaihui-song.jpg
+image: /files/headshots/kaihui-song.png
 author: "Climate Guest Speakers"
 date: "2025-03-03"
 categories: [Climate and Governance, Climate Insights]
@@ -25,7 +25,7 @@ listing:  #an example of listing external links
 #  filter-ui: true
   contents:
     - path: https://www.kaihuisong.com/  #linkedin profile or personal website
-      image: /files/headshots/kaihui-song.jpg
+      image: /files/headshots/kaihui-song.png
       title: "Dr. Kaihui Song"
 #      author: 
       subtitle: "Postdoc, University of California, Berkeley"
