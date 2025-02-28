@@ -1,6 +1,6 @@
 ---
-title: "Qian Luo: Energy, Environment, and Human Health"
-description: "Research on energy, environment and human health"
+title: "Qian Luo: Use modeling tools to understand environmental impacts of energy systems"
+description: "Modeling the environmental impacts of energy systems"
 image: /files/headshots/qian-luo.jpeg
 author: "Climate Guest Speakers"
 date: "2025-03-17"
@@ -38,7 +38,7 @@ title-block-banner: false
 
 ## Title
 
-Energy, Environment, and Human Health
+Use modeling tools to understand environmental impacts of energy systems
 
 
 ### Time
@@ -51,7 +51,7 @@ Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to parti
 
 ## About
 
-Dr. Luo will share her research on the energy, environment and human health.
+Dr. Luo will share her research on modeling the environmental impacts of energy systems.
 
 
 ## Speaker
