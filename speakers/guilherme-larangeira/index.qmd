@@ -1,7 +1,7 @@
 ---
-title: "Gui Larangeira: Agrivoltaics and AquaPV--Sustainable Food Production"
-description: "Addressing the water-food-energy nexus and opportunities to build sustainable businesses"
-image: /files/headshots/guilherme-larangeira.jpeg
+title: "Gui Larangeira: Perspectives on energy transition from industry--Renewables and energy storage"
+description: "Address the drivers for battery energy storage system adoption, its economics and its benefits"
+image: /files/headshots/guilherme-larangeira.jpg
 author: "Climate Guest Speakers"
 date: "2025-03-24"
 categories: [Climate and Industry]
@@ -25,12 +25,12 @@ listing:  #an example of listing external links
 #  filter-ui: true
   contents:
     - path: https://www.linkedin.com/in/glarange/ #linkedin profile or personal website
-      image: /files/headshots/guilherme-larangeira.jpeg
+      image: /files/headshots/guilherme-larangeira.jpg
       title: "Gui Larangeira"
 #      author: 
-      subtitle: "Stony Brook University; Independent Entrepreneur"
+      subtitle: "WEG Electric Corp."
 #      date: "2024-03-12"
-#      categories: [] 
+#      categories: []
 page-navigation: false
 title-block-banner: false
 #toc: false
@@ -38,7 +38,7 @@ title-block-banner: false
 
 ## Title
 
-Agrivoltaics and AquaPV: Sustainable Food Production
+Perspectives on energy transition from industry: Renewables and energy storage
 
 
 ### Time
@@ -51,7 +51,7 @@ Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to parti
 
 ## About
 
-Addressing the water-food-energy nexus and opportunities to build sustainable businesses.
+One of the most frequent criticisms leveled at renewable energy is its inherent intermittency.   Moreover, solar energy peaks around noon, whereas peak electricity demand is in the early evening. One way to mitigate intermittency and peak solar/load misalignment is to deploy energy storage. Energy storage can take many forms, from traditional pumped hydro to more recent electrochemical batteries. In this talk, we will address the drivers for battery energy storage system adoption, its economics and its benefits.
 
 
 ## Speaker
@@ -62,7 +62,7 @@ Addressing the water-food-energy nexus and opportunities to build sustainable bu
 
 ### Bio
 
-Gui is a Business Development Manager at US Northeast Region, Battery Energy Storage Systems WEG Electric Corp. He has also worked for ISO-NE, ARPA-E, and Brookhaven National Lab. He is pursuing his Ph.D. at Stony Brook University.
+Gui is an electrical engineer who started his career in the telecoms field but then made a career transition six years ago, when he enrolled in the Stont Brook Technology and Society PhD program in Tech Policy. Since then, Gui has interned at the ARPA-E, Brookhaven National Lab and worked at ISO-NE and WEG Electric Corp.
 
 
 <!--Include social share buttons-->
