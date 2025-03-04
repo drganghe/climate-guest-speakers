@@ -8,7 +8,13 @@ toc: false
 listing:
  - id: featured-speaker
    contents:
-    - /speakers/kaihui-song/
+#    - /speakers/kaihui-song/
+    - /speakers/malte-toetzke/
+    - /speakers/siobhan-watson/
+    - /speakers/ines-benachir/
+    - /speakers/anthony-cheng/
+    - /speakers/guilherme-larangeira/
+    - /speakers/qian-luo/    
    type: default
    max-items: 1
    image-height: 300px
@@ -22,7 +28,7 @@ listing:
 #    - /speakers/josiah-johnston/
 #    - /speakers/jieru-he/
     - /speakers/malte-toetzke/
-    - /speakers/siobhan-watson/
+#    - /speakers/siobhan-watson/
     - /speakers/ines-benachir/
 #    - /speakers/kaihui-song/
     - /speakers/anthony-cheng/
