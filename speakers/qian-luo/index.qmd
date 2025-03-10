@@ -24,11 +24,11 @@ listing:  #an example of listing external links
 #  sort-ui: true
 #  filter-ui: true
   contents:
-    - path: https://scholar.google.com/citations?user=l1Yz7rEAAAAJ&hl=en #linkedin profile or personal website
+    - path: https://www.linkedin.com/in/qian-luo-0a4a15138/ #linkedin profile or personal website
       image: /files/headshots/qian-luo.jpeg
       title: "Dr. Qian Luo"
 #      author: 
-      subtitle: "Postdoctoral Researcher, Princeton University"
+      subtitle: "Associate Research Scholar, Andlinger Center for Energy and the Environment at Princeton University"
 #      date: "2024-03-12"
 #      categories: [] 
 page-navigation: false
@@ -51,7 +51,7 @@ Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to parti
 
 ## About
 
-Dr. Luo will share her research on modeling the environmental impacts of energy systems.
+The urgent need to decarbonize energy systems is driven by the dual challenges of climate change and public health, as fossil fuels used to provide energy contribute significantly to greenhouse gas emissions and air pollution. Modeling tools are essential for understanding the complex dynamics of energy systems, enabling us to evaluate pathways toward decarbonization. This talk explores how modeling can address three critical questions: (1) the cost-effectiveness and market potential of emerging decarbonization technologies, (2) the impact of policies on energy system transitions, and (3) the public health implications of clean energy transition. By integrating techno-economic, policy, and health impact analyses, these tools provide useful insights for designing effective decarbonization strategies.
 
 
 ## Speaker
@@ -62,7 +62,7 @@ Dr. Luo will share her research on modeling the environmental impacts of energy 
 
 ### Bio
 
-Dr. Luo is a postdoctoral researcher at Princeton University.
+Qian is an Associate Research Scholar working in the interdisciplinary field of energy system, air quality, and public health. By integrating engineering-based processes into energy system optimization models and linking air quality modeling and energy system models, she tries to provide insights on how to effectively decarbonize the system, while increasing the co-benefits in public health. She previously worked at the National Renewable Energy Laboratory and the Lawrence Berkeley National Laboratory as graduate interns. She received her Ph.D. degree in environmental engineering from NC State University, M.S. degree from Georgia Institute of Technology, and B.S. degree from Xiamen University.
 
 
 <!--Include social share buttons-->
