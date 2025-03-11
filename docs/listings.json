@@ -6,6 +6,7 @@
   {
     "listing": "/speakers.html",
     "items": [
+      "/speakers/mallory-flowers/index.html",
       "/speakers/ines-benachir/index.html",
       "/speakers/malte-toetzke/index.html",
       "/speakers/anthony-cheng/index.html",
@@ -103,7 +104,6 @@
   {
     "listing": "/index.html",
     "items": [
-      "/speakers/siobhan-watson/index.html",
       "/speakers/qian-luo/index.html",
       "/speakers/guilherme-larangeira/index.html",
       "/speakers/anthony-cheng/index.html",
@@ -131,6 +131,10 @@
   },
   {
     "listing": "/speakers/qian-luo/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/mallory-flowers/index.html",
     "items": []
   }
 ]

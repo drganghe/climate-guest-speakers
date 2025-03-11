@@ -10,7 +10,7 @@ listing:
    contents:
 #    - /speakers/kaihui-song/
     - /speakers/malte-toetzke/
-    - /speakers/siobhan-watson/
+#    - /speakers/siobhan-watson/
     - /speakers/ines-benachir/
     - /speakers/anthony-cheng/
     - /speakers/guilherme-larangeira/
@@ -33,7 +33,7 @@ listing:
 #    - /speakers/kaihui-song/
     - /speakers/anthony-cheng/
     - /speakers/guilherme-larangeira/
-    - /speakers/qian-luo/
+#    - /speakers/qian-luo/
 #   exclude: 
 #   author: "Guest Speaker"
 #   title: "*"
