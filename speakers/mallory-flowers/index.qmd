@@ -26,7 +26,7 @@ listing:  #an example of listing external links
   contents:
     - path: https://web.uri.edu/business/meet/mallory-flowers/ #linkedin profile or personal website
       image: /files/headshots/mallory-flowers.webp
-      title: "Dr. Qian Luo"
+      title: "Dr. Mallory Flowers"
 #      author: 
       subtitle: "Assistant Professor, University of Rhode Island"
 #      date: "2024-03-12"
