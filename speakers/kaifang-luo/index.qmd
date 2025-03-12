@@ -4,7 +4,7 @@ description: "Dr. Luo will share her research on CCS projects and housing market
 image: https://deeppolicylab.github.io/files/headshots/kaifang-luo.jpeg
 author: "Climate Guest Speakers"
 date: "2024-09-30"
-categories: [Climate Insights]
+categories: [Climate New Research, Climate and Markets]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl

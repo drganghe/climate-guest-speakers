@@ -4,7 +4,7 @@ description: "Modeling the environmental impacts of energy systems"
 image: /files/headshots/qian-luo.jpeg
 author: "Climate Guest Speakers"
 date: "2025-03-17"
-categories: [Climate and Environment, Climate Insights]
+categories: [Climate and Environment, Climate New Research, Climate and Energy]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl

@@ -4,7 +4,7 @@ description: "Large language models and LinkedIn data to construct a global netw
 image: /files/headshots/malte-toetzke.jpg 
 author: "Climate Guest Speakers"
 date: "2025-04-21"
-categories: [Climate and AI, Climate and Innovation]
+categories: [Climate and AI, Climate and Innovation, Climate New Research]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl

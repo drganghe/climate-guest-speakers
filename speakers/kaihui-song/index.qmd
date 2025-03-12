@@ -4,7 +4,7 @@ description: "Cities and regional authorities play a crucial role in driving cli
 image: /files/headshots/kaihui-song.png
 author: "Climate Guest Speakers"
 date: "2025-03-03"
-categories: [Climate and Governance, Climate Insights]
+categories: [Climate and Governance, Climate New Research]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl

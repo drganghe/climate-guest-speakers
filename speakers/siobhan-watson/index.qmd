@@ -4,7 +4,7 @@ description: ""
 image: /files/headshots/siobhan-watson.jpg
 author: "Climate Guest Speakers"
 date: "2025-03-10"
-categories: [Climate and Environment, Climate and Sustainability, Climate Insights]
+categories: [Climate and Environment, Climate and Sustainability]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl

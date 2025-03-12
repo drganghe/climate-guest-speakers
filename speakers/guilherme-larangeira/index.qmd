@@ -4,7 +4,7 @@ description: "Address the drivers for battery energy storage system adoption, it
 image: /files/headshots/guilherme-larangeira.jpg
 author: "Climate Guest Speakers"
 date: "2025-03-24"
-categories: [Climate and Industry]
+categories: [Climate and Industry, Climate and Energy]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl

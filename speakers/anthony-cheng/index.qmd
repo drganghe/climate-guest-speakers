@@ -4,7 +4,7 @@ description: "Supply chain vulnerability and U.S. and global decarbonization"
 image: /files/headshots/anthony-cheng.webp
 author: "Climate Guest Speakers"
 date: "2025-04-07"
-categories: [Climate and Innovation]
+categories: [Climate and Innovation, Climate New Research]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl

@@ -4,7 +4,7 @@ description: "Carbon Disclosure--the Intersect of Public and Private Climate Gov
 image: /files/headshots/mallory-flowers.webp
 author: "Climate Guest Speakers"
 date: "2025-09-08"
-categories: [Climate and Governance, Climate Insights]
+categories: [Climate and Governance, Climate New Research]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl

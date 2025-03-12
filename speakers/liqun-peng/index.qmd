@@ -4,7 +4,7 @@ description: "Dr. Peng will share her research on modeling energy system decarbo
 image: /files/headshots/liqun-peng.jpg
 author: "Climate Guest Speakers"
 date: "2024-10-28"
-categories: [Climate Insights]
+categories: [Climate New Research, Climate and Energy]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl

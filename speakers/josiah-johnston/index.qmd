@@ -4,7 +4,7 @@ description: "Big data, AI, energy and building sector decarbonization"
 image: /files/headshots/josiah-johnston.jpg
 author: "Climate Guest Speakers"
 date: "2025-02-03"
-categories: [Climate Insights, Climate and AI]
+categories: [Climate and AI]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl
