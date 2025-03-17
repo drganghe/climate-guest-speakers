@@ -6,6 +6,7 @@
   {
     "listing": "/speakers.html",
     "items": [
+      "/speakers/beia-spiller/index.html",
       "/speakers/mallory-flowers/index.html",
       "/speakers/ines-benachir/index.html",
       "/speakers/malte-toetzke/index.html",
@@ -135,6 +136,10 @@
   },
   {
     "listing": "/speakers/mallory-flowers/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/beia-spiller/index.html",
     "items": []
   }
 ]

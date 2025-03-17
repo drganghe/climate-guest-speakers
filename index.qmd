@@ -9,8 +9,8 @@ listing:
  - id: featured-speaker
    contents:
 #    - /speakers/kaihui-song/
-    - /speakers/malte-toetzke/
 #    - /speakers/siobhan-watson/
+    - /speakers/malte-toetzke/
     - /speakers/ines-benachir/
     - /speakers/anthony-cheng/
     - /speakers/guilherme-larangeira/
