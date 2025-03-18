@@ -1,7 +1,7 @@
 ---
 title: "Anthony Cheng: EV mineral supply chains and Inflation Reduction Act"
-description: "Supply chain vulnerability and U.S. and global decarbonization"
-image: /files/headshots/anthony-cheng.webp
+description: "Supply chain vulnerability and U.S. decarbonization"
+image: /files/headshots/anthony-cheng.jpeg
 author: "Climate Guest Speakers"
 date: "2025-04-07"
 categories: [Climate and Innovation, Climate New Research]
@@ -25,10 +25,10 @@ listing:  #an example of listing external links
 #  filter-ui: true
   contents:
     - path: https://acheng98.github.io/  #linkedin profile or personal website
-      image: /files/headshots/anthony-cheng.webp
+      image: /files/headshots/anthony-cheng.jpeg
       title: "Anthony Cheng"
 #      author: 
-      subtitle: "PhD Candidate, Carneigie Mellon University"
+      subtitle: "Carneigie Mellon University"
 #      date: "2024-03-12"
 #      categories: [] 
 page-navigation: false
@@ -51,7 +51,7 @@ Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to parti
 
 ## About
 
-Anthony will share his research on supply chain vulnerability and U.S. and global decarbonization.
+Anthony will discuss his experiences as a PhD student focused on critical minerals, supply chains, and policy analysis, in the context of electric vehicles and the energy transition, touching upon themes of supply security, risk analysis, and policy analysis. He will also speak to his additional roles as a Macro Energy Systems Fellow and Resources for the Future Critical Minerals Lab Fellow. 
 
 
 ## Speaker
@@ -62,7 +62,7 @@ Anthony will share his research on supply chain vulnerability and U.S. and globa
 
 ### Bio
 
-Anthony Cheng is a PhD Candidate in Engineering and Public Policy at Carneigie Mellon University.
+Anthony Cheng is a fourth year PhD student and National Science Foundation Graduate Research Fellowship Program (GRFP) Fellow in the Engineering and Public Policy (EPP) Department of Carnegie Mellon University (CMU) under the direction of Dr. Erica Fuchs, Dr. Valerie Karplus, and Dr. Jeremy Michalek. His general research interests lie around understanding manufacturing and commercialization of clean technologies needed in the energy transition, with recent projects focused on vulnerabilities, incentives, and interventions in battery electric vehicle material supply chains. 
 
 
 <!--Include social share buttons-->
