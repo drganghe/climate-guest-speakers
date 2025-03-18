@@ -8,13 +8,13 @@ toc: false
 listing:
  - id: featured-speaker
    contents:
-#    - /speakers/kaihui-song/
-#    - /speakers/siobhan-watson/
-    - /speakers/malte-toetzke/
     - /speakers/ines-benachir/
+    - /speakers/malte-toetzke/
     - /speakers/anthony-cheng/
     - /speakers/guilherme-larangeira/
-    - /speakers/qian-luo/    
+#    - /speakers/qian-luo/
+#    - /speakers/kaihui-song/
+#    - /speakers/siobhan-watson/    
    type: default
    max-items: 1
    image-height: 300px
@@ -23,17 +23,19 @@ listing:
      - "date asc"
      - "title asc"
 
- - id: recent-speakers
+ - id: upcoming-speakers
    contents:
-#    - /speakers/josiah-johnston/
-#    - /speakers/jieru-he/
+    - /speakers/beia-spiller/
+    - /speakers/mallory-flowers/
     - /speakers/malte-toetzke/
-#    - /speakers/siobhan-watson/
     - /speakers/ines-benachir/
-#    - /speakers/kaihui-song/
     - /speakers/anthony-cheng/
-    - /speakers/guilherme-larangeira/
+#    - /speakers/guilherme-larangeira/
 #    - /speakers/qian-luo/
+#    - /speakers/siobhan-watson/
+#    - /speakers/kaihui-song/
+#    - /speakers/jieru-he/
+#    - /speakers/josiah-johnston/
 #   exclude: 
 #   author: "Guest Speaker"
 #   title: "*"
@@ -81,7 +83,7 @@ listing:
 
 ## Upcoming Speakers
 
-:::{#recent-speakers}
+:::{#upcoming-speakers}
 :::
 
 ## Fall 2024 Speakers

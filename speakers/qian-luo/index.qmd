@@ -44,6 +44,7 @@ Use modeling tools to understand environmental impacts of energy systems
 ### Time
 
 Monday, March 17, 2025    
+
 6:00PM - 7:00PM ET
 
 ### Venue 
@@ -62,7 +63,16 @@ The urgent need to decarbonize energy systems is driven by the dual challenges o
 
 ### Bio
 
-Qian is an Associate Research Scholar working in the interdisciplinary field of energy system, air quality, and public health. By integrating engineering-based processes into energy system optimization models and linking air quality modeling and energy system models, she tries to provide insights on how to effectively decarbonize the system, while increasing the co-benefits in public health. She previously worked at the National Renewable Energy Laboratory and the Lawrence Berkeley National Laboratory as graduate interns. She received her Ph.D. degree in environmental engineering from NC State University, M.S. degree from Georgia Institute of Technology, and B.S. degree from Xiamen University.
+Qian is an Associate Research Scholar working in the interdisciplinary field of energy system, air quality, and public health. By integrating engineering-based processes into energy system optimization models and linking air quality modeling and energy system models, she tries to provide insights on how to effectively decarbonize the system, while increasing the co-benefits in public health. She previously worked at the National Renewable Energy Laboratory and the Lawrence Berkeley National Laboratory as graduate interns. She received her Ph.D. degree in environmental engineering from North Carolina State University, M.S. degree from Georgia Institute of Technology, and B.S. degree from Xiamen University.
+
+
+## Readings
+
+- Luo, Qian, and Jesse D. Jenkins. 2025. “US EPA’s Power Plant Rules Reduce CO2 Emissions but Can Achieve More Cost-Efficient and Deeper Reduction by Regulating Existing Gas-Fired Plants.” *One Earth*. <https://doi.org/10.1016/j.oneear.2025.101230>.
+- Luo, Qian, Liqun Peng, Gang He, and Jiang Lin. 2025. “Cost-Effectiveness of Removing the Last 10-20% Emissions of China’s Power Sector.” *Environmental Research Letters*. <https://doi.org/10.1088/1748-9326/adc0b3>.
+- Luo, Qian, Fernando Garcia-Menendez, Jiang Lin, Gang He, and Jeremiah X. Johnson. 2023. “Accelerating China’s Power Sector Decarbonization Can Save Lives: Integrating Public Health Goals into Power Sector Planning Decisions.” *Environmental Research Letters* 18 (10): 104023. <https://doi.org/10.1088/1748-9326/acf84b>.  
+- Luo, Qian, Fernando Garcia-Menendez, Haozhe Yang, Ranjit Deshmukh, Gang He, Jiang Lin, and Jeremiah X. Johnson. 2023. “The Health and Climate Benefits of Economic Dispatch in China’s Power System.” *Environmental Science & Technology* 57 (7): 2898–2906. <https://doi.org/10.1021/acs.est.2c05663>. 
+
 
 
 <!--Include social share buttons-->
