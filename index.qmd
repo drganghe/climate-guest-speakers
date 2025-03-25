@@ -11,7 +11,7 @@ listing:
     - /speakers/ines-benachir/
     - /speakers/malte-toetzke/
     - /speakers/anthony-cheng/
-    - /speakers/guilherme-larangeira/
+#    - /speakers/guilherme-larangeira/
 #    - /speakers/qian-luo/
 #    - /speakers/kaihui-song/
 #    - /speakers/siobhan-watson/    
@@ -29,7 +29,7 @@ listing:
     - /speakers/mallory-flowers/
     - /speakers/malte-toetzke/
     - /speakers/ines-benachir/
-    - /speakers/anthony-cheng/
+#    - /speakers/anthony-cheng/
 #    - /speakers/guilherme-larangeira/
 #    - /speakers/qian-luo/
 #    - /speakers/siobhan-watson/
