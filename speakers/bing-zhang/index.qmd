@@ -67,7 +67,7 @@ Dr. Bing ZHANG is a professor of environmental policy at School of Environment a
 
 ## Readings
 
-- Meng Tu, Bing Zhang, Jianhua Xu, Fangwen Lu. Mass media, information and demand for environmental quality: Evidence from the “Under the Dome”, *Journal of Development Economics*, 2020, 143 :102402.
+- Meng Tu, Bing Zhang, Jianhua Xu, Fangwen Lu. Mass media, information and demand for environmental quality: Evidence from the “Under the Dome”, *Journal of Development Economics*, 2020, 143 :102402. <https://doi.org/10.1016/j.jdeveco.2019.102402>
 
 
 

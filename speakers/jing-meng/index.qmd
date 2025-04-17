@@ -69,7 +69,7 @@ Dr Jing Meng is an Associate Professor at The Bartlett School of Sustainable Con
 
 - Meng, Jing, Rupert Way, Elena Verdolini, and Laura Diaz Anadon. 2021. “Comparing Expert Elicitation and Model-Based Probabilistic Technology Cost Forecasts for the Energy Transition.” *Proceedings of the National Academy of Sciences* 118 (27). <https://doi.org/10.1073/pnas.1917165118>.
 
-- Nemet, G. F. (2021). Improving the crystal ball. *Nature Energy*, 6(9), 860-861.
+- Nemet, G. F. (2021). Improving the crystal ball. *Nature Energy*, 6(9), 860-861. <https://doi.org/10.1038/s41560-021-00903-9>
 
 - Trancik, Jessika E. 2021. “Testing and Improving Technology Forecasts for Better Climate Policy.” *Proceedings of the National Academy of Sciences* 118 (35): e2109417118. <https://doi.org/10.1073/pnas.2109417118>.
 
