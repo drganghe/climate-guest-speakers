@@ -9,7 +9,7 @@ listing:
  - id: featured-speaker
    contents:
     - /speakers/ines-benachir/
-    - /speakers/malte-toetzke/
+#    - /speakers/malte-toetzke/
 #    - /speakers/anthony-cheng/
 #    - /speakers/guilherme-larangeira/
 #    - /speakers/qian-luo/
@@ -28,7 +28,7 @@ listing:
     - /speakers/beia-spiller/
     - /speakers/shanru-tian/
     - /speakers/mallory-flowers/
-    - /speakers/ines-benachir/
+#    - /speakers/ines-benachir/
 #    - /speakers/malte-toetzke/    
 #    - /speakers/anthony-cheng/
 #    - /speakers/guilherme-larangeira/
