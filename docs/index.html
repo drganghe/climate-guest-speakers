@@ -75,48 +75,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-featured-speaker .list');
+    const listingTargetEl = window.document.querySelector('#listing-spring25-speakers .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-featured-speaker'] = new List('listing-featured-speaker', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-upcoming-speakers .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-description','listing-author','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-upcoming-speakers'] = new List('listing-upcoming-speakers', options);
+    window['quarto-listings']['listing-spring25-speakers'] = new List('listing-spring25-speakers', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -320,121 +292,99 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ktfar1v3c9");
 </script>
-<section id="featured-speaker" class="level2">
-<h2 class="anchored" data-anchor-id="featured-speaker">Featured speaker</h2>
-<div id="listing-featured-speaker" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVudmlyb25tZW50JTJDQ2xpbWF0ZSUyMGFuZCUyMEVuZXJneSUyQ0NsaW1hdGUlMjBhbmQlMjBTdXN0YWluYWJpbGl0eQ==" data-listing-date-sort="1745812800000" data-listing-file-modified-sort="1745411085227" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="187">
-<div class="thumbnail"><a href="./speakers/ines-benachir/index.html" class="no-external">
+<!--
+## Featured speaker
 
-<img loading="lazy" data-src="./files/headshots/ines-benachir.jpeg" class="thumbnail-image" style="height: 300px;">
+:::{#featured-speaker}
+:::
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./speakers/ines-benachir/index.html" class="no-external">Ines Benachir: Life Cycle Analysis and Ecodesign of PV Panels</a>
-</h3>
-<div class="delink listing-description"><a href="./speakers/ines-benachir/index.html" class="no-external">
-Life Cycle Analysis and Ecodesign of PV Panels
-</a></div>
-</div>
-<div class="metadata">
-<a href="./speakers/ines-benachir/index.html" class="no-external">
-<div class="listing-date">
-Apr 28, 2025
-</div>
-<div class="listing-author">
-Climate Guest Speakers
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-<nav id="featured-speaker-pagination" class="listing-pagination" aria-label="Page Navigation">
-  <ul class="pagination"></ul>
-</nav>
-</div>
-</section>
-<section id="upcoming-speakers" class="level2">
-<h2 class="anchored" data-anchor-id="upcoming-speakers">Upcoming Speakers</h2>
-<div id="listing-upcoming-speakers" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEdvdmVybmFuY2UlMkNDbGltYXRlJTIwTmV3JTIwUmVzZWFyY2g=" data-listing-date-sort="1757304000000" data-listing-file-modified-sort="1744306934537" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="105">
-<a href="./speakers/mallory-flowers/index.html" class="quarto-grid-link">
+
+## Upcoming Speakers
+
+:::{#upcoming-speakers}
+
+:::
+
+-->
+<section id="spring-2025-speakers" class="level2">
+<h2 class="anchored" data-anchor-id="spring-2025-speakers">Spring 2025 Speakers</h2>
+<div id="listing-spring25-speakers" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-5">
+<div class="g-col-1" data-index="0" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEFJ" data-listing-date-sort="1738558800000" data-listing-file-modified-sort="1744306921143" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
+<a href="./speakers/josiah-johnston/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" data-src="./files/headshots/mallory-flowers.webp" class="thumbnail-image card-img" style="height: 240px;">
+<img loading="lazy" data-src="./files/headshots/josiah-johnston.jpg" class="thumbnail-image card-img" style="height: 200px;">
 </p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Mallory Flowers: Carbon Disclosure–the Intersect of Public and Private Climate Governance
-</h5>
-<div class="card-text listing-description delink">
-<p>Carbon Disclosure–the Intersect of Public and Private Climate Governance</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Climate Guest Speakers
-</div>
-<div class="listing-date">
-Sep 8, 2025
-</div>
-</div>
-</div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVuZXJneQ==" data-listing-date-sort="1757908800000" data-listing-file-modified-sort="1744306934537" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="204">
-<a href="./speakers/shanru-tian/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="Q2xpbWF0ZSUyMGFuZCUyME1hcmtldHM=" data-listing-date-sort="1739163600000" data-listing-file-modified-sort="1744306920875" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
+<a href="./speakers/jieru-he/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" data-src="./files/headshots/shanru-tian.jpeg" class="thumbnail-image card-img" style="height: 240px;">
+<img loading="lazy" data-src="./files/headshots/jieru-he.jpeg" class="thumbnail-image card-img" style="height: 200px;">
 </p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Shanru Tian: Optimizing the Efficacy of Leak Detection and Quantification (LDAQ) for Natural Gas Pipelines
-</h5>
-<div class="card-text listing-description delink">
-<p>This talk explores optimizing LDAQ protocols by refining key parameters</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Climate Guest Speakers
-</div>
-<div class="listing-date">
-Sep 15, 2025
-</div>
-</div>
-</div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVuZXJneSUyQ0NsaW1hdGUlMjBOZXclMjBSZXNlYXJjaA==" data-listing-date-sort="1761537600000" data-listing-file-modified-sort="1744306934537" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="120">
-<a href="./speakers/beia-spiller/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEdvdmVybmFuY2UlMkNDbGltYXRlJTIwTmV3JTIwUmVzZWFyY2g=" data-listing-date-sort="1740978000000" data-listing-file-modified-sort="1744306921144" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
+<a href="./speakers/kaihui-song/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" data-src="./files/headshots/beia-spiller.webp" class="thumbnail-image card-img" style="height: 240px;">
+<img loading="lazy" data-src="./files/headshots/kaihui-song.png" class="thumbnail-image card-img" style="height: 200px;">
 </p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Beia Spiller: The transition to a decarbonized transport sector
-</h5>
-<div class="card-text listing-description delink">
-<p>Transporation Decarbonization and Climate Policy</p>
+</div></a>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Climate Guest Speakers
+<div class="g-col-1" data-index="3" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVudmlyb25tZW50JTJDQ2xpbWF0ZSUyMGFuZCUyMFN1c3RhaW5hYmlsaXR5" data-listing-date-sort="1741579200000" data-listing-file-modified-sort="1744306921144" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
+<a href="./speakers/siobhan-watson/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/siobhan-watson.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div></a>
 </div>
-<div class="listing-date">
-Oct 27, 2025
+<div class="g-col-1" data-index="4" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVudmlyb25tZW50JTJDQ2xpbWF0ZSUyME5ldyUyMFJlc2VhcmNoJTJDQ2xpbWF0ZSUyMGFuZCUyMEVuZXJneQ==" data-listing-date-sort="1742184000000" data-listing-file-modified-sort="1744306921181" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="381">
+<a href="./speakers/qian-luo/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/qian-luo.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div></a>
 </div>
+<div class="g-col-1" data-index="5" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEluZHVzdHJ5JTJDQ2xpbWF0ZSUyMGFuZCUyMEVuZXJneQ==" data-listing-date-sort="1742788800000" data-listing-file-modified-sort="1744306921143" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="171">
+<a href="./speakers/guilherme-larangeira/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/guilherme-larangeira.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div></a>
 </div>
+<div class="g-col-1" data-index="6" data-categories="Q2xpbWF0ZSUyMGFuZCUyMElubm92YXRpb24lMkNDbGltYXRlJTIwTmV3JTIwUmVzZWFyY2g=" data-listing-date-sort="1743998400000" data-listing-file-modified-sort="1744306934537" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="240">
+<a href="./speakers/anthony-cheng/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/anthony-cheng.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div></a>
 </div>
+<div class="g-col-1" data-index="7" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEFJJTJDQ2xpbWF0ZSUyMGFuZCUyMElubm92YXRpb24lMkNDbGltYXRlJTIwTmV3JTIwUmVzZWFyY2g=" data-listing-date-sort="1745208000000" data-listing-file-modified-sort="1744306921144" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="265">
+<a href="./speakers/malte-toetzke/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/malte-toetzke.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+</div></a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVudmlyb25tZW50JTJDQ2xpbWF0ZSUyMGFuZCUyMEVuZXJneSUyQ0NsaW1hdGUlMjBhbmQlMjBTdXN0YWluYWJpbGl0eQ==" data-listing-date-sort="1745812800000" data-listing-file-modified-sort="1745411085227" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="187">
+<a href="./speakers/ines-benachir/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/ines-benachir.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
 </div></a>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-<nav id="upcoming-speakers-pagination" class="listing-pagination" aria-label="Page Navigation">
+<nav id="spring25-speakers-pagination" class="listing-pagination" aria-label="Page Navigation">
   <ul class="pagination"></ul>
 </nav>
 </div>

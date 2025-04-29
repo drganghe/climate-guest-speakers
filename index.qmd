@@ -6,44 +6,47 @@ page-layout: full
 toc: false
 
 listing:
- - id: featured-speaker
-   contents:
-    - /speakers/ines-benachir/
-#    - /speakers/malte-toetzke/
-#    - /speakers/anthony-cheng/
-#    - /speakers/guilherme-larangeira/
-#    - /speakers/qian-luo/
-#    - /speakers/kaihui-song/
-#    - /speakers/siobhan-watson/    
-   type: default
-   max-items: 1
-   image-height: 300px
-   page-size: 0 #set as 0 will remove the page setting
-   sort: 
-     - "date asc"
-     - "title asc"
+ # - id: featured-speaker
+ #   contents:
+ #    - /speakers/ines-benachir/   
+ #   type: default
+ #   max-items: 1
+ #   image-height: 300px
+ #   page-size: 0 #set as 0 will remove the page setting
+ #   sort: 
+ #     - "date asc"
+ #     - "title asc"
+ # 
+ # - id: upcoming-speakers
+ #   contents:
+ #    - /speakers/beia-spiller/
+ #    - /speakers/shanru-tian/
+ #    - /speakers/mallory-flowers/
+ #   type: grid
+ #   max-items: 3
+ #   fields: [image, title, subtitle, description, author, date]
+ #   image-height: 240px
+ #   page-size: 0 #set as 0 will remove the page setting
+ #   sort: 
+ #     - "date asc"
+ #     - "title asc"
 
- - id: upcoming-speakers
-   contents:
-    - /speakers/beia-spiller/
-    - /speakers/shanru-tian/
-    - /speakers/mallory-flowers/
-#    - /speakers/ines-benachir/
-#    - /speakers/malte-toetzke/    
-#    - /speakers/anthony-cheng/
-#    - /speakers/guilherme-larangeira/
-#    - /speakers/qian-luo/
-#    - /speakers/siobhan-watson/
-#    - /speakers/kaihui-song/
-#    - /speakers/jieru-he/
-#    - /speakers/josiah-johnston/
-#   exclude: 
-#   author: "Guest Speaker"
-#   title: "*"
+ - id: spring25-speakers
+   contents: 
+   - /speakers/ines-benachir/
+   - /speakers/malte-toetzke/    
+   - /speakers/anthony-cheng/
+   - /speakers/guilherme-larangeira/
+   - /speakers/qian-luo/
+   - /speakers/siobhan-watson/
+   - /speakers/kaihui-song/
+   - /speakers/jieru-he/
+   - /speakers/josiah-johnston/
    type: grid
-   max-items: 3
-   fields: [image, title, subtitle, description, author, date]
-   image-height: 240px
+   max-items: 10
+   grid-columns: 5
+   image-height: 200px
+   fields: [image]
    page-size: 0 #set as 0 will remove the page setting
    sort: 
      - "date asc"
@@ -75,6 +78,7 @@ listing:
 <!--Please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
+<!--
 
 ## Featured speaker
 
@@ -85,6 +89,15 @@ listing:
 ## Upcoming Speakers
 
 :::{#upcoming-speakers}
+
+:::
+
+-->
+
+
+## Spring 2025 Speakers
+
+:::{#spring25-speakers}
 :::
 
 ## Fall 2024 Speakers
