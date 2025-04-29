@@ -38,12 +38,12 @@ title-block-banner: false
 
 ## Title
 
-The transition to a decarbonized transport sector
+{{< meta title >}}
 
 
 ### Time
 
-Monday, October 27, 2025  
+{{< meta date >}}  
 
 6:00PM - 7:00PM ET
 

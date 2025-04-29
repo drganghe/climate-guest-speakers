@@ -3,7 +3,7 @@ title: "Shanru Tian: Optimizing the Efficacy of Leak Detection and Quantificatio
 description: "This talk explores optimizing LDAQ protocols by refining key parameters"
 image: /files/headshots/shanru-tian.jpeg
 author: "Climate Guest Speakers"
-date: "2025-09-15"
+date: "2025-09-29"
 categories: [Climate and Energy]
 #page-layout: full
 #bibliography: references.bib
@@ -38,16 +38,17 @@ title-block-banner: false
 
 ## Title
 
-Optimizing the Efficacy of Leak Detection and Quantification (LDAQ) for Natural Gas Pipelines Using CFD Modeling
+{{< meta title >}}
 
 
 ### Time
 
-Monday, September 15, 2025  
+{{< meta date >}}  
 
 6:00PM - 7:00PM ET
 
 ### Venue 
+
 Online via zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
 
 ## About
