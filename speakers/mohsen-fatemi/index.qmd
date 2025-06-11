@@ -19,7 +19,7 @@ listing:  #an example of listing external links
   fields: [image, title, subtitle]
   grid-item-align: center
   grid-columns: 2
-  image-height: 300px
+  image-height: 350px
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
@@ -42,10 +42,13 @@ Passion, Profession, Progression
 
 ### Time
 
-Monday, November 18, 2024, 6:00PM - 7:00PM ET
+Monday, November 18, 2024
+
+6:00PM - 7:00PM ET
 
 ### Venue 
-Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+Online via Zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
 
 ## About
 

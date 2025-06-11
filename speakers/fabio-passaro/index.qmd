@@ -1,5 +1,5 @@
 ---
-title: "Fabio Passaro: How to mobilise sustainable finance for the steel and cement sectors' transition"
+title: "Fabio Passaro: How to Mobilise Sustainable Finance for the Steel and Cement Sectors' Transition"
 description: "Unlock the role policymakers have in mobilising private finance in ensuring a just transition in the steel and cement industries. Discover how credible transition plans are the means to access private capital for transition. "
 image: /files/headshots/fabio-passaro.png
 author: "Climate Guest Speakers"
@@ -19,7 +19,7 @@ listing:  #an example of listing external links
   fields: [image, title, subtitle]
   grid-item-align: center
   grid-columns: 2
-  image-height: 300px
+  image-height: 350px
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
@@ -45,7 +45,8 @@ How to mobilise sustainable finance for the steel and cement sectors' transition
 Monday, October 21, 2024, 6:00PM - 7:00PM ET
 
 ### Venue 
-Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+Online via Zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
 
 ## About
 

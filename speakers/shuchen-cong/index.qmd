@@ -1,0 +1,78 @@
+---
+title: "Shuchen Cong: Identifying Energy Limiting Behavior and Its Implications"
+description: "This talk introduces the 'energy equity gap' — a data-driven framework that quantifies when low-income households delay turning on heating or cooling compared to higher-income neighbors."
+image: /files/headshots/shuchen-cong.jpg
+author: "Climate Guest Speakers"
+date: "2025-11-03"
+categories: [Climate and Energy, Climate New Research, Climate and Behavior, Climate and Equity]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 350px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://irving.dartmouth.edu/people/shuchen-cong #https://scholar.google.com/citations?user=h0PYL20AAAAJ&hl=en linkedin profile or personal website
+      image: /files/headshots/shuchen-cong.jpg
+      title: "Dr. Shuchen Cong"
+#      author: 
+      subtitle: "Postdoctoral Researcher and Lecturer, Dartmouth College"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+
+### Time
+
+{{< meta date >}}  
+
+6:00PM - 7:00PM ET
+
+### Venue 
+
+Online via Zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
+
+## About
+
+Traditional energy poverty metrics like energy burden miss a critical vulnerability: households that reduce energy consumption to save money, often sacrificing comfort and health. This talk introduces the "energy equity gap" — a data-driven framework that quantifies when low-income households delay turning on heating or cooling compared to higher-income neighbors. Drawing from research across multiple climate zones and a pandemic-era survey of 2,000 households, we'll explore how energy limiting behavior manifests differently across regions, who gets left behind by current metrics, and how behavior-based approaches can inform more equitable energy assistance policies and climate adaptation strategies.
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Shuchen Cong is a Postdoctoral Research Fellow at Dartmouth's Irving Institute for Energy and Society and a Lecturer at the Guarini School of Graduate and Advanced Studies. Her research focuses on modeling the system-level impacts of residential and commercial energy behaviors, bridging micro-level decision-making with macro-level planning to inform energy system design and policy. At Dartmouth, she develops tools and frameworks that integrate household- and firm-level energy use patterns into broader models of grid resilience, reliability, and decarbonization.
+
+
+
+## Readings
+
+- Cong, Shuchen, Destenie Nock, Yueming Lucy Qiu, and Bo Xing. 2022. “Unveiling Hidden Energy Poverty Using the Energy Equity Gap.” *Nature Communications* 13 (1): 2456. <https://doi.org/10.1038/s41467-022-30146-5>.
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

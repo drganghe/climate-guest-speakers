@@ -1,0 +1,80 @@
+---
+title: "Cecilia Springer: U.S. Data Center Energy Demand and Emissions"
+description: "US Data Center Energy Demand and Emissions"
+image: /files/headshots/cecilia-springer.jpg
+author: "Climate Guest Speakers"
+date: "2025-11-24"
+categories: [Climate and Energy, Climate New Research, Climate and AI]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 350px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.synapse-energy.com/cecilia-springer #linkedin profile or personal website
+      image: /files/headshots/cecilia-springer.jpg
+      title: "Dr. Cecilia Han Springer"
+#      author: 
+      subtitle: "Principal Associate, Synapse Energy Economics"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+
+### Time
+
+{{< meta date >}}  
+
+6:00PM - 7:00PM ET
+
+### Venue 
+
+Online via Zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
+
+## About
+
+The rising demand for data processing and storage, driven by advancements in AI and large-scale computing, has raised concerns about the energy use and emissions profiles of new data centers in the U.S. and globally. With data centers in the U.S. rapidly expanding, their energy and emissions footprint will largely depend on the technologies and pathways adopted. Dr. Springer leads a report examines the geographical distribution, projected energy and emissions impacts, and state-level regulations affecting data center development, aiming to provide policymakers and stakeholders with insights to guide decisions on siting, construction, operations, and grid planning for low-carbon growth in computing demand. Dr. Springer will share her insights on the report.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Cecilia Springer is a Principal Associate at Synapse Energy Economics. Dr. Springer has nearly 15 years of experience conducting techno-economic analysis on carbon and energy policy, with a topical focus on industrial decarbonization and a regional focus on the U.S., China, and Southeast Asia. Dr. Springer has published research on decarbonization roadmaps for the steel, textile, and cement industries; industrial electrification and industrial heat pumps; energy benchmarking analysis of the steel, cement, and aluminum industries; embodied carbon in trade; and green public procurement. She contributed to the U.S. Department of Energy Industrial Efficiency and Decarbonization Office's industrial decarbonization roadmap and update process. Previously, she was a Principal at Global Efficiency Intelligence and Co-Director of the Industrial Electrification Center. From 2015-2019, she was a student researcher and affiliate at the China Energy Group in the Lawrence Berkeley National Laboratory, contributing to research on emerging energy efficiency technologies for various industrial subsectors.
+
+Dr. Springer is also an expert on China's domestic and international carbon and energy policies, with a focus on China's overseas financing for energy-related infrastructure. She has published over a dozen journal articles, working papers, and book chapters in this area and led previous updates of the China's Global Power Database and the China's Global Energy Finance Database. She is a non-resident fellow at the Global China Initiative (GCI) in the Boston University Global Development Policy Center, and was previously the Assistant Director of GCI. She is also involved in US-China scholarly exchange, and was a part of the inaugural cohort of the Wilson China Fellows Program and the Mansfield-Luce Asia Scholars Program. She served as a Fulbright Fellow in Tianjin, China from 2011-2012.
+
+Dr. Springer was a postdoctoral research fellow at the Harvard Kennedy School's Belfer Center for Science and International Affairs. She received her M.S./Ph.D. from the Energy and Resources Group at the University of California, Berkeley, and a B.S. in Environmental Science from Brown University.
+
+## Readings
+
+Cecilia Springer and Ali Hasanbeigi. 2024. [Data Centers in the AI Era: Energy and Emissions Impacts in the U.S. and Key States](https://www.globalefficiencyintel.com/data-centers-in-the-ai-era-energy-and-emissions-impacts-in-the-us-and-key-states). Global Efficiency Intelligence, LLC.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -37,7 +37,7 @@ listing:
         <a href="https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw" class="btn register-btn">Register to Participate</a>
 
         <!-- Donate to Support Students Button -->
-        <a href="https://www.givecampus.com/schools/BaruchCollegeCUNY/marxe-30th-anniversary" class="btn donate-btn">Donate to Support Our Climate Students</a>
+        <a href="https://www.cunytuesday.org/campaigns/the-marxe-school" class="btn donate-btn">Donate to Support Our Climate Students</a>
 
         <!-- Join Marxe MPA Button -->
         <a href="https://marxe.baruch.cuny.edu/homepage/academics/master-of-public-administration/" class="btn donate-btn">Get an MPA with Climate Change Specialization</a>

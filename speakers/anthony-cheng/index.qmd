@@ -1,5 +1,5 @@
 ---
-title: "Anthony Cheng: EV mineral supply chains and Inflation Reduction Act"
+title: "Anthony Cheng: EV Mineral Supply Chains and Inflation Reduction Act"
 description: "Supply chain vulnerability and U.S. decarbonization"
 image: /files/headshots/anthony-cheng.jpeg
 author: "Climate Guest Speakers"
@@ -19,7 +19,7 @@ listing:  #an example of listing external links
   fields: [image, title, subtitle]
   grid-item-align: center
   grid-columns: 2
-  image-height: 300px
+  image-height: 350px
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
@@ -38,16 +38,18 @@ title-block-banner: false
 
 ## Title
 
-EV mineral supply chains and Inflation Reduction Act
+{{< meta title >}}
 
 
 ### Time
 
-Monday, April 7, 2025    
+{{< meta date >}}
+
 6:00PM - 7:00PM ET
 
 ### Venue 
-Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+Online via Zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
 
 ## About
 

@@ -6,80 +6,104 @@ page-layout: full
 toc: false
 
 listing:
- # - id: featured-speaker
- #   contents:
- #    - /speakers/ines-benachir/   
- #   type: default
- #   max-items: 1
- #   image-height: 300px
- #   page-size: 0 #set as 0 will remove the page setting
- #   sort: 
- #     - "date asc"
- #     - "title asc"
- # 
- # - id: upcoming-speakers
- #   contents:
- #    - /speakers/beia-spiller/
- #    - /speakers/shanru-tian/
- #    - /speakers/mallory-flowers/
- #   type: grid
- #   max-items: 3
- #   fields: [image, title, subtitle, description, author, date]
- #   image-height: 240px
- #   page-size: 0 #set as 0 will remove the page setting
- #   sort: 
- #     - "date asc"
- #     - "title asc"
+#  - id: featured-speaker
+#    contents:
+#      - /speakers/luo-xu/  
+#    type: default
+#    max-items: 1
+#    image-height: 300px
+#    page-size: 0 #set as 0 will remove the page setting
+#    sort: 
+#     - "date asc"
+#     - "title asc"
+ 
+#  - id: upcoming-speakers
+#    contents:
+#      - /speakers/cecilia-springer/
+#      - /speakers/luo-xu/
+#      - /speakers/shuchen-cong/
+#      - /speakers/karan-bhuwalka/
+#      - /speakers/claudia-villar-leeman/
+#      - /speakers/beia-spiller/
+#      - /speakers/shanru-tian/
+#      - /speakers/mallory-flowers/
+    # type: grid
+    # max-items: 3
+    # fields: [image, title, subtitle, description, author, date]
+    # image-height: 240px
+    # page-size: 0 #set as 0 will remove the page setting
+    # sort: 
+    #  - "date asc"
+    #  - "title asc"
 
- - id: spring25-speakers
-   contents: 
-   - /speakers/ines-benachir/
-   - /speakers/malte-toetzke/    
-   - /speakers/anthony-cheng/
-   - /speakers/guilherme-larangeira/
-   - /speakers/qian-luo/
-   - /speakers/siobhan-watson/
-   - /speakers/kaihui-song/
-   - /speakers/jieru-he/
-   - /speakers/josiah-johnston/
-   type: grid
-   max-items: 10
-   grid-columns: 5
-   image-height: 200px
-   fields: [image]
-   page-size: 0 #set as 0 will remove the page setting
-   sort: 
+  - id: fall25-speakers
+    contents: 
+     - /speakers/cecilia-springer/
+     - /speakers/shuchen-cong/
+     - /speakers/karan-bhuwalka/
+     - /speakers/claudia-villar-leeman/
+     - /speakers/beia-spiller/
+     - /speakers/shanru-tian/
+     - /speakers/mallory-flowers/
+    type: grid
+    max-items: 8
+    grid-columns: 4
+    image-height: 250px
+    fields: [image]
+    page-size: 0 #set as 0 will remove the page setting
+    sort: 
      - "date asc"
      - "title asc"
 
- - id: fall24-speakers
-   contents: 
-    - /speakers/mohsen-fatemi/
-    - /speakers/bharathi-esakkimuthu/
-    - /speakers/samuel-vaillancourt/
-    - /speakers/fabio-passaro/ 
-    - /speakers/liqun-peng/
-    - /speakers/maryam-mozafari/
-    - /speakers/simi-george/
-    - /speakers/kaifang-luo/
-    - /speakers/shirley-gallagher/
-    - /speakers/richard-morse/
-   type: grid
-   max-items: 10
-   grid-columns: 5
-   image-height: 200px
-   fields: [image]
-   page-size: 0 #set as 0 will remove the page setting
-   sort: 
-     - "date asc"
-     - "title asc"
+  - id: spring25-speakers
+    contents: 
+      - /speakers/ines-benachir/
+      - /speakers/malte-toetzke/    
+      - /speakers/anthony-cheng/
+      - /speakers/guilherme-larangeira/
+      - /speakers/qian-luo/
+      - /speakers/siobhan-watson/
+      - /speakers/kaihui-song/
+      - /speakers/jieru-he/
+      - /speakers/josiah-johnston/
+    type: grid
+    max-items: 10
+    grid-columns: 5
+    image-height: 200px
+    fields: [image]
+    page-size: 0 #set as 0 will remove the page setting
+    sort: 
+      - "date asc"
+      - "title asc"
+
+#  - id: fall24-speakers
+#    contents: 
+#     - /speakers/mohsen-fatemi/
+#     - /speakers/bharathi-esakkimuthu/
+#     - /speakers/samuel-vaillancourt/
+#     - /speakers/fabio-passaro/ 
+#     - /speakers/liqun-peng/
+#     - /speakers/maryam-mozafari/
+#     - /speakers/simi-george/
+#     - /speakers/kaifang-luo/
+#     - /speakers/shirley-gallagher/
+#     - /speakers/richard-morse/
+#    type: grid
+#    max-items: 10
+#    grid-columns: 5
+#    image-height: 200px
+#    fields: [image]
+#    page-size: 0 #set as 0 will remove the page setting
+#    sort: 
+#      - "date asc"
+#      - "title asc"
 ---
 
 <!--Please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-<!--
 
+<!--
 ## Featured speaker
 
 :::{#featured-speaker}
@@ -91,8 +115,14 @@ listing:
 :::{#upcoming-speakers}
 
 :::
-
 -->
+
+
+## Fall 2025 Speakers
+
+:::{#fall25-speakers}
+:::
+
 
 
 ## Spring 2025 Speakers
@@ -100,7 +130,10 @@ listing:
 :::{#spring25-speakers}
 :::
 
+
+<!--
 ## Fall 2024 Speakers
 
 :::{#fall24-speakers}
 :::
+-->

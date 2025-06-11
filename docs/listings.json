@@ -2,6 +2,13 @@
   {
     "listing": "/index.html",
     "items": [
+      "/speakers/mallory-flowers/index.html",
+      "/speakers/shanru-tian/index.html",
+      "/speakers/karan-bhuwalka/index.html",
+      "/speakers/beia-spiller/index.html",
+      "/speakers/shuchen-cong/index.html",
+      "/speakers/claudia-villar-leeman/index.html",
+      "/speakers/cecilia-springer/index.html",
       "/speakers/josiah-johnston/index.html",
       "/speakers/jieru-he/index.html",
       "/speakers/kaihui-song/index.html",
@@ -10,17 +17,7 @@
       "/speakers/guilherme-larangeira/index.html",
       "/speakers/anthony-cheng/index.html",
       "/speakers/malte-toetzke/index.html",
-      "/speakers/ines-benachir/index.html",
-      "/speakers/richard-morse/index.html",
-      "/speakers/shirley-gallagher/index.html",
-      "/speakers/kaifang-luo/index.html",
-      "/speakers/simi-george/index.html",
-      "/speakers/maryam-mozafari/index.html",
-      "/speakers/fabio-passaro/index.html",
-      "/speakers/liqun-peng/index.html",
-      "/speakers/samuel-vaillancourt/index.html",
-      "/speakers/bharathi-esakkimuthu/index.html",
-      "/speakers/mohsen-fatemi/index.html"
+      "/speakers/ines-benachir/index.html"
     ]
   },
   {
@@ -174,7 +171,12 @@
   {
     "listing": "/speakers.html",
     "items": [
+      "/speakers/luo-xu/index.html",
+      "/speakers/cecilia-springer/index.html",
+      "/speakers/claudia-villar-leeman/index.html",
+      "/speakers/shuchen-cong/index.html",
       "/speakers/beia-spiller/index.html",
+      "/speakers/karan-bhuwalka/index.html",
       "/speakers/shanru-tian/index.html",
       "/speakers/mallory-flowers/index.html",
       "/speakers/ines-benachir/index.html",
@@ -218,6 +220,26 @@
   },
   {
     "listing": "/students.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/cecilia-springer/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/shuchen-cong/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/luo-xu/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/karan-bhuwalka/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/claudia-villar-leeman/index.html",
     "items": []
   }
 ]

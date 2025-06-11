@@ -1,6 +1,6 @@
 ---
-title: "Shanru Tian: Optimizing the Efficacy of Leak Detection and Quantification (LDAQ) for Natural Gas Pipelines"
-description: "This talk explores optimizing LDAQ protocols by refining key parameters"
+title: "Shanru Tian: Weather, Energy Safety, and Grid Resilience--Harnessing Nature’s Power in the United States"
+description: "This talk explores how we can harness nature’s power to build a more resilient energy future."
 image: /files/headshots/shanru-tian.jpeg
 author: "Climate Guest Speakers"
 date: "2025-09-29"
@@ -19,7 +19,7 @@ listing:  #an example of listing external links
   fields: [image, title, subtitle]
   grid-item-align: center
   grid-columns: 2
-  image-height: 300px
+  image-height: 350px
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
@@ -49,13 +49,11 @@ title-block-banner: false
 
 ### Venue 
 
-Online via zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
+Online via Zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
 
 ## About
 
-Natural gas (NG), considered a bridging fuel for a low-carbon future, has become a major component of the global energy system, requiring extensive underground pipeline infrastructure. Fugitive methane (CH₄) emissions from pipeline leaks pose environmental, safety, and economic risks. Effective leak detection and quantification (LDAQ) methods are crucial for identifying leaks, assessing their magnitude, and ensuring timely mitigation.
-
-However, gaps remain in LDAQ survey methods, and their effectiveness is not well understood. This talk explores optimizing LDAQ protocols by refining key parameters—including survey speed, altitude, and distance downwind from leak sources—using CFD 3D plume modeling and field measurements across diverse environmental conditions. The results provide a physical basis for operators and solution providers to determine optimal survey parameters under varying environmental conditions.
+The U.S. energy mix—including natural gas, wind, solar, nuclear, and coal—plays a critical role in powering the economy. However, the resilience of these infrastructures is increasingly challenged by extreme weather events. Winter Storm Uri (2021), for example, exposed significant vulnerabilities in grid management and energy supply chains. As the nation moves toward decarbonization, ensuring grid resilience becomes not just a technical necessity but a public safety imperative. This talk explores how we can harness nature’s power to build a more resilient energy future. By leveraging subseasonal to seasonal (S2S) weather forecasts—particularly in the 2–5 week range—we can better anticipate and prepare for disruptive events. Integrating atmospheric dynamics into energy operations and planning offers a pathway to enhance safety, reliability, and sustainability. We will discuss strategies for embedding meteorological insights into industry routines, enabling proactive risk management and smarter grid adaptation.
 
 
 ## Speaker

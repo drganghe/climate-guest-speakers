@@ -1,7 +1,7 @@
 ---
 title: "Kaifang Luo: The Hidden Value of Carbon Capture and Storage—Assessing the Impact of CCS Projects on U.S. Housing Markets"
 description: "Dr. Luo will share her research on CCS projects and housing markets."
-image: https://deeppolicylab.github.io/files/headshots/kaifang-luo.jpeg
+image: /files/headshots/kaifang-luo.webp
 author: "Climate Guest Speakers"
 date: "2024-09-30"
 categories: [Climate New Research, Climate and Markets]
@@ -19,13 +19,13 @@ listing:  #an example of listing external links
   fields: [image, title, subtitle]
   grid-item-align: center
   grid-columns: 2
-  image-height: 400px
+  image-height: 350px
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
   contents:
     - path: https://kaifangluo.com/  #linkedin profile or personal website
-      image: https://deeppolicylab.github.io/files/headshots/kaifang-luo.jpeg
+      image: /files/headshots/kaifang-luo.webp
       title: "Dr. Kaifang Luo"
 #      author: 
       subtitle: "Post-doc, CUNY Baruch College"
@@ -45,7 +45,8 @@ The Hidden Value of Carbon Capture and Storage: Assessing the Impact of CCS Proj
 Monday, September 30, 2024, 6:00PM - 7:00PM ET
 
 ### Venue 
-Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+Online via Zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
 
 ## About
 

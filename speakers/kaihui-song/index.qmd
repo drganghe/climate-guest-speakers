@@ -1,5 +1,5 @@
 ---
-title: "Kaihui Song: Leveraging subnational capacity for equitable decarbonization"
+title: "Kaihui Song: Leveraging Subnational Capacity for Equitable Decarbonization"
 description: "Cities and regional authorities play a crucial role in driving climate action to limit global warming to 1.5°C"
 image: /files/headshots/kaihui-song.png
 author: "Climate Guest Speakers"
@@ -19,7 +19,7 @@ listing:  #an example of listing external links
   fields: [image, title, subtitle]
   grid-item-align: center
   grid-columns: 2
-  image-height: 300px
+  image-height: 350px
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
@@ -47,7 +47,8 @@ Monday, March 3, 2025
 6:00PM - 7:00PM ET
 
 ### Venue 
-Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+Online via Zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
 
 ## Abstract
 
