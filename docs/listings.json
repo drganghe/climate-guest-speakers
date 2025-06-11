@@ -174,6 +174,7 @@
   {
     "listing": "/speakers.html",
     "items": [
+      "/speakers/cecilia-springer/index.html",
       "/speakers/beia-spiller/index.html",
       "/speakers/shanru-tian/index.html",
       "/speakers/mallory-flowers/index.html",
@@ -218,6 +219,14 @@
   },
   {
     "listing": "/students.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/cecilia-springer/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/shuchen-cong/index.html",
     "items": []
   }
 ]

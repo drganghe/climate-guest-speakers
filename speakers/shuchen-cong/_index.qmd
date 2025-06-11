@@ -1,0 +1,78 @@
+---
+title: "Shuchen Cong: Identifying Energy Limiting Behavior and Its Implications"
+description: "Energy equity gap and energy justice"
+image: /files/headshots/shuchen-cong.jpeg
+author: "Climate Guest Speakers"
+date: "2025-11-03"
+categories: [Climate and Energy, Climate New Research, Climate and Behavior, Climate and Equity]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 350px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://research-hub.nrel.gov/en/persons/shuchen-cong #linkedin profile or personal website
+      image: /files/headshots/shuchen-cong.jpeg
+      title: "Dr. Shuchen Cong"
+#      author: 
+      subtitle: "Researcher II-Policy Analysis, National Renewable Energy Laboratory"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+
+### Time
+
+{{< meta date >}}  
+
+6:00PM - 7:00PM ET
+
+### Venue 
+
+Online via Zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
+
+## About
+
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Shuchen Cong's work focuses on integrating energy equity analysis with building science and modeling and community engagement in building decarbonization efforts. Her work supports federal and local initiatives to advance energy efficiency, equity, and resilience in disadvantaged communities. She received an PhD in Engineering and Public Policy from Carnegie Mellon University.
+
+
+
+## Readings
+
+- Cong, Shuchen, Destenie Nock, Yueming Lucy Qiu, and Bo Xing. 2022. “Unveiling Hidden Energy Poverty Using the Energy Equity Gap.” *Nature Communications* 13 (1): 2456. <https://doi.org/10.1038/s41467-022-30146-5>.
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

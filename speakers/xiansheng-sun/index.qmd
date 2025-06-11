@@ -19,7 +19,7 @@ listing:  #an example of listing external links
   fields: [image, title, subtitle]
   grid-item-align: center
   grid-columns: 2
-  image-height: 300px
+  image-height: 350px
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
@@ -48,8 +48,10 @@ title-block-banner: false
 3PM - 4PM ET
 
 ### Venue 
+
 1441 Old Computer Science
 
+Stony Brook University
 
 ## Speaker
 

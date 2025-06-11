@@ -1,7 +1,7 @@
 ---
 title: "Climate Guest Speakers"
 css: /custom.css
-#image: files/logo.jpeg
+image: files/images/2024-2025-speakers.png
 page-layout: full
 
 listing:
@@ -10,10 +10,10 @@ listing:
    exclude: 
     author: "Guest Speaker"
    type: grid
-   image-height: 200px
+   image-height: 250px
    max-items: 100
    categories: true
-   fields: [image, title, subtitle, description, author, date]
+   fields: [image, title, subtitle, author, date]
    sort-ui: true
    filter-ui: true
    page-size: 0 #set as 0 will remove the page setting
