@@ -1,5 +1,5 @@
 ---
-title: "Jinyue Yan: Energy systems with high renewable penetration"
+title: "Jinyue Yan: Energy Systems with High Renewable Penetration"
 description: "This lecture addressed the transition of clean energy systems and illustrated, by an example, how an optimization solution can be achieved under the condition of high renewable energy penetration."
 image: /files/headshots/jinyue-yan.webp
 author: "Climate Guest Speakers"
@@ -19,7 +19,7 @@ listing:  #an example of listing external links
   fields: [image, title, subtitle]
   grid-item-align: center
   grid-columns: 2
-  image-height: 300px
+  image-height: 350px
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
@@ -48,7 +48,10 @@ title-block-banner: false
 11AM - 12PM ET
 
 ### Venue 
+
 1310 Old Computer Science
+
+Stony Brook University
 
 ## About
 

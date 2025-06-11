@@ -1,5 +1,5 @@
 ---
-title: "Liqun Peng: Evaluating environmental and climate impacts of low-carbon technologies to accelerate energy system decarbonization"
+title: "Liqun Peng: Evaluating Environmental and Climate Impacts of Low-Carbon Technologies to Accelerate Energy System Decarbonization"
 description: "Dr. Peng will share her research on modeling energy system decarbonization."
 image: /files/headshots/liqun-peng.jpg
 author: "Climate Guest Speakers"
@@ -19,7 +19,7 @@ listing:  #an example of listing external links
   fields: [image, title, subtitle]
   grid-item-align: center
   grid-columns: 2
-  image-height: 300px
+  image-height: 350px
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
@@ -45,7 +45,8 @@ Evaluating environmental and climate impacts of low-carbon technologies to accel
 Monday, October 28, 2024, 6:00PM - 7:00PM ET
 
 ### Venue 
-Online via zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+Online via Zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
 
 ## About
 

@@ -19,7 +19,7 @@ listing:  #an example of listing external links
   fields: [image, title, subtitle]
   grid-item-align: center
   grid-columns: 2
-  image-height: 300px
+  image-height: 350px
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
@@ -48,7 +48,8 @@ title-block-banner: false
 11:30AM - 12:30PM ET
 
 ### Venue 
-Online via zoom. 
+
+Online via Zoom. 
 
 ## About
 

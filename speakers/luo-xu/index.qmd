@@ -1,0 +1,75 @@
+---
+title: "Luo Xu: Towards Resilient and Sustainable Electricity Grids Under Climate Extremes"
+description: "Dr. Xu will discuss his research on climate change and grid resilience."
+image: /files/headshots/luo-xu.jpg
+author: "Climate Guest Speakers"
+date: "2025-12-01"
+categories: [Climate and Energy, Climate New Research, Climate and AI]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 350px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://luo-xu.com/ #linkedin profile or personal website
+      image: /files/headshots/luo-xu.jpg
+      title: "Dr. Luo Xu"
+#      author: 
+      subtitle: "Associate Research Scholar, Princeton University"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+
+### Time
+
+{{< meta date >}}  
+
+6:00PM - 7:00PM ET
+
+### Venue 
+
+Online via Zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
+
+## About
+
+Dr. Xu will discuss his research on climate change and grid resilience.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Dr. Luo Xu is an interdisciplinary Associate Research Scholar affiliated with the Department of Civil and Environmental Engineering, and the Center for Policy Research on Energy and the Environment at Princeton University.
+
+## Readings
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

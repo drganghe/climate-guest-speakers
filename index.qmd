@@ -11,7 +11,7 @@ listing:
  #    - /speakers/ines-benachir/   
  #   type: default
  #   max-items: 1
- #   image-height: 300px
+ #   image-height: 350px
  #   page-size: 0 #set as 0 will remove the page setting
  #   sort: 
  #     - "date asc"
