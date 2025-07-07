@@ -178,6 +178,7 @@
       "/speakers/cecilia-springer/index.html",
       "/speakers/shuchen-cong/index.html",
       "/speakers/beia-spiller/index.html",
+      "/speakers/karan-bhuwalka/index.html",
       "/speakers/shanru-tian/index.html",
       "/speakers/mallory-flowers/index.html",
       "/speakers/ines-benachir/index.html",
@@ -233,6 +234,10 @@
   },
   {
     "listing": "/speakers/luo-xu/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/karan-bhuwalka/index.html",
     "items": []
   }
 ]
