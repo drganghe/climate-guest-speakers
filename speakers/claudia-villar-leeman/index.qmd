@@ -1,0 +1,77 @@
+---
+title: "Claudia Villar-Leeman: NYC’s Electricity Grid and Role of Energy Storage"
+description: "NYC’s Electricity Grid and Role of Energy Storage"
+image: /files/headshots/claudia-villar-leeman.jpeg
+author: "Climate Guest Speakers"
+date: "2025-11-17"
+categories: [Climate and Energy, Climate and Industry]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 350px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.linkedin.com/in/claudia-villar-leeman #linkedin profile or personal website
+      image: /files/headshots/claudia-villar-leeman.jpeg
+      title: "Claudia Villar-Leeman"
+#      author: 
+      subtitle: "Sr. Director of Policy and Regulatory Affairs, New York Battery and Energy Storage Technology Consortium"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+
+### Time
+
+{{< meta date >}}  
+
+6:00PM - 7:00PM ET
+
+### Venue 
+
+Online via Zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
+
+## About
+
+Claudia will talk about the history and regulation of electricity in NYC and NYS, and how we can transition to clean energy, including high level on clean energy technologies and energy storage.
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Claudia Villar-Leeman is the Senior Director of Policy and Regulatory Affairs at the New York Battery and Energy Storage Technology Consortium (NY-BEST). 
+
+
+
+## Readings
+
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
