@@ -31,6 +31,26 @@ listing:
  #     - "date asc"
  #     - "title asc"
 
+ - id: fall25-speakers
+   contents: 
+   - /speakers/cecilia-springer/
+   - /speakers/luo-xu/
+   - /speakers/shuchen-cong/
+   - /speakers/karan-bhuwalka/
+   - /speakers/claudia-villar-leeman/
+   - /speakers/beia-spiller/
+   - /speakers/shanru-tian/
+   - /speakers/mallory-flowers/
+   type: grid
+   max-items: 8
+   grid-columns: 4
+   image-height: 250px
+   fields: [image]
+   page-size: 0 #set as 0 will remove the page setting
+   sort: 
+     - "date asc"
+     - "title asc"
+
  - id: spring25-speakers
    contents: 
    - /speakers/ines-benachir/
@@ -52,27 +72,27 @@ listing:
      - "date asc"
      - "title asc"
 
- - id: fall24-speakers
-   contents: 
-    - /speakers/mohsen-fatemi/
-    - /speakers/bharathi-esakkimuthu/
-    - /speakers/samuel-vaillancourt/
-    - /speakers/fabio-passaro/ 
-    - /speakers/liqun-peng/
-    - /speakers/maryam-mozafari/
-    - /speakers/simi-george/
-    - /speakers/kaifang-luo/
-    - /speakers/shirley-gallagher/
-    - /speakers/richard-morse/
-   type: grid
-   max-items: 10
-   grid-columns: 5
-   image-height: 200px
-   fields: [image]
-   page-size: 0 #set as 0 will remove the page setting
-   sort: 
-     - "date asc"
-     - "title asc"
+#  - id: fall24-speakers
+#    contents: 
+#     - /speakers/mohsen-fatemi/
+#     - /speakers/bharathi-esakkimuthu/
+#     - /speakers/samuel-vaillancourt/
+#     - /speakers/fabio-passaro/ 
+#     - /speakers/liqun-peng/
+#     - /speakers/maryam-mozafari/
+#     - /speakers/simi-george/
+#     - /speakers/kaifang-luo/
+#     - /speakers/shirley-gallagher/
+#     - /speakers/richard-morse/
+#    type: grid
+#    max-items: 10
+#    grid-columns: 5
+#    image-height: 200px
+#    fields: [image]
+#    page-size: 0 #set as 0 will remove the page setting
+#    sort: 
+#      - "date asc"
+#      - "title asc"
 ---
 
 <!--Please delete or replace with your own clarity-->
@@ -93,6 +113,10 @@ listing:
 :::
 
 -->
+## Fall 2025 Speakers
+
+:::{#fall25-speakers}
+:::
 
 
 ## Spring 2025 Speakers
@@ -100,7 +124,10 @@ listing:
 :::{#spring25-speakers}
 :::
 
+
+<!--
 ## Fall 2024 Speakers
 
 :::{#fall24-speakers}
 :::
+-->
