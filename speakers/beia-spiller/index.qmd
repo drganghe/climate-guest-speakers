@@ -3,7 +3,7 @@ title: "Beia Spiller: The Transition to a Decarbonized Transport Sector"
 description: "Transporation Decarbonization and Climate Policy"
 image: /files/headshots/beia-spiller.webp
 author: "Climate Guest Speakers"
-date: "2025-10-27"
+date: "2025-10-14"
 categories: [Climate and Energy, Climate New Research]
 #page-layout: full
 #bibliography: references.bib
