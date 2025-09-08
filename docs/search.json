@@ -270,7 +270,7 @@
     "href": "speakers/mallory-flowers/index.html#about",
     "title": "Mallory Flowers: Carbon Disclosure–the Intersect of Public and Private Climate Governance",
     "section": "About",
-    "text": "About\nDr. Flowers will share her research on how companies strategize for decarbonization."
+    "text": "About\nCompanies increasingly report their carbon emissions to demonstrate progress in reducing their carbon footprints—but do disclosures correspond to real reductions in emissions generated? I use research to quantify and understand the extent to which firm emissions reports disclosures are decoupled from actual emissions related to their energy purchases by distinguishing effective versus “non-additional” decarbonization strategies that can mislead stakeholders. This shows how firm strategy deflates reported emissions in response to pressures from both public policies directing firms to improve environmental performance, and from firm strategies like emissions targets.\nSome reporters appear to increase reported emissions by mistake, while others claim zero emissions—without reducing their reliance on carbon-intensive energy sources. These firms achieve environmental progress on paper, and may mean well, but fall short of intended impacts. These outcomes arise through a combination of incidental and strategic green wash that could deceive stakeholders and worsen the climate crisis, though results also suggest pathways to smarter, more effective decarbonization policies and strategies."
   },
   {
     "objectID": "speakers/mallory-flowers/index.html#speaker",
@@ -1412,5 +1412,12 @@
     "title": "Claudia Villar-Leeman: NYC’s Electricity Grid and Role of Energy Storage",
     "section": "Readings",
     "text": "Readings"
+  },
+  {
+    "objectID": "speakers/mallory-flowers/index.html#readings",
+    "href": "speakers/mallory-flowers/index.html#readings",
+    "title": "Mallory Flowers: Carbon Disclosure–the Intersect of Public and Private Climate Governance",
+    "section": "Readings",
+    "text": "Readings\n\nFlowers, Mallory Elise, and Gina M. Jouaneh. 2025. “Present and Unaccounted for? Incidental Greenwash Through Voluntary Carbon Reporting.” Academy of Management Proceedings 2025 (1): 24908. https://doi.org/10.5465/AMPROC.2025.24908abstract."
   }
 ]
