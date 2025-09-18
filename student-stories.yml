@@ -1,3 +1,16 @@
+
+    - path: https://newscenter.baruch.cuny.edu/news/baruch-students-earn-top-public-service-fellowship/
+      image: /files/headshots/dayana-guerrero-uribe.webp
+      title: "Dayana Guerrero Uribe Earns John D. Solomon Fellowship for Public Service"
+      description: "Assigned to NYC Emergency Management in the Government Relations Unit, Uribe (MIA ’26, global security) aims to gain experience in navigating intergovernmental processes, concentrating on legislation and initiatives that center on resilience within vulnerable communities while strengthening her research and public-speaking skills."
+      date: "2025-09-09"
+
+    - path: https://newscenter.baruch.cuny.edu/news/baruch-college-mpa-graduate-student-abraham-lugo-johnson-justice-fellowship/
+      image: https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2025/05/Abraham-Lugo_Johnson-Justice-Fellow.gif
+      title: "Abraham Lugo Selected for Inaugural Johnson Justice Fellowship"
+      description: "Abraham Lugo is seeking a professional and personal life dedicated to building a representative and equitable democracy where all people can live with dignity."
+      date: "2025-05-05"
+
     - path: https://newscenter.baruch.cuny.edu/news/baruch-college-graduate-awarded-new-york-state-legislative-fellowship/
       image: https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2025/03/Catherine-Davis_NYS-Legislative-Fellow-2024_25.gif
       title: "Catherine Davis Awarded Prestigious New York State Senate Legislative Fellowship"
@@ -23,6 +36,12 @@
       title: "LaDorian Morris Wins Excelsior Service Fellowship"
       description: "LaDorian Morris (MPA ’24) is working with the Division of Homeland Security and Emergency Services, Office of Disaster Recovery in Albany."
       date: "2024-10-10"
+
+    - path: https://newscenter.baruch.cuny.edu/news/baruch-graduate-student-wins-a-climate-corps-fellowship/
+      image: https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2023/10/Andrew-Rubenbauer-Headshot_full.jpg
+      title: "Andrew Rubenbauer"
+      description: "Andrew Rubenbauer completed a 12-week fellowship this summer with the Dairy Farmers of America in Kansas City working on projects that help farmers, the planet and climate, and the public."
+      date: "2023-10-25" 
 
     - path: https://marxe.baruch.cuny.edu/homepage/our-community/spotlight-archive/november-2022-student-spotlight/
       image: https://marxe.baruch.cuny.edu/wp-content/uploads/sites/7/2022/10/Lindsey-McCormack-cropped.jpg

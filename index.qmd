@@ -8,7 +8,7 @@ toc: false
 listing:
   - id: featured-speaker
     contents:
-      - /speakers/mallory-flowers/   
+      - /speakers/shanru-tian/   
     type: default
     max-items: 1
     image-height: 300px
@@ -25,7 +25,7 @@ listing:
       - /speakers/karan-bhuwalka/
       - /speakers/claudia-villar-leeman/
       - /speakers/beia-spiller/
-      - /speakers/shanru-tian/
+#      - /speakers/shanru-tian/
 #      - /speakers/mallory-flowers/
     type: grid
     max-items: 3
