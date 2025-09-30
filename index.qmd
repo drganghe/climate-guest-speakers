@@ -8,7 +8,7 @@ toc: false
 listing:
   - id: featured-speaker
     contents:
-      - /speakers/shanru-tian/   
+      - /speakers/karan-bhuwalka/   
     type: default
     max-items: 1
     image-height: 300px
@@ -22,7 +22,7 @@ listing:
       - /speakers/cecilia-springer/
       - /speakers/luo-xu/
       - /speakers/shuchen-cong/
-      - /speakers/karan-bhuwalka/
+#      - /speakers/karan-bhuwalka/
       - /speakers/claudia-villar-leeman/
       - /speakers/beia-spiller/
 #      - /speakers/shanru-tian/

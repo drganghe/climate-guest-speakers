@@ -1,5 +1,5 @@
 ---
-title: "Shanru Tian: Weather, Energy Safety, and Grid Resilience: Harnessing Nature’s Power in the United States"
+title: "Shanru Tian: Weather, Energy Safety, and Grid Resilience--Harnessing Nature’s Power in the United States"
 description: "This talk explores how we can harness nature’s power to build a more resilient energy future."
 image: /files/headshots/shanru-tian.jpeg
 author: "Climate Guest Speakers"
