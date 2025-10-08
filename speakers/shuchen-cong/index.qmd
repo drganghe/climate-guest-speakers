@@ -28,7 +28,7 @@ listing:  #an example of listing external links
       image: /files/headshots/shuchen-cong.jpeg
       title: "Dr. Shuchen Cong"
 #      author: 
-      subtitle: "Researcher II-Policy Analysis, National Renewable Energy Laboratory"
+      subtitle: "Postdoctoral Researcher and Lecturer, Dartmouth College"
 #      date: "2024-03-12"
 #      categories: [] 
 page-navigation: false
