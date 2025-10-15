@@ -8,7 +8,7 @@ toc: false
 listing:
   - id: featured-speaker
     contents:
-      - /speakers/beia-spiller/   
+      - /speakers/shuchen-cong/   
     type: default
     max-items: 1
     image-height: 300px
@@ -21,7 +21,7 @@ listing:
     contents:
       - /speakers/cecilia-springer/
       - /speakers/luo-xu/
-      - /speakers/shuchen-cong/
+#      - /speakers/shuchen-cong/
 #      - /speakers/karan-bhuwalka/
       - /speakers/claudia-villar-leeman/
 #      - /speakers/beia-spiller/
