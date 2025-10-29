@@ -1,7 +1,7 @@
 ---
 title: "Shuchen Cong: Identifying Energy Limiting Behavior and Its Implications"
 description: "Energy equity gap and energy justice"
-image: /files/headshots/shuchen-cong.jpeg
+image: /files/headshots/shuchen-cong.jpg
 author: "Climate Guest Speakers"
 date: "2025-11-03"
 categories: [Climate and Energy, Climate New Research, Climate and Behavior, Climate and Equity]
@@ -24,8 +24,8 @@ listing:  #an example of listing external links
 #  sort-ui: true
 #  filter-ui: true
   contents:
-    - path: https://research-hub.nrel.gov/en/persons/shuchen-cong #linkedin profile or personal website
-      image: /files/headshots/shuchen-cong.jpeg
+    - path: https://irving.dartmouth.edu/people/shuchen-cong #https://scholar.google.com/citations?user=h0PYL20AAAAJ&hl=en linkedin profile or personal website
+      image: /files/headshots/shuchen-cong.jpg
       title: "Dr. Shuchen Cong"
 #      author: 
       subtitle: "Postdoctoral Researcher and Lecturer, Dartmouth College"
