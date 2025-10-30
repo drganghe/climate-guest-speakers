@@ -1,6 +1,6 @@
 ---
 title: "Shuchen Cong: Identifying Energy Limiting Behavior and Its Implications"
-description: "Energy equity gap and energy justice"
+description: "This talk introduces the 'energy equity gap' — a data-driven framework that quantifies when low-income households delay turning on heating or cooling compared to higher-income neighbors."
 image: /files/headshots/shuchen-cong.jpg
 author: "Climate Guest Speakers"
 date: "2025-11-03"
@@ -53,7 +53,7 @@ Online via Zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp
 
 ## About
 
-Dr. Cong will talk about her work on identifying energy limiting behavior and its implications for energy policy.
+Traditional energy poverty metrics like energy burden miss a critical vulnerability: households that reduce energy consumption to save money, often sacrificing comfort and health. This talk introduces the "energy equity gap" — a data-driven framework that quantifies when low-income households delay turning on heating or cooling compared to higher-income neighbors. Drawing from research across multiple climate zones and a pandemic-era survey of 2,000 households, we'll explore how energy limiting behavior manifests differently across regions, who gets left behind by current metrics, and how behavior-based approaches can inform more equitable energy assistance policies and climate adaptation strategies.
 
 ## Speaker
 
@@ -63,7 +63,7 @@ Dr. Cong will talk about her work on identifying energy limiting behavior and it
 
 ### Bio
 
-Dr. Shuchen Cong's work focuses on integrating energy equity analysis with building science and modeling and community engagement in building decarbonization efforts. Her work supports federal and local initiatives to advance energy efficiency, equity, and resilience in disadvantaged communities. She received an PhD in Engineering and Public Policy from Carnegie Mellon University.
+Shuchen Cong is a Postdoctoral Research Fellow at Dartmouth's Irving Institute for Energy and Society and a Lecturer at the Guarini School of Graduate and Advanced Studies. Her research focuses on modeling the system-level impacts of residential and commercial energy behaviors, bridging micro-level decision-making with macro-level planning to inform energy system design and policy. At Dartmouth, she develops tools and frameworks that integrate household- and firm-level energy use patterns into broader models of grid resilience, reliability, and decarbonization.
 
 
 
