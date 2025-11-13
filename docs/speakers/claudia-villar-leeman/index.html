@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,14 +37,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -126,7 +127,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -144,11 +145,11 @@ window.Quarto = {
 
 <link rel="stylesheet" href="../../styles.css">
 <meta property="og:title" content="Claudia Villar-Leeman: NYC’s Electricity Grid and Role of Energy Storage – Climate Guest Speakers">
-<meta property="og:description" content="NYC’s Electricity Grid and Role of Energy Storage">
+<meta property="og:description" content="NYC’s electricity grid and role of energy storage">
 <meta property="og:image" content="http://drganghe.github.io/climate-guest-speakers/files/headshots/claudia-villar-leeman.jpeg">
 <meta property="og:site_name" content="Climate Guest Speakers">
 <meta name="twitter:title" content="Claudia Villar-Leeman: NYC’s Electricity Grid and Role of Energy Storage – Climate Guest Speakers">
-<meta name="twitter:description" content="NYC’s Electricity Grid and Role of Energy Storage">
+<meta name="twitter:description" content="NYC’s electricity grid and role of energy storage">
 <meta name="twitter:image" content="http://drganghe.github.io/climate-guest-speakers/files/headshots/claudia-villar-leeman.jpeg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -160,6 +161,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Climate Guest Speakers</span>
     </a>
@@ -261,7 +264,7 @@ window.Quarto = {
 
 <div>
   <div class="description">
-    NYC’s Electricity Grid and Role of Energy Storage
+    NYC’s electricity grid and role of energy storage
   </div>
 </div>
 
@@ -305,7 +308,7 @@ window.Quarto = {
 </section>
 <section id="about" class="level2">
 <h2 class="anchored" data-anchor-id="about">About</h2>
-<p>Claudia will talk about the history and regulation of electricity in NYC and NYS, and how we can transition to clean energy, including high level on clean energy technologies and energy storage.</p>
+<p>As both New York City and New York State pursue ambitious climate and energy goals, understanding the complexities of the city’s electricity infrastructure has become increasingly critical. The NYC electricity grid operates within a unique regulatory framework that shapes how energy is generated, distributed, stored, and consumed across the five boroughs. With energy storage emerging as a key technology for integrating renewable energy, improving affordability, and enhancing grid resilience, its deployment will play a pivotal role in our collective transition to a cleaner energy future. Claudia will discuss the role of clean electricity in the energy transition, the history and operation of the NYC electricity grid, the electricity regulatory landscape, and the strategic role of energy storage technologies to support New York’s pathway toward achieving a reliable, affordable, and sustainable electricity grid.</p>
 </section>
 <section id="speaker" class="level2">
 <h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
@@ -332,11 +335,12 @@ Sr.&nbsp;Director of Policy and Regulatory Affairs, New York Battery and Energy 
 </div>
 <section id="bio" class="level3">
 <h3 class="anchored" data-anchor-id="bio">Bio</h3>
-<p>Claudia Villar-Leeman is the Senior Director of Policy and Regulatory Affairs at the New York Battery and Energy Storage Technology Consortium (NY-BEST).</p>
+<p>Claudia Villar-Leeman is the Senior Director of Policy and Regulatory Affairs at the New York Battery and Energy Storage Technology Consortium (NY-BEST), where she works to advance market rules, incentive programs, permitting processes, and legislation that will support rapid deployment of energy storage in New York. A New York City native, she brings a deep knowledge of New York’s energy landscape and a commitment to advancing equitable deployment of energy storage and other clean energy technologies. Claudia previously served as an Energy Policy Advisor at the NYC Mayor’s Office of Climate and Environmental Justice, where she led the development of the Office’s long-term energy plan as well as its energy storage portfolio. Claudia holds an M.A.&nbsp;in Climate &amp; Society from Columbia University and a B.A. in Biology from Bowdoin College. She loves spending time outdoors and in 2023 backpacked all 2,200 miles of the Appalachian Trail.</p>
 </section>
 </section>
 <section id="readings" class="level2">
 <h2 class="anchored" data-anchor-id="readings">Readings</h2>
+<p>Mayor’s Office of Climate and Environmental Justice, <a href="https://www.nyc.gov/content/climate/pages/reports-and-publications/powerup-nyc">PowerUp NYC: Planning for a clean, resilient, and equitable energy future</a>.</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -404,13 +408,14 @@ https://quarto.org/docs/authoring/includes.html
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
