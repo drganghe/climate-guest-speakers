@@ -104,20 +104,20 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-upcoming-speakers .list');
+    const listingTargetEl = window.document.querySelector('#listing-fall25-speakers .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-description','listing-author','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-upcoming-speakers'] = new List('listing-upcoming-speakers', options);
+    window['quarto-listings']['listing-fall25-speakers'] = new List('listing-fall25-speakers', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -327,24 +327,24 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 <h2 class="anchored" data-anchor-id="featured-speaker">Featured speaker</h2>
 <div id="listing-featured-speaker" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVuZXJneSUyQ0NsaW1hdGUlMjBhbmQlMjBJbmR1c3RyeQ==" data-listing-date-sort="1763355600000" data-listing-file-modified-sort="1763053053840" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="325">
-<div class="thumbnail"><a href="./speakers/claudia-villar-leeman/index.html" class="no-external">
+<div class="quarto-post image-right" data-index="0" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVuZXJneSUyQ0NsaW1hdGUlMjBOZXclMjBSZXNlYXJjaCUyQ0NsaW1hdGUlMjBhbmQlMjBBSQ==" data-listing-date-sort="1763960400000" data-listing-file-modified-sort="1755607100296" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="481">
+<div class="thumbnail"><a href="./speakers/cecilia-springer/index.html" class="no-external">
 
-<img loading="lazy" data-src="./files/headshots/claudia-villar-leeman.jpeg" class="thumbnail-image" style="height: 300px;">
+<img loading="lazy" data-src="./files/headshots/cecilia-springer.jpg" class="thumbnail-image" style="height: 300px;">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="./speakers/claudia-villar-leeman/index.html" class="no-external">Claudia Villar-Leeman: NYC’s Electricity Grid and Role of Energy Storage</a>
+<a href="./speakers/cecilia-springer/index.html" class="no-external">Cecilia Springer: U.S. Data Center Energy Demand and Emissions</a>
 </h3>
-<div class="delink listing-description"><a href="./speakers/claudia-villar-leeman/index.html" class="no-external">
-<p>NYC’s electricity grid and role of energy storage</p>
+<div class="delink listing-description"><a href="./speakers/cecilia-springer/index.html" class="no-external">
+<p>US Data Center Energy Demand and Emissions</p>
 </a></div>
 </div>
 <div class="metadata">
-<a href="./speakers/claudia-villar-leeman/index.html" class="no-external">
+<a href="./speakers/cecilia-springer/index.html" class="no-external">
 <div class="listing-date">
-Nov 17, 2025
+Nov 24, 2025
 </div>
 <div class="listing-author">
 Climate Guest Speakers
@@ -358,71 +358,88 @@ Climate Guest Speakers
   <ul class="pagination"></ul>
 </nav>
 </div>
+<!--
+## Upcoming Speakers
+
+:::{#upcoming-speakers}
+
+:::
+-->
 </section>
-<section id="upcoming-speakers" class="level2">
-<h2 class="anchored" data-anchor-id="upcoming-speakers">Upcoming Speakers</h2>
-<div id="listing-upcoming-speakers" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVuZXJneSUyQ0NsaW1hdGUlMjBOZXclMjBSZXNlYXJjaCUyQ0NsaW1hdGUlMjBhbmQlMjBBSQ==" data-listing-date-sort="1763960400000" data-listing-file-modified-sort="1755607100296" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="481">
+<section id="fall-2025-speakers" class="level2">
+<h2 class="anchored" data-anchor-id="fall-2025-speakers">Fall 2025 Speakers</h2>
+<div id="listing-fall25-speakers" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-4">
+<div class="g-col-1" data-index="0" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEdvdmVybmFuY2UlMkNDbGltYXRlJTIwTmV3JTIwUmVzZWFyY2g=" data-listing-date-sort="1757908800000" data-listing-file-modified-sort="1757950476918" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="274">
+<a href="./speakers/mallory-flowers/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/mallory-flowers.webp" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVuZXJneQ==" data-listing-date-sort="1759118400000" data-listing-file-modified-sort="1759173472047" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="211">
+<a href="./speakers/shanru-tian/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/shanru-tian.jpeg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVuZXJneSUyQ0NsaW1hdGUlMjBOZXclMjBSZXNlYXJjaCUyQ0NsaW1hdGUlMjBhbmQlMjBJbmR1c3RyeQ==" data-listing-date-sort="1759723200000" data-listing-file-modified-sort="1759951150423" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="234">
+<a href="./speakers/karan-bhuwalka/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/karan-bhuwalka.png" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVuZXJneSUyQ0NsaW1hdGUlMjBOZXclMjBSZXNlYXJjaA==" data-listing-date-sort="1760414400000" data-listing-file-modified-sort="1760538968386" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="205">
+<a href="./speakers/beia-spiller/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/beia-spiller.webp" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVuZXJneSUyQ0NsaW1hdGUlMjBOZXclMjBSZXNlYXJjaCUyQ0NsaW1hdGUlMjBhbmQlMjBCZWhhdmlvciUyQ0NsaW1hdGUlMjBhbmQlMjBFcXVpdHk=" data-listing-date-sort="1762146000000" data-listing-file-modified-sort="1761857421581" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="229">
+<a href="./speakers/shuchen-cong/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/shuchen-cong.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVuZXJneSUyQ0NsaW1hdGUlMjBhbmQlMjBJbmR1c3RyeQ==" data-listing-date-sort="1763355600000" data-listing-file-modified-sort="1763053053840" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="325">
+<a href="./speakers/claudia-villar-leeman/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/claudia-villar-leeman.jpeg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+</div></a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVuZXJneSUyQ0NsaW1hdGUlMjBOZXclMjBSZXNlYXJjaCUyQ0NsaW1hdGUlMjBhbmQlMjBBSQ==" data-listing-date-sort="1763960400000" data-listing-file-modified-sort="1755607100296" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="481">
 <a href="./speakers/cecilia-springer/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" data-src="./files/headshots/cecilia-springer.jpg" class="thumbnail-image card-img" style="height: 240px;">
+<img loading="lazy" data-src="./files/headshots/cecilia-springer.jpg" class="thumbnail-image card-img" style="height: 250px;">
 </p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Cecilia Springer: U.S. Data Center Energy Demand and Emissions
-</h5>
-<div class="card-text listing-description delink">
-<p>US Data Center Energy Demand and Emissions</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Climate Guest Speakers
-</div>
-<div class="listing-date">
-Nov 24, 2025
-</div>
-</div>
-</div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVuZXJneSUyQ0NsaW1hdGUlMjBOZXclMjBSZXNlYXJjaCUyQ0NsaW1hdGUlMjBhbmQlMjBBSQ==" data-listing-date-sort="1764565200000" data-listing-file-modified-sort="1750341742904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
+<div class="g-col-1" data-index="7" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVuZXJneSUyQ0NsaW1hdGUlMjBOZXclMjBSZXNlYXJjaCUyQ0NsaW1hdGUlMjBhbmQlMjBBSQ==" data-listing-date-sort="1764565200000" data-listing-file-modified-sort="1750341742904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
 <a href="./speakers/luo-xu/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" data-src="./files/headshots/luo-xu.jpg" class="thumbnail-image card-img" style="height: 240px;">
+<img loading="lazy" data-src="./files/headshots/luo-xu.jpg" class="thumbnail-image card-img" style="height: 250px;">
 </p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Luo Xu: Towards Resilient and Sustainable Electricity Grids Under Climate Extremes
-</h5>
-<div class="card-text listing-description delink">
-<p>Dr.&nbsp;Xu will discuss his research on climate change and grid resilience.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Climate Guest Speakers
-</div>
-<div class="listing-date">
-Dec 1, 2025
-</div>
-</div>
-</div>
 </div></a>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-<nav id="upcoming-speakers-pagination" class="listing-pagination" aria-label="Page Navigation">
+<nav id="fall25-speakers-pagination" class="listing-pagination" aria-label="Page Navigation">
   <ul class="pagination"></ul>
 </nav>
 </div>
-<!--
-## Fall 2025 Speakers
-
-:::{#fall25-speakers}
-:::
--->
 </section>
 <section id="spring-2025-speakers" class="level2">
 <h2 class="anchored" data-anchor-id="spring-2025-speakers">Spring 2025 Speakers</h2>

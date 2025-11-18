@@ -8,7 +8,7 @@ toc: false
 listing:
   - id: featured-speaker
     contents:
-      - /speakers/claudia-villar-leeman/  
+      - /speakers/cecilia-springer/  
     type: default
     max-items: 1
     image-height: 300px
@@ -17,44 +17,44 @@ listing:
      - "date asc"
      - "title asc"
  
-  - id: upcoming-speakers
-    contents:
-      - /speakers/cecilia-springer/
-      - /speakers/luo-xu/
+#  - id: upcoming-speakers
+#    contents:
+#      - /speakers/cecilia-springer/
+#      - /speakers/luo-xu/
 #      - /speakers/shuchen-cong/
 #      - /speakers/karan-bhuwalka/
 #      - /speakers/claudia-villar-leeman/
 #      - /speakers/beia-spiller/
 #      - /speakers/shanru-tian/
 #      - /speakers/mallory-flowers/
+    # type: grid
+    # max-items: 3
+    # fields: [image, title, subtitle, description, author, date]
+    # image-height: 240px
+    # page-size: 0 #set as 0 will remove the page setting
+    # sort: 
+    #  - "date asc"
+    #  - "title asc"
+
+  - id: fall25-speakers
+    contents: 
+     - /speakers/cecilia-springer/
+     - /speakers/luo-xu/
+     - /speakers/shuchen-cong/
+     - /speakers/karan-bhuwalka/
+     - /speakers/claudia-villar-leeman/
+     - /speakers/beia-spiller/
+     - /speakers/shanru-tian/
+     - /speakers/mallory-flowers/
     type: grid
-    max-items: 3
-    fields: [image, title, subtitle, description, author, date]
-    image-height: 240px
+    max-items: 8
+    grid-columns: 4
+    image-height: 250px
+    fields: [image]
     page-size: 0 #set as 0 will remove the page setting
     sort: 
      - "date asc"
      - "title asc"
-
-#  - id: fall25-speakers
-#    contents: 
-#    - /speakers/cecilia-springer/
-#    - /speakers/luo-xu/
-#    - /speakers/shuchen-cong/
-#    - /speakers/karan-bhuwalka/
-#    - /speakers/claudia-villar-leeman/
-#    - /speakers/beia-spiller/
-#    - /speakers/shanru-tian/
-#    - /speakers/mallory-flowers/
-#    type: grid
-#    max-items: 8
-#    grid-columns: 4
-#    image-height: 250px
-#    fields: [image]
-#    page-size: 0 #set as 0 will remove the page setting
-#    sort: 
-#      - "date asc"
-#      - "title asc"
 
   - id: spring25-speakers
     contents: 
@@ -110,19 +110,20 @@ listing:
 :::{#featured-speaker}
 :::
 
-
+<!--
 ## Upcoming Speakers
 
 :::{#upcoming-speakers}
 
 :::
+-->
 
-<!--
+
 ## Fall 2025 Speakers
 
 :::{#fall25-speakers}
 :::
--->
+
 
 
 ## Spring 2025 Speakers
