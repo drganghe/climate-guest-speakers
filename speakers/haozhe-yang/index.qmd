@@ -1,0 +1,78 @@
+---
+title: "Haozhe Yang: Role of hydrogen in decarbonizing the electricity and hard-to-abate sectors"
+description: "Role of hydrogen in decarbonizing the electricity and hard-to-abate sectors"
+image: /files/headshots/haozhe-yang.jpeg
+author: "Climate Guest Speakers"
+date: "2026-03-23"
+categories: [Climate and Environment, Climate New Research, Climate and Energy]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 350px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://scholar.google.com/citations?hl=en&authuser=1&user=tH4ODHUAAAAJ #linkedin profile or personal website
+      image: /files/headshots/haozhe-yang.jpeg
+      title: "Dr. Haozhe Yang"
+#      author: 
+      subtitle: "Postdoctoral Researcher, Princeton University"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+### Time
+
+{{< meta date >}}    
+
+6:00PM - 7:00PM ET
+
+### Venue 
+Online via Zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
+
+## About
+
+To be added.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Dr. Haozhe Yang is a postdoctoral researcher at Princeton University. He received his Ph.D. in environmental engineering from University of California, Santa Barbara. 
+
+
+## Readings
+
+- Yang, Haozhe, Gang He, Eric Masanet, and Ranjit Deshmukh. 2025. “Economic Benefits and Cost Competitiveness of Green Hydrogen in Decarbonizing China’s Electricity and Hard-to-Electrify Sectors.” *Environmental Research Letters* 20 (12): 124012. <https://doi.org/10.1088/1748-9326/ae1b1f>.
+- Yang, Haozhe, Qian Luo, Gang He, et al. 2024. “Regional Disparities in Health and Employment Outcomes of China’s Transition to a Low-Carbon Electricity System.” *Environmental Research: Energy* 1 (2): 025001. <https://doi.org/10.1088/2753-3751/ad3bb8>.
+
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

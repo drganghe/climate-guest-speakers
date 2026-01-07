@@ -171,6 +171,8 @@
   {
     "listing": "/speakers.html",
     "items": [
+      "/speakers/haozhe-yang/index.html",
+      "/speakers/weila-gong/index.html",
       "/speakers/luo-xu/index.html",
       "/speakers/cecilia-springer/index.html",
       "/speakers/claudia-villar-leeman/index.html",
@@ -240,6 +242,14 @@
   },
   {
     "listing": "/speakers/claudia-villar-leeman/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/haozhe-yang/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/weila-gong/index.html",
     "items": []
   }
 ]
