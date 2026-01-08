@@ -3,7 +3,7 @@ title: "Weila Gong: Implementing a Low-Carbon Future--Climate Leadership in Chin
 description: "Implementing a low-carbon future--climate leadership in Chinese cities"
 image: /files/headshots/weila-gong.jpg
 author: "Climate Guest Speakers"
-date: "2026-02-09"
+date: "2026-02-23"
 categories: [Climate and Governance, Climate New Research]
 #page-layout: full
 #bibliography: references.bib
