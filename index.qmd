@@ -36,7 +36,7 @@ listing:
     #  - "date asc"
     #  - "title asc"
 
-  - id: fall25-speakers
+  - id: 2025-speakers
     contents: 
      - /speakers/cecilia-springer/
      - /speakers/shuchen-cong/
@@ -45,36 +45,46 @@ listing:
      - /speakers/beia-spiller/
      - /speakers/shanru-tian/
      - /speakers/mallory-flowers/
+     - /speakers/ines-benachir/
+     - /speakers/malte-toetzke/    
+     - /speakers/anthony-cheng/
+     - /speakers/guilherme-larangeira/
+     - /speakers/qian-luo/
+     - /speakers/siobhan-watson/
+     - /speakers/kaihui-song/
+     - /speakers/jieru-he/
+     - /speakers/josiah-johnston/     
+
     type: grid
-    max-items: 8
+    max-items: 20
     grid-columns: 4
     image-height: 250px
     fields: [image]
     page-size: 0 #set as 0 will remove the page setting
     sort: 
-     - "date asc"
+     - "date desc"
      - "title asc"
 
-  - id: spring25-speakers
-    contents: 
-      - /speakers/ines-benachir/
-      - /speakers/malte-toetzke/    
-      - /speakers/anthony-cheng/
-      - /speakers/guilherme-larangeira/
-      - /speakers/qian-luo/
-      - /speakers/siobhan-watson/
-      - /speakers/kaihui-song/
-      - /speakers/jieru-he/
-      - /speakers/josiah-johnston/
-    type: grid
-    max-items: 10
-    grid-columns: 5
-    image-height: 200px
-    fields: [image]
-    page-size: 0 #set as 0 will remove the page setting
-    sort: 
-      - "date asc"
-      - "title asc"
+  # - id: spring25-speakers
+  #   contents: 
+  #     - /speakers/ines-benachir/
+  #     - /speakers/malte-toetzke/    
+  #     - /speakers/anthony-cheng/
+  #     - /speakers/guilherme-larangeira/
+  #     - /speakers/qian-luo/
+  #     - /speakers/siobhan-watson/
+  #     - /speakers/kaihui-song/
+  #     - /speakers/jieru-he/
+  #     - /speakers/josiah-johnston/
+  #   type: grid
+  #   max-items: 10
+  #   grid-columns: 5
+  #   image-height: 200px
+  #   fields: [image]
+  #   page-size: 0 #set as 0 will remove the page setting
+  #   sort: 
+  #     - "date asc"
+  #     - "title asc"
 
 #  - id: fall24-speakers
 #    contents: 
@@ -118,16 +128,9 @@ listing:
 -->
 
 
-## Fall 2025 Speakers
+## 2025 Speakers
 
-:::{#fall25-speakers}
-:::
-
-
-
-## Spring 2025 Speakers
-
-:::{#spring25-speakers}
+:::{#2025-speakers}
 :::
 
 

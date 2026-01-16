@@ -1,0 +1,76 @@
+---
+title: "Andrew Rubenbauer: Sustainability Operations at Dairy Farmers of America"
+description: "Sustainability Operations at Dairy Farmers of America"
+image: /files/headshots/andrew-rubenbauer.webp
+author: "Climate Guest Speakers"
+date: "2026-03-02"
+categories: [Climate and Sustainability, Climate and Agriculture]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 350px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.linkedin.com/in/andrewrubenbauer/ #linkedin profile or personal website
+      image: /files/headshots/andrew-rubenbauer.webp
+      title: "Andrew Rubenbauer"
+#      author: 
+      subtitle: "Sustainability Operations, Dairy Farmers of America"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+### Time
+
+{{< meta date >}}    
+
+6:00PM - 7:00PM ET
+
+### Venue 
+Online via Zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
+
+## About
+
+To be added.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Andrew Rubenbauer is the Sustainability Operations Manager at Dairy Farmers of America. He received his MPA from Baruch College. 
+
+
+## Readings
+
+
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

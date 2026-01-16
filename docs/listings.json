@@ -2,22 +2,22 @@
   {
     "listing": "/index.html",
     "items": [
-      "/speakers/mallory-flowers/index.html",
-      "/speakers/shanru-tian/index.html",
-      "/speakers/karan-bhuwalka/index.html",
-      "/speakers/beia-spiller/index.html",
-      "/speakers/shuchen-cong/index.html",
-      "/speakers/claudia-villar-leeman/index.html",
       "/speakers/cecilia-springer/index.html",
-      "/speakers/josiah-johnston/index.html",
-      "/speakers/jieru-he/index.html",
-      "/speakers/kaihui-song/index.html",
-      "/speakers/siobhan-watson/index.html",
-      "/speakers/qian-luo/index.html",
-      "/speakers/guilherme-larangeira/index.html",
-      "/speakers/anthony-cheng/index.html",
+      "/speakers/claudia-villar-leeman/index.html",
+      "/speakers/shuchen-cong/index.html",
+      "/speakers/beia-spiller/index.html",
+      "/speakers/karan-bhuwalka/index.html",
+      "/speakers/shanru-tian/index.html",
+      "/speakers/mallory-flowers/index.html",
+      "/speakers/ines-benachir/index.html",
       "/speakers/malte-toetzke/index.html",
-      "/speakers/ines-benachir/index.html"
+      "/speakers/anthony-cheng/index.html",
+      "/speakers/guilherme-larangeira/index.html",
+      "/speakers/qian-luo/index.html",
+      "/speakers/siobhan-watson/index.html",
+      "/speakers/kaihui-song/index.html",
+      "/speakers/jieru-he/index.html",
+      "/speakers/josiah-johnston/index.html"
     ]
   },
   {
@@ -171,6 +171,7 @@
   {
     "listing": "/speakers.html",
     "items": [
+      "/speakers/andrew-rubenbauer/index.html",
       "/speakers/weila-gong/index.html",
       "/speakers/luo-xu/index.html",
       "/speakers/cecilia-springer/index.html",
@@ -249,6 +250,10 @@
   },
   {
     "listing": "/speakers/weila-gong/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/andrew-rubenbauer/index.html",
     "items": []
   }
 ]
