@@ -171,9 +171,11 @@
   {
     "listing": "/speakers.html",
     "items": [
+      "/speakers/luo-xu/index.html",
+      "/speakers/haozhe-yang/index.html",
+      "/speakers/anthony-afriyie/index.html",
       "/speakers/andrew-rubenbauer/index.html",
       "/speakers/weila-gong/index.html",
-      "/speakers/luo-xu/index.html",
       "/speakers/cecilia-springer/index.html",
       "/speakers/claudia-villar-leeman/index.html",
       "/speakers/shuchen-cong/index.html",
@@ -254,6 +256,10 @@
   },
   {
     "listing": "/speakers/andrew-rubenbauer/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/anthony-afriyie/index.html",
     "items": []
   }
 ]

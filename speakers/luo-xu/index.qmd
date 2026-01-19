@@ -3,7 +3,7 @@ title: "Luo Xu: Towards Resilient and Sustainable Electricity Grids Under Climat
 description: "Dr. Xu will discuss his research on climate change and grid resilience."
 image: /files/headshots/luo-xu.jpg
 author: "Climate Guest Speakers"
-date: "2025-12-01"
+date: "2026-03-30"
 categories: [Climate and Energy, Climate New Research, Climate and AI]
 #page-layout: full
 #bibliography: references.bib
@@ -44,8 +44,6 @@ title-block-banner: false
 ### Time
 
 {{< meta date >}}  
-
-Rescheduled to Spring 2026, date to be announced.
 
 6:00PM - 7:00PM ET
 

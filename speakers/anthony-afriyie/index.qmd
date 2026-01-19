@@ -1,10 +1,10 @@
 ---
-title: "Andrew Rubenbauer: Sustainability Operations at Dairy Farmers of America"
-description: "Sustainability Operations at Dairy Farmers of America"
-image: /files/headshots/andrew-rubenbauer.webp
+title: "Anthony Afriyie: Ocean Economy and Community Development"
+description: "Ocean Economy and Community Development"
+image: /files/headshots/anthony-afriyie.webp
 author: "Climate Guest Speakers"
-date: "2026-03-02"
-categories: [Climate and Sustainability, Climate and Agriculture]
+date: "2026-03-16"
+categories: [Climate and Economy, Climate and Community]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl
@@ -24,11 +24,11 @@ listing:  #an example of listing external links
 #  sort-ui: true
 #  filter-ui: true
   contents:
-    - path: https://www.linkedin.com/in/andrewrubenbauer/ #linkedin profile or personal website
-      image: /files/headshots/andrew-rubenbauer.webp
-      title: "Andrew Rubenbauer"
+    - path: https://www.linkedin.com/in/sovereign365/ #linkedin profile or personal website
+      image: /files/headshots/anthony-afriyie.webp
+      title: "Anthony Afriyie"
 #      author: 
-      subtitle: "Sustainability Operations, Dairy Farmers of America"
+      subtitle: "Community Liaison, Connecticut Port Authority"
 #      date: "2024-03-12"
 #      categories: [] 
 page-navigation: false
@@ -42,7 +42,7 @@ title-block-banner: false
 
 ### Time
 
-{{< meta date >}}  
+{{< meta date >}} (To be confirmed)   
 
 6:00PM - 7:00PM ET
 
@@ -62,7 +62,7 @@ To be added.
 
 ### Bio
 
-Andrew Rubenbauer is the Sustainability Operations Manager at Dairy Farmers of America. He received his MPA from Baruch College. 
+Anthony Afriyie is the Community Liaison at the Connecticut Port Authority. He received his M.P.A. from Baruch College. 
 
 
 ## Readings
