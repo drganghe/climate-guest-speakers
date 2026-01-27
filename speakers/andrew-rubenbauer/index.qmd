@@ -1,6 +1,6 @@
 ---
-title: "Andrew Rubenbauer: Sustainability Operations at Dairy Farmers of America"
-description: "Sustainability Operations at Dairy Farmers of America"
+title: "Andrew Rubenbauer: Sustainable Agriculture--From the Agricultural Revolution to the Dust Bowl to Today"
+description: "Andrew will also share his experiences as sustainability operations manager at Dairy Farmers of America, a national dairy cooperative."
 image: /files/headshots/andrew-rubenbauer.webp
 author: "Climate Guest Speakers"
 date: "2026-03-02"
