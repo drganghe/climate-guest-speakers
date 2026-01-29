@@ -1,6 +1,6 @@
 ---
-title: "Anthony Afriyie: Ocean Economy and Community Development"
-description: "Ocean Economy and Community Development"
+title: "Anthony Afriyie: Climate Policy in Practice"
+description: "Drawing on professional experience working at the intersection of public policy, community engagement, and climate related governance."
 image: /files/headshots/anthony-afriyie.webp
 author: "Climate Guest Speakers"
 date: "2026-03-16"
@@ -42,7 +42,7 @@ title-block-banner: false
 
 ### Time
 
-{{< meta date >}} (To be confirmed)   
+{{< meta date >}}  
 
 6:00PM - 7:00PM ET
 
@@ -51,7 +51,7 @@ Online via Zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp
 
 ## About
 
-To be added.
+The presentation will go over climate policy in practice. The talk will explore how climate policy is developed and implemented from advocacy and organizing then to government decision making and infrastructure investment. I hope to drawing on professional experience working at the intersection of public policy, community engagement, and climate related governance, the discussion will highlight the challenges of translating climate goals into real world outcomes, the importance of institutional design, and the skills needed to operate effectively across public, nonprofit, and political spaces.
 
 
 ## Speaker
@@ -62,13 +62,7 @@ To be added.
 
 ### Bio
 
-Anthony Afriyie is the Community Liaison at the Connecticut Port Authority. He received his M.P.A. from Baruch College. 
-
-
-## Readings
-
-
-
+Anthony Afriyie is the liaison of the Connecticut Port Authority. Also is the President of his City Council. His work centers on translating complex policy frameworks into actionable programs that serve communities while navigating political and institutional constraints.
 
 
 <!--Include social share buttons-->
