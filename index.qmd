@@ -8,7 +8,7 @@ toc: false
 listing:
   - id: featured-speaker
     contents:
-      - /speakers/weila-gong/ 
+      - /speakers/andrew-rubenbauer/ 
     type: default
     max-items: 1
     image-height: 300px
@@ -21,7 +21,6 @@ listing:
     contents:
       - /speakers/haozhe-yang/
       - /speakers/anthony-afriyie/
-      - /speakers/andrew-rubenbauer/
       - /speakers/luo-xu/
     type: grid
     max-items: 3
