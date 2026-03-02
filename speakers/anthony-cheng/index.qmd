@@ -28,7 +28,7 @@ listing:  #an example of listing external links
       image: /files/headshots/anthony-cheng.jpeg
       title: "Anthony Cheng"
 #      author: 
-      subtitle: "Carneigie Mellon University"
+      subtitle: "Carnegie Mellon University"
 #      date: "2024-03-12"
 #      categories: [] 
 page-navigation: false

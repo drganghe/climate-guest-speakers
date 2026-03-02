@@ -13,7 +13,11 @@
     "items": []
   },
   {
-    "listing": "/speakers/piyush-verma/index.html",
+    "listing": "/speakers/anthony-afriyie/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/weila-gong/index.html",
     "items": []
   },
   {
@@ -25,7 +29,11 @@
     "items": []
   },
   {
-    "listing": "/speakers/jinyue-yan/index.html",
+    "listing": "/speakers/andrew-rubenbauer/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/haozhe-yang/index.html",
     "items": []
   },
   {
@@ -33,7 +41,11 @@
     "items": []
   },
   {
-    "listing": "/speakers/maryam-mozafari/index.html",
+    "listing": "/speakers/cecilia-springer/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/richard-morse/index.html",
     "items": []
   },
   {
@@ -61,19 +73,23 @@
     "items": []
   },
   {
-    "listing": "/speakers/carl-mas/index.html",
+    "listing": "/speakers/xiansheng-sun/index.html",
     "items": []
   },
   {
-    "listing": "/speakers/jing-meng/index.html",
+    "listing": "/speakers/anna-goldstein/index.html",
     "items": []
   },
   {
-    "listing": "/speakers/fabio-passaro/index.html",
+    "listing": "/speakers/guilherme-larangeira/index.html",
     "items": []
   },
   {
-    "listing": "/speakers/samuel-vaillancourt/index.html",
+    "listing": "/speakers/yu-zhou/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/parth-vaishnav/index.html",
     "items": []
   },
   {
@@ -85,27 +101,35 @@
     "items": []
   },
   {
+    "listing": "/speakers/karan-bhuwalka/index.html",
+    "items": []
+  },
+  {
     "listing": "/speakers/bharathi-esakkimuthu/index.html",
     "items": []
   },
   {
-    "listing": "/speakers/parth-vaishnav/index.html",
+    "listing": "/speakers/claudia-villar-leeman/index.html",
     "items": []
   },
   {
-    "listing": "/speakers/yu-zhou/index.html",
+    "listing": "/speakers/samuel-vaillancourt/index.html",
     "items": []
   },
   {
-    "listing": "/speakers/guilherme-larangeira/index.html",
+    "listing": "/speakers/fabio-passaro/index.html",
     "items": []
   },
   {
-    "listing": "/speakers/anna-goldstein/index.html",
+    "listing": "/speakers/jing-meng/index.html",
     "items": []
   },
   {
-    "listing": "/speakers/xiansheng-sun/index.html",
+    "listing": "/speakers/carl-mas/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/luo-xu/index.html",
     "items": []
   },
   {
@@ -129,7 +153,11 @@
     "items": []
   },
   {
-    "listing": "/speakers/richard-morse/index.html",
+    "listing": "/speakers/shuchen-cong/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/maryam-mozafari/index.html",
     "items": []
   },
   {
@@ -138,6 +166,10 @@
   },
   {
     "listing": "/speakers/guest-speaker/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/jinyue-yan/index.html",
     "items": []
   },
   {
@@ -150,6 +182,10 @@
   },
   {
     "listing": "/speakers/mohsen-fatemi/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/piyush-verma/index.html",
     "items": []
   },
   {
@@ -212,42 +248,6 @@
   },
   {
     "listing": "/students.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/cecilia-springer/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/shuchen-cong/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/luo-xu/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/karan-bhuwalka/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/claudia-villar-leeman/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/haozhe-yang/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/weila-gong/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/andrew-rubenbauer/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/anthony-afriyie/index.html",
     "items": []
   }
 ]

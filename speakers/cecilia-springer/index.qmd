@@ -53,7 +53,7 @@ Online via Zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp
 
 ## About
 
-The rising demand for data processing and storage, driven by advancements in AI and large-scale computing, has raised concerns about the energy use and emissions profiles of new data centers in the U.S. and globally. With data centers in the U.S. rapidly expanding, their energy and emissions footprint will largely depend on the technologies and pathways adopted. Dr. Springer leads a report examines the geographical distribution, projected energy and emissions impacts, and state-level regulations affecting data center development, aiming to provide policymakers and stakeholders with insights to guide decisions on siting, construction, operations, and grid planning for low-carbon growth in computing demand. Dr. Springer will share her insights on the report.
+The rising demand for data processing and storage, driven by advancements in AI and large-scale computing, has raised concerns about the energy use and emissions profiles of new data centers in the U.S. and globally. With data centers in the U.S. rapidly expanding, their energy and emissions footprint will largely depend on the technologies and pathways adopted. Dr. Springer leads a report that examines the geographical distribution, projected energy and emissions impacts, and state-level regulations affecting data center development, aiming to provide policymakers and stakeholders with insights to guide decisions on siting, construction, operations, and grid planning for low-carbon growth in computing demand. Dr. Springer will share her insights on the report.
 
 
 ## Speaker
