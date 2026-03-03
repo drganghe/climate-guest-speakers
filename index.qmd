@@ -8,7 +8,7 @@ toc: false
 listing:
   - id: featured-speaker
     contents:
-      - /speakers/andrew-rubenbauer/ 
+      - /speakers/anthony-afriyie/
     type: default
     max-items: 1
     image-height: 300px
@@ -20,7 +20,6 @@ listing:
   - id: upcoming-speakers
     contents:
       - /speakers/haozhe-yang/
-      - /speakers/anthony-afriyie/
       - /speakers/luo-xu/
     type: grid
     max-items: 3
