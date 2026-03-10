@@ -17,12 +17,29 @@ listing:
      - "date asc"
      - "title asc"
  
-  - id: upcoming-speakers
+  # - id: upcoming-speakers
+  #   contents:
+  #     - /speakers/haozhe-yang/
+  #     - /speakers/luo-xu/
+  #   type: grid
+  #   max-items: 3
+  #   image-height: 240px
+  #   page-size: 0 #set as 0 will remove the page setting
+  #   sort: 
+  #    - "date asc"
+  #    - "title asc"
+
+
+  - id: 2026-speakers
     contents:
-      - /speakers/haozhe-yang/
-      - /speakers/luo-xu/
+     - /speakers/haozhe-yang/
+     - /speakers/luo-xu/
+     - /speakers/anthony-afriyie/
+     - /speakers/weila-gong/
+     - /speakers/elisabeth-cohen/
+     - /speakers/andrew-rubenbauer/
     type: grid
-    max-items: 3
+    max-items: 6
     image-height: 240px
     page-size: 0 #set as 0 will remove the page setting
     sort: 
@@ -113,6 +130,14 @@ listing:
 :::
 
 
+
+## 2026 Speakers
+
+:::{#2026-speakers}
+:::
+
+
+<!--
 ## Upcoming Speakers
 
 :::{#upcoming-speakers}
@@ -120,14 +145,6 @@ listing:
 :::
 
 
-<!--
-## 2025 Speakers
-
-:::{#2025-speakers}
-:::
--->
-
-<!--
 ## Fall 2024 Speakers
 
 :::{#fall24-speakers}

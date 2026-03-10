@@ -1,0 +1,73 @@
+---
+title: "Elisabeth Cohen: TBD"
+description: "Elisabeth Cohen will discuss TBD."
+image: "/files/headshots/you.png"
+author: "Climate Guest Speakers"
+date: "2026-04-13"
+categories: [Climate and Community]
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 350px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.linkedin.com/in/elisabeth-cohen-9852274/#linkedin profile or personal website
+      image: "/files/headshots/you.png"
+      title: "Elisabeth Cohen"
+#      author: 
+      subtitle: ""
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+{{< meta title >}}
+
+### Time
+
+{{< meta date >}}  
+
+6:00PM - 7:00PM ET
+
+### Venue 
+Online via Zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
+
+## About
+
+Elizabeth Cohen will discuss TBD.
+
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Elisabeth Cohen is an environmental science practitioner with experience in environmental and energy policy, training, teaching, and science communication. 
+
+
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
