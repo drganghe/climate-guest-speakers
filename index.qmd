@@ -8,7 +8,7 @@ toc: false
 listing:
   - id: featured-speaker
     contents:
-      - /speakers/anthony-afriyie/
+      - /speakers/haozhe-yang/
     type: default
     max-items: 1
     image-height: 300px
