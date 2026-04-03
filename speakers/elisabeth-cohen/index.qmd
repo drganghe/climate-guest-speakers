@@ -1,7 +1,7 @@
 ---
-title: "Elisabeth Cohen: TBD"
-description: "Elisabeth Cohen will discuss TBD."
-image: "/files/headshots/you.png"
+title: "Elisabeth Cohen: Reflections on Climate Change from a Mile High"
+description: "Elisabeth Cohen will discuss her experiences working in the climate field and her reflections on the climate crisis."
+image: "/files/headshots/elisabeth-cohen.jpg"
 author: "Climate Guest Speakers"
 date: "2026-04-13"
 categories: [Climate and Community]
@@ -25,10 +25,10 @@ listing:  #an example of listing external links
 #  filter-ui: true
   contents:
     - path: https://www.linkedin.com/in/elisabeth-cohen-9852274/#linkedin profile or personal website
-      image: "/files/headshots/you.png"
+      image: "/files/headshots/elisabeth-cohen.jpg"
       title: "Elisabeth Cohen"
 #      author: 
-      subtitle: ""
+      subtitle: "Senior Program Manager/Advisor, Talking Climate Collaborative"
 #      date: "2024-03-12"
 #      categories: [] 
 page-navigation: false
@@ -51,7 +51,7 @@ Online via Zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp
 
 ## About
 
-Elizabeth Cohen will discuss TBD.
+We are in changing times with our climate, technology and politics.  How do students, who are also navigating a time of transition prepare to make a difference?  What might you expect and advice from over 25 years of experience in the field. 
 
 
 ## Speaker
