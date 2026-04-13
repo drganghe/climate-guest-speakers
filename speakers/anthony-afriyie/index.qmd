@@ -4,7 +4,7 @@ description: "Drawing on professional experience working at the intersection of 
 image: /files/headshots/anthony-afriyie.webp
 author: "Climate Guest Speakers"
 date: "2026-03-16"
-categories: [Climate and Economy, Climate and Community]
+categories: [Climate and Economy, Climate and Community, Climate and Career]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl

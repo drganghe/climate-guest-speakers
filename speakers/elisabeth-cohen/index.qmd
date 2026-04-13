@@ -4,7 +4,7 @@ description: "Elisabeth Cohen will discuss her experiences working in the climat
 image: "/files/headshots/elisabeth-cohen.jpg"
 author: "Climate Guest Speakers"
 date: "2026-04-13"
-categories: [Climate and Community]
+categories: [Climate and Community, Climate and Career]
 #page-layout: full
 #bibliography: references.bib
 #csl: chicago-syllabus.csl
