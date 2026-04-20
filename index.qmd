@@ -8,7 +8,7 @@ toc: false
 listing:
   - id: featured-speaker
     contents:
-      - /speakers/elisabeth-cohen/
+      - /speakers/luo-xu/
     type: default
     max-items: 1
     image-height: 300px
