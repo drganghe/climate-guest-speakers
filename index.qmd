@@ -6,16 +6,16 @@ page-layout: full
 toc: false
 
 listing:
-  - id: featured-speaker
-    contents:
-      - /speakers/luo-xu/
-    type: default
-    max-items: 1
-    image-height: 300px
-    page-size: 0 #set as 0 will remove the page setting
-    sort: 
-     - "date asc"
-     - "title asc"
+  # - id: featured-speaker
+  #   contents:
+  #     - /speakers/luo-xu/
+  #   type: default
+  #   max-items: 1
+  #   image-height: 300px
+  #   page-size: 0 #set as 0 will remove the page setting
+  #   sort: 
+  #    - "date asc"
+  #    - "title asc"
  
   # - id: upcoming-speakers
   #   contents:
@@ -123,12 +123,12 @@ listing:
 {{< include /files/includes/_msclarity.qmd >}}
 
 
-
+<!--
 ## Featured speaker
 
 :::{#featured-speaker}
 :::
-
+-->
 
 
 ## 2026 Speakers

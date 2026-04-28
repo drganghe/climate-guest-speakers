@@ -78,34 +78,6 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-featured-speaker .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-featured-speaker'] = new List('listing-featured-speaker', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-2026-speakers .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -290,42 +262,12 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ktfar1v3c9");
 </script>
-<section id="featured-speaker" class="level2">
-<h2 class="anchored" data-anchor-id="featured-speaker">Featured speaker</h2>
-<div id="listing-featured-speaker" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Q2xpbWF0ZSUyMGFuZCUyMEVuZXJneSUyQ0NsaW1hdGUlMjBOZXclMjBSZXNlYXJjaCUyQ0NsaW1hdGUlMjBhbmQlMjBBSQ==" data-listing-date-sort="1777262400000" data-listing-file-modified-sort="1772477708069" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="499">
-<div class="thumbnail"><a href="./speakers/luo-xu/index.html" class="no-external">
+<!--
+## Featured speaker
 
-<img loading="lazy" data-src="./files/headshots/luo-xu.jpg" class="thumbnail-image" style="height: 300px;">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./speakers/luo-xu/index.html" class="no-external">Luo Xu: Towards Resilient and Sustainable Electricity Grids Under Climate Extremes</a>
-</h3>
-<div class="delink listing-description"><a href="./speakers/luo-xu/index.html" class="no-external">
-<p>Dr.&nbsp;Xu will discuss his research on climate change and grid resilience.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./speakers/luo-xu/index.html" class="no-external">
-<div class="listing-date">
-Apr 27, 2026
-</div>
-<div class="listing-author">
-Climate Guest Speakers
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-<nav id="featured-speaker-pagination" class="listing-pagination" aria-label="Page Navigation">
-  <ul class="pagination"></ul>
-</nav>
-</div>
-</section>
+:::{#featured-speaker}
+:::
+-->
 <section id="speakers" class="level2">
 <h2 class="anchored" data-anchor-id="speakers">2026 Speakers</h2>
 <div id="listing-2026-speakers" class="quarto-listing quarto-listing-container-grid">
