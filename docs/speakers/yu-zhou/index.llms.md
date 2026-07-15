@@ -1,0 +1,51 @@
+# Yu Zhou: China’s Models of Innovation
+
+Climate New Research
+
+Climate and Innovation
+
+Chinese innovation is diverse across industries and enterprises and fluid over time
+
+Author
+
+Climate Guest Speakers
+
+Published
+
+October 27, 2017
+
+## Title
+
+Yu Zhou: China’s Models of Innovation
+
+### Time
+
+October 27, 2017
+
+10:30AM - 11:30AM ET
+
+### Venue
+
+1441 Old Computer Science
+
+Stony Brook University
+
+## About
+
+Innovation originated in China has received growing international attention, yet there are many questions about the nature and models of Chinese innovation and its sustainability. Based on the experts’ analysis of ten major manufacturing sectors including traditional industries such as mechanical engineering, railroads, and automobiles; rapidly evolving and internationally highly integrated industries such as information-and communication-technology (ICT); and newly emerging sectors such as wind and solar energy, we learned that Chinese innovation is diverse across industries and enterprises and fluid over time. Nevertheless, key characteristics have emerged to compose of Chinese innovation models.
+
+## Speaker
+
+![](../../files/headshots/yu-zhou.jpg)
+
+##### Dr. Yu Zhou
+
+Professor, Vassar College
+
+### Bio
+
+Dr. Yu Zhou received Bachelor and Master’s degree from Department of Regional and Environmental Sciences (formerly Geography) in Peking University, China, and received Ph.D. in geography from University of Minnesota in 1995. Her current research is on globalization and high-tech industry in China. More recently she has done researched into China’s green building program. In the United States, her works are more in the areas of ethnic business, gender and ethnic communities, and transnational business networks. In 2008, she was selected as one of the twenty Public Intellectual Fellows by the National Committee on US-China Relations. She has been interviewed by New York Times, and Washington Post, Voice of America among others.
+
+## Readings
+
+- Zhou, Edited by Yu, William Lazonick, and and Yifei Sun, eds. 2016. [China as an Innovation Nation](https://global.oup.com/academic/product/china-as-an-innovation-nation-9780198753568?cc=us&lang=en&). Oxford, New York: Oxford University Press.

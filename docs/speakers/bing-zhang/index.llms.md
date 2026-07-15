@@ -1,0 +1,51 @@
+# Bing Zhang: Social Media, Information and Demand for Environmental Quality–Evidence from “Under the Dome”
+
+Climate New Research
+
+Climate and Environment
+
+Estimates the effect of mass media on public willingness to pay (WTP) for better environmental quality
+
+Author
+
+Climate Guest Speakers
+
+Published
+
+October 2, 2017
+
+## Title
+
+Bing Zhang: Social Media, Information and Demand for Environmental Quality–Evidence from “Under the Dome”
+
+### Time
+
+October 2, 2017
+
+2PM - 3PM ET
+
+### Venue
+
+1441 Old Computer Science
+
+Stony Brook University
+
+## About
+
+This paper estimates the effect of mass media on public willingness to pay (WTP) for better environmental quality. We exploit the exogenous shock of the environmental documentary “Under the Dome” with a regression discontinuity design by using its release as the assignment and the number of days away from the release date as the running variable. Using longitudinal survey data collected in Nanjing, China, we find that “Under the Dome” increases people’s WTP for better air quality by 24.9%, which is equivalent to an increment of CNY 1226 per capita. Further analysis reveals that mass media affect people’s WTP by increasing their awareness of environmental pollution and level of risk perception. Our results also suggest that the documentary has a long-term effect.
+
+## Speaker
+
+![](../../files/headshots/bing-zhang.jpg)
+
+##### Dr. Bing Zhang
+
+Professor, Nanjing University
+
+### Bio
+
+Dr. Bing ZHANG is a professor of environmental policy at School of Environment and School of Government at Nanjing University. He is also the director of Center for Environmental Management and Policy Analysis which is supported by Nanjing University and Jiangsu Environmental Protection Department. He holds a doctorate in Environmental Planning and Management from Nanjing University and Rutgers University. His research focuses on environmental governance system in China. He examines detailed regulation design on regulating pollution and GHGs in China, as well as its impacts on industrial competitiveness, structural dynamics and social welfare.
+
+## Readings
+
+- Meng Tu, Bing Zhang, Jianhua Xu, Fangwen Lu. Mass media, information and demand for environmental quality: Evidence from the “Under the Dome”, *Journal of Development Economics*, 2020, 143 :102402. <https://doi.org/10.1016/j.jdeveco.2019.102402>

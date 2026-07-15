@@ -1,0 +1,47 @@
+# Yue Zhao: How Should We Pay the Renewables?
+
+Climate New Research
+
+Climate and Markets
+
+Offer promising results on how we should pay renewables in bulk power markets
+
+Author
+
+Climate Guest Speakers
+
+Published
+
+November 14, 2018
+
+## Title
+
+Yue Zhao: How Should We Pay the Renewables?
+
+### Time
+
+November 14, 2018
+
+7PM - 8PM ET
+
+### Venue
+
+1441 Old Computer Science
+
+Stony Brook University
+
+## About
+
+The penetration of renewable energies into our power systems has taken off drastically in recent years. Both utility-scale wind and solar farms as well as small-scale distributed energy resources (DERs), notably rooftop solar, are major ingredients of this transition. Related to the engineering solutions of compensating for the intermittency of renewable energies, a prominent concerning question is how should we pay the renewable energies, so that the integration of renewables can be sustained in the long run to reach the ambitious levels many countries and states are targeting. This talk will a) take an in-depth look into the current practice and its issues, b) provide a case study of what happens when peer-to-peer solar energy trading is implemented in a net-metered community, c) offer promising results on how we should pay renewables in bulk power markets.
+
+## Speaker
+
+![](../../files/headshots/yue-zhao.jpg)
+
+##### Dr. Yue Zhao
+
+Assistant Professor, Stony Brook University
+
+### Bio
+
+I am an Assistant Professor of Electrical and Computer Engineering at Stony Brook University. I am also an affiliated faculty member of Applied Mathematics and Statistics. Before joining Stony Brook University, I was a postdoctoral scholar with the Electrical Engineering Departments at Stanford University and Princeton University. I received my Ph.D. degree in Electrical Engineering from University of California, Los Angeles (UCLA) in 2011. I received my B.E. degree from the Department of Electronic Engineering at Tsinghua University in 2006.

@@ -87,31 +87,7 @@
     "items": []
   },
   {
-    "listing": "/speakers/yu-zhou/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/parth-vaishnav/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/jieru-he/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/ines-benachir/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/karan-bhuwalka/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/bharathi-esakkimuthu/index.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/claudia-villar-leeman/index.html",
+    "listing": "/speakers/fabio-passaro/index.html",
     "items": []
   },
   {
@@ -119,7 +95,35 @@
     "items": []
   },
   {
-    "listing": "/speakers/fabio-passaro/index.html",
+    "listing": "/speakers/claudia-villar-leeman/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/bharathi-esakkimuthu/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/karan-bhuwalka/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/ines-benachir/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/jieru-he/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/parth-vaishnav/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/yu-zhou/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/elisabeth-cohen/index.html",
     "items": []
   },
   {
@@ -251,10 +255,6 @@
   },
   {
     "listing": "/students.html",
-    "items": []
-  },
-  {
-    "listing": "/speakers/elisabeth-cohen/index.html",
     "items": []
   }
 ]

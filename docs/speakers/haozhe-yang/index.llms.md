@@ -1,0 +1,54 @@
+# Haozhe Yang: Incorporating societal factors in macro energy system modeling
+
+Climate and Environment
+
+Climate New Research
+
+Climate and Energy
+
+Incorporating societal factors in macro energy system modeling
+
+Author
+
+Climate Guest Speakers
+
+Published
+
+March 23, 2026
+
+## Title
+
+Haozhe Yang: Incorporating societal factors in macro energy system modeling
+
+### Time
+
+March 23, 2026
+
+6:00PM - 7:00PM ET
+
+### Venue
+
+Online via Zoom. Please [register](https://baruch.zoom.us/meeting/register/ZvRnp4MmTHSyn4DRzAr3sw) to participate.
+
+## About
+
+Societal factors, including the socioeconomic and institutional factors, are playing a bigger role in the energy transition. However, these social factors have not been fully incorporated into the macro-energy system models that are widely used for policymaking. My research incorporates societal factors into the macro energy system modeling to reflect the interaction between the energy transition and the human society. On the one hand, I will discuss how societal factors reduce the cost of the energy system, using examples such as the global transcontinental power pools and the integration of the electricity and hard-to-abate sectors. I will also talk about my recent research on how trade policy uncertainty affects energy investment. On the other hand, I will introduce how the energy transition influences societal factors such as health and employment, with a particular focus on China’s low-carbon transition in its power system.
+
+## Speaker
+
+![](../../files/headshots/haozhe-yang.jpeg)
+
+##### Dr. Haozhe Yang
+
+Postdoctoral Researcher, Princeton University
+
+### Bio
+
+Haozhe Yang is currently a postdoctoral researcher at the Andlinger Center for Energy and the Environment at Princeton University. He holds a Ph.D. in Environmental Science and Management from the University of California, Santa Barbara, and an M.S. in Environmental Science from Peking University. Haozhe is an energy system modeler and energy policy scientist. His research examines how technological and institutional factors shape the energy transition and the resulting socioeconomic impacts.
+
+## Readings
+
+1.  [Sell America: Panic Markets Plunge Amid Trump’s Tariff Chaos](https://moderndiplomacy.eu/2026/02/23/sell-america-panic-markets-plunge-amid-trumps-tariff-chaos/).
+2.  Yang, Haozhe, Ranjit Deshmukh, and Sangwon Suh. “[Global transcontinental power pools for low-carbon electricity](https://www.nature.com/articles/s41467-023-43723-z).” *Nature Communications* 14.1 (2023): 8350.
+3.  Yang, Haozhe, et al. “[Economic benefits and cost competitiveness of green hydrogen in decarbonizing China’s electricity and hard-to-electrify sectors](https://iopscience.iop.org/article/10.1088/1748-9326/ae1b1f).” *Environmental Research Letters* 20.12 (2025): 124012.
+4.  Yang, Haozhe, et al. “[Regional disparities in health and employment outcomes of China’s transition to a low-carbon electricity system](https://iopscience.iop.org/article/10.1088/2753-3751/ad3bb8).” *Environmental Research: Energy* 1.2 (2024): 025001.

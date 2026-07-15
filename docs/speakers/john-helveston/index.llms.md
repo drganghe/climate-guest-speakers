@@ -1,0 +1,51 @@
+# John Helveston: China’s Role in a Low-Carbon Future–EV and Manufacturing Scale-Up
+
+Climate New Research
+
+Climate and Energy
+
+Achieving climate goals requirescollaboration with China, which has emerged as the global leader in the mass production of low-carbon energy technologies (LCETs)
+
+Author
+
+Climate Guest Speakers
+
+Published
+
+March 10, 2022
+
+## Title
+
+John Helveston: China’s Role in a Low-Carbon Future–EV and Manufacturing Scale-Up
+
+### Time
+
+March 10, 2022
+
+1:15PM - 2:30PM ET
+
+### Venue
+
+Online via Zoom.
+
+## About
+
+Meeting the goals of the Paris Agreement will require net zero greenhouse emissions by 2050 and substantial reductions before then. It will also require collaboration with China, which has emerged as the global leader in the mass production of low-carbon energy technologies (LCETs). In part because of China’s investments in manufacturing, the LCETs required to meet climate targets have become increasingly cost-competitive with fossil fuel sources (1). But some attribute China’s rapid rise in LCET sectors to unfair industrial policies—such as forced technology transfer requirements, massive subsidies, and outright intellectual property (IP) theft—aimed at strategically dominating the next generation of energy technologies (2). Trade relations between China and the world are currently unsettled, especially with the United States, a leading producer of both LCET research and development (R&D) and greenhouse gas (GHG) emissions. Against this backdrop, we outline why engaging with China is the more promising path to accelerate the global deployment of LCETs and to rapidly bring new technologies to mass production.
+
+## Speaker
+
+![](../../files/headshots/john-helveston.jpg)
+
+##### Dr. John Helveston
+
+Assistant Professor, George Washington University
+
+### Bio
+
+John Paul Helveston is an Assistant Professor in the Department of Engineering Management and Systems Engineering at the George Washington University. He studies technological change, with a particular interest in accelerating the transition to environmentally sustainable and energy-saving technologies. His research centers around how consumer preferences, market dynamics, and policy affect the emergence of critical technologies, such as electric vehicles and solar energy. He is an expert on China’s rapidly emerging electric vehicle industry as well as the critical relationship between the US and China in developing and mass producing low carbon energy technologies. He applies an interdisciplinary approach to research, with expertise in discrete choice modeling and conjoint analysis as well as interview-based case studies. He has conducted extensive fieldwork in China, collaborating with colleagues at Beijing Normal University and China’s State Information Center on past projects. He is a fluent speaker of Mandarin Chinese and also an award-winning swing dancer. John holds a Ph.D. and M.S. in Engineering and Public Policy from Carnegie Mellon University and a B.S. in Engineering Science and Mechanics from Virginia Tech.
+
+## Readings
+
+- Helveston, J.P., Wang, Y., Karplus, V.J., & Fuchs, E.R.H. (2019) “Institutional Complementarities: The Origins of Experimentation in China’s Plug-in Electric Vehicle Industry” *Research Policy*. 48(1), pg. 206-222. DOI: 10.1016/j.respol.2018.08.006
+
+- Helveston, John P. & Nahm, Jonas (2019) “China’s key role in scaling low-carbon energy technologies” *Science*. 366(6467), pg. 794-796. DOI: 10.1126/science.aaz1014

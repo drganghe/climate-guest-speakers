@@ -1,0 +1,41 @@
+# Shirley Gallagher: My Sustainable Journey and the Skills Used to Contribute to Climate Solutions
+
+Climate and Career
+
+Dr Gallagher will share on her career, from labs, to sales, from contaminated land, water, calibration and then diverging into training.
+
+Author
+
+Climate Guest Speakers
+
+Published
+
+September 23, 2024
+
+## Title
+
+My Sustainable Journey and the skills used to contribute to climate solutions
+
+### Time
+
+Monday, September 23, 2024, 6:00PM - 7:00PM ET
+
+### Venue
+
+Online via Zoom. Please [register](https://forms.gle/65hnhJPmnYaz5utG9) to participate.
+
+## About
+
+I will bring you on a journey from London to a tiny island, 7 square miles in the Atlantic ocean, to crazy days in Belfast and a meandering path to Cork, Ireland. I will share on my career, from labs, to sales, from contaminated land, water, calibration and then diverging into training. As a consultant in technical auditing, business development, sustainable development, data analytics, energy, and the circular economy. To where I am now, in a startup, on the cusp of the next big thing, being able to reuse used rechargeable batteries in a safe way, extending their life and avoiding carbon. Networking is something that comes easily, I am in many clubs, a Fellow of IEMA, a Toastmaster, a Climate Reality Leader and an EU pact ambassador. As a founding member of the global Sustainable Speakers Club, a Toastmaster International club that supports everyone interested in pursuing clarity in sustainable communication.
+
+## Speaker
+
+![](../../files/headshots/shirley-gallagher.jpg)
+
+##### Dr. Shirley Gallagher
+
+SysPro:Systems for Progress
+
+### Bio
+
+Dr. Shirley Gallagher is a big picture sustainability thinker. She is a sustainability coach and mentor to companies. She is a Fellow of IEMA, a Toastmaster, a Climate Reality Leader and an EU pact ambassador. Dr Gallagher is an Irish director in 2 companies focused on sustainability issues. SysPro: Systems for Progress Limited, a boutique consultancy in executive coaching. Second Life Battery Services (SLBS), a circular economy business focused on recovery and second use of rechargeable batteries. SLBS is currently seed funding to begin changing the existing battery landscape. When not working, she can be found at a beach. E-mail: sgallagher\[at\]syspro\[dot\]ie

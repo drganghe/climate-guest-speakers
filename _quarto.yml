@@ -10,6 +10,7 @@ website:
   title: "Climate Guest Speakers"
   image: "/files/headshots/you.png"
   description: "Guest speakers in the Energy and Climate Policy and Energy, Climate, and Society classes. Keywords: Climate speakers, climate and community, climate and markets, climate insights."
+  llms-txt: true
  
   navbar:
 #    background: "#05336B"

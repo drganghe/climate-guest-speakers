@@ -1,0 +1,47 @@
+# Carl Mas: New York State’s Energy Transition
+
+Climate and Energy
+
+Climate and Governance
+
+Climate and Community
+
+Role of the New State Energy Research and Development Authority (NYSERDA) in New York State energy policy analysis and implementation
+
+Author
+
+Climate Guest Speakers
+
+Published
+
+April 28, 2021
+
+## Title
+
+Carl Mas: New York State’s Energy Transition
+
+### Time
+
+April 28, 2021
+
+6:00PM - 7:00PM ET
+
+### Venue
+
+Online via Zoom.
+
+## About
+
+In this lecture, Carl Mas will describe the role of the New State Energy Research and Development Authority (NYSERDA) in New York State energy policy analysis and implementation, review New York’s landmark climate legislation that provides guiding principles for New York State energy policy making, describe historical trends in New York energy use, and provide a detailed review of potential New York State pathways to deep decarbonization. He will also discuss approaches to project management at NYSERDA.
+
+## Speaker
+
+![](../../files/headshots/carl-mas.jpeg)
+
+##### Carl Mas
+
+New State Energy Research and Development Authority
+
+### Bio
+
+Carl Mas is Director of NYSERDA’s Energy and Environmental Analysis Department and has responsibility for analysis in support of policy and program planning as well as the oversight of NYSERDA’s environmental research portfolio. The energy planning support includes the Authority’s efforts with respect to the Regional Greenhouse Gas Initiative, the New York State Energy Plan, and the Climate Action Council Scoping Plan. Carl also oversees the state’s fuels market intelligence and data collection activities, energy emergency planning, and energy price forecasting and systems modeling. The environmental research activities include the provision of energy-related environmental accountability through analysis of long-term monitoring records and modeling as well as the evaluation of the effectiveness of energy-related environmental protection strategies to support regulatory processes. Before rejoining NYSERDA, Carl was a Manager working at Columbia University’s Earth Institute, principally in charge of the UN Sustainable Develop Solutions Network’s Deep Decarbonization Pathways Project, which consisted of 15 country research teams composed of over 30 leading research institutions from countries representing 70% global greenhouse gas emissions. Carl also previously held the position of Senior Project Manager in NYSERDA’s Energy Analysis Group, where he managed projects and served as a policy and program advisor in the areas of renewable energy, climate change mitigation, environmental impacts of energy systems, and alternative transportation fuels. Carl also worked as a researcher at two U.S. Department of Energy National Laboratories: Sandia National Laboratory and the National Renewable Energy Laboratory; as an energy systems analyst and team leader for a start-up fuel cell company; and as a consultant for a not-for-profit international development organization focused on renewable energy policy development and market growth. Carl received a dual Masters in Science from the University of California, Berkeley, in Mechanical Engineering and Energy & Resources.
